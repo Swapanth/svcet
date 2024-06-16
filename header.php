@@ -169,7 +169,7 @@
 													<ul class="dropdown-menu">
 														<li><a href="NSS.php">NSS</a></li>
 														<li><a href="soon.php">IQAC</a></li>
-														<li><a href="soon.php">ALUMINI</a></li>
+														<li><a href="alumini.php">ALUMINI</a></li>
 														<li><a href="soon.php">PROFESSIONAL BODIES</a></li>
 														<li><a href="soon.php">STUDENT CHAPTERS</a></li>
 														<li><a href="soon.php">EVENTS GALLERY</a></li>
