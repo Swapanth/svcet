@@ -113,7 +113,7 @@
 								<div class="header-logo header-logo-sticky-change" style="width: 82px; height: 40px;margin-Top:-19px;">
 									<a href="index.php">
 										<img class="header-logo-non-sticky opacity-0" alt="Porto" width="600" height="90" src="img/svcet.svg" style="margin-Top:-12px; margin-left:-100px;">
-										<img class="header-logo-sticky opacity-0" alt="Porto" width="170" height="100px" src="img/I2.png" style="margin-bottom: 20px;">
+										<img class="header-logo-sticky opacity-0" alt="Porto" width="170" height="100px" src="img/svcet1.svg" style="margin-bottom: 20px;">
 									</a>
 								</div>
 							</div>
@@ -222,215 +222,104 @@
 				</div>
 			</div>
 		</header>
-
 			<div role="main" class="main">
+				
+				
 
-				<section class="page-header page-header-modern bg-color-light-scale-1 page-header-md">
-					<div class="container">
+				
+				
+
+				<section class="section bg-color-primary border-0 m-0">
+					<div class="container container-xl-custom">
 						<div class="row">
-							<div class="col-md-12 align-self-center p-static order-2 text-center">
-								<h1 class="text-dark font-weight-bold text-8"></h1>
-								<span class="sub-title text-dark"></span>
-							</div>
-							<div class="col-md-12 align-self-center order-1">
-								<ul class="breadcrumb d-block text-center">
+							<div class="col text-center">								
+								<div class="owl-carousel owl-theme nav-dark stage-margin nav-style-1 m-0" data-plugin-options="{'items': 6, 'margin': 5, 'loop': false, 'nav': true, 'dots': false, 'stagePadding': 40}">
+
+								
+								
 									
-								</ul>
+
+									
+
+								</div>
 							</div>
-							<h1><strong></strong></h1>
 						</div>
 					</div>
 				</section>
 
-				<div class="container py-4">
+				<div class="container container-xl-custom">
 
-					<div class="row">
-						<div class="col">
+					<div class="row mt-5 pt-3">
+						<div class="col-md-9">
 							<div class="blog-posts">
 
-								<div class="row">
+								<article class="post post-large">
+									<h1><strong>INTERNET</strong></h1>
+									<p>Sri Venkateswara College of Engineering and Technology (SVCET) is dedicated to providing its students and staff with cutting-edge facilities that support academic excellence and innovation. One of the standout features of our campus is the high-speed internet system, designed to meet the demands of modern education and research.</p>
+									<div class="post-image">
+										<a href="blog-post.html">
+											<img src="img/team/img18.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="" />
+										</a>
+									</div>
 
-									<h1>SPORTS & CULTURALS</h1>
-									<p>Sports build good habits, confidence, and discipline. They make players into community leaders and teach them how to strive for a goal, handle mistakes, and cherish growth opportunities.
+									<div class="post-date text-1">
+										<span class="day border-radius-0 text-4 text-dark"></span>
+										<span class="month border-radius-0 text-1 bg-color-dark"></span>
+									</div>
 
-										To me, it doesn't matter how good you are. Sport is all about playing and competing. Whatever you do in cricket and in sport, enjoy it, be positive and try to win.
-										</p>
+									<div class="post-content">
 
+										<h2 class="font-weight-semibold text-6 line-height-3 mb-3"><a href="blog-post.html" class="text-color-dark text-color-hover-primary"></a></h2>
+										<p></p>
 
-									<div class="col-md-4 col-lg-3">
 										
-										<article class="post post-medium border-0 pb-0 mb-5"><br><br><br>
+									</div>
+								</article>
+
+								<article class="post post-large">
+									<div class="post-image">
+										<a href="blog-post.html">
+											<img src="img/team/img19.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="" />
+										</a>
+									</div>
+
+									<div class="post-date text-1">
+										<span class="day border-radius-0 text-4 text-dark"></span>
+										<span class="month border-radius-0 text-1 bg-color-dark"></span>
+									</div>
+
+									<div class="post-content">
+
+										<h2 class="font-weight-semibold text-6 line-height-3 mb-3"><a href="blog-post.html" class="text-color-dark text-color-hover-primary"></a></h2>
+									
 										
-											<div class="post-image">
-												<a href="">
-													<img src="img/team/img8.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="" />
-												</a>
-											</div>
 
-											<div class="post-content">
-
-												<h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="blog-post.html">Sports</a></h2>
-												<p></p>
-
-												
-
-											</div>
-										</article>
 									</div>
+								</article>
 
-									<div class="col-md-4 col-lg-3">
-										<article class="post post-medium border-0 pb-0 mb-5"><br><br><br>
-											<div class="post-image">
-												<a href="blog-post.html">
-													<img src="img/team/img9.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="" />
-												</a>
-											</div>
+								
+								
+								
 
-											<div class="post-content">
-
-												<h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="blog-post.html">VollyBall Tournement</a></h2>
-												
-												
-
-											</div>
-										</article>
-									</div>
-
-									<div class="col-md-4 col-lg-3">
-										<article class="post post-medium border-0 pb-0 mb-5"><br><br><br>
-											<div class="post-image">
-												<a href="blog-post.html">
-													<img src="img/team/img10.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="" />
-												</a>
-											</div>
-
-											<div class="post-content">
-
-												<h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="blog-post.html">Kabbadi</a></h2>
-												
-												
-
-											</div>
-										</article>
-									</div>
-
-									<div class="col-md-4 col-lg-3">
-										<article class="post post-medium border-0 pb-0 mb-5"><br><br><br>
-											<div class="post-image">
-												<a href="blog-post.html">
-													<img src="img/team/img11.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="" />
-												</a>
-											</div>
-
-											<div class="post-content">
-
-												<h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="blog-post.html">Chess Tournement</a></h2>
-												<p></p>
-
-												
-
-											</div>
-										</article>
-									</div>
-
-									<div class="col-md-4 col-lg-3">
-										<article class="post post-medium border-0 pb-0 mb-5">
-											<div class="post-image">
-												<a href="blog-post.html">
-													<img src="img/team/img12.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="" />
-												</a>
-											</div>
-
-											<div class="post-content">
-
-												<h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="blog-post.html">Culturals</a></h2>
-												<p></p>
-
-												
-
-											</div>
-										</article>
-									</div>
-
-									<div class="col-md-4 col-lg-3">
-										<article class="post post-medium border-0 pb-0 mb-5">
-											<div class="post-image">
-												<a href="blog-post.html">
-													<img src="img/team/img13.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="" />
-												</a>
-											</div>
-
-											<div class="post-content">
-
-												<h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="blog-post.html">Sankranthi sambaralu</a></h2>
-												<p></p>
-
-												
-											</div>
-										</article>
-									</div>
-
-									<div class="col-md-4 col-lg-3">
-										<article class="post post-medium border-0 pb-0 mb-5">
-											<div class="post-image">
-												<a href="blog-post.html">
-													<img src="img/team/img14.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="" />
-												</a>
-											</div>
-
-											<div class="post-content">
-
-												<h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="blog-post.html">Dance programme</a></h2>
-												<p></p>
-
-												
-
-											</div>
-										</article>
-									</div>
-
-									<div class="col-md-4 col-lg-3">
-										<article class="post post-medium border-0 pb-0 mb-5">
-											<div class="post-image">
-												<a href="blog-post.html">
-													<img src="img/team/img15.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="" />
-												</a>
-											</div>
-
-											<div class="post-content">
-
-												<h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="blog-post.html">The Creative Team</a></h2>
-												<p></p>
-
-												
-											</div>
-										</article>
-									</div>
-
-								</div>
-
-								<div class="row">
-									<div class="col">
-										<ul class="pagination float-end">
-											<li class="page-item"><a class="page-link" href="#"><i class="fas fa-angle-left"></i></a></li>
-											<li class="page-item active"><a class="page-link" href="#">1</a></li>
-											<li class="page-item"><a class="page-link" href="#">2</a></li>
-											<li class="page-item"><a class="page-link" href="#">3</a></li>
-											<li class="page-item"><a class="page-link" href="#"><i class="fas fa-angle-right"></i></a></li>
-										</ul>
-									</div>
-								</div>
+								
+								
+								<ul class="pagination float-end">
+									<li class="page-item"><a class="page-link" href="#"><i class="fas fa-angle-left"></i></a></li>
+									<li class="page-item active"><a class="page-link" href="#">1</a></li>
+									<li class="page-item"><a class="page-link" href="#">2</a></li>
+									<li class="page-item"><a class="page-link" href="#">3</a></li>
+									<li class="page-item"><a class="page-link" href="#"><i class="fas fa-angle-right"></i></a></li>
+								</ul>
 
 							</div>
 						</div>
-
+						
 					</div>
 
 				</div>
-
 			</div>
 
-			<footer id="footer" style="background-color: #097197; color:black;">
+			<footer id="footer" style="background-color: #097197; ">
 				<div class="container" >
 					<div class="footer-ribbon" style="background-color: orange;">
 						<span>Get in Touch</span>
@@ -438,9 +327,9 @@
 					<div class="row py-5 my-4">
 						<div class="col-md-6 mb-4 mb-lg-0">
 							<a href="index.html" class="logo pe-0 pe-lg-3">
-								<img alt="Porto Website Template" src="img/I2.png" style="height:152px;width:200px;">
+								<img alt="Porto Website Template" src="img/svcet1.svg" style="height:152px;width:200px;">
 							</a>
-							<p class="mt-2 mb-2" style="background-color: #097197; color:black;">Sri Venkateswara College of Engineering & Technology ETCHERLA was established in 2008 by VIKAS EDUCATIONAL SOCIETY(1997) with an avowed objective of accelerating the growth of science and technology in this industrially backward Srikakulam district. The Institution aims at providing state-of-the-art technology to the student community</p>
+							<p class="mt-2 mb-2" style="background-color: #097197; color:white;">Sri Venkateswara College of Engineering & Technology ETCHERLA was established in 2008 by VIKAS EDUCATIONAL SOCIETY(1997) with an avowed objective of accelerating the growth of science and technology in this industrially backward Srikakulam district. The Institution aims at providing state-of-the-art technology to the student community</p>
 							<p class="mb-0"><a href="#" class="btn-flat btn-xs text-color-light"><strong class="text-2">VIEW MORE</strong><i class="fas fa-angle-right p-relative top-1 ps-2"></i></a></p>
 						</div>
 						<div class="col-md-6">	
@@ -448,21 +337,24 @@
 							<div class="row">
 								<div class="col-md-6">
 									<ul class="list list-icons list-icons-lg" style="background-color: #097197; color:black;">
-										<li class="mb-1"><i class="far fa-dot-circle text-color-primary"></i><p class="m-0" style="background-color: #097197; color:black;">SRI VENKATESWARA COLLEGE NH16, Etcherla, Srikakulam, Andhra Pradesh 532410</p></li>
-										<li class="mb-1"><i class="fab fa-whatsapp text-color-primary"></i><p class="m-0"><a href="tel:9494011444" style="background-color: #097197; color:black;">+91 9494011444</a></p></li>
-										<li class="mb-1"><i class="far fa-envelope text-color-primary"></i><p class="m-0"><a href="mailto:svcet@gmail.com" style="background-color: #097197; color:black;">svcet@gmail.com</a></p></li>
+										<li class="mb-1"><i class="far fa-dot-circle text-color-primary"></i><p class="m-0" style="background-color: #097197; color:white;">SRI VENKATESWARA COLLEGE NH16, Etcherla, Srikakulam, Andhra Pradesh 532410</p></li>
+										<li class="mb-1"><i class="fab fa-whatsapp text-color-primary"></i><p class="m-0"><a href="tel:9494011444" style="background-color: #097197; color:white;">+91 9494011444</a></p></li>
+										<li class="mb-1"><i class="far fa-envelope text-color-primary"></i><p class="m-0"><a href="mailto:svcet@gmail.com" style="background-color: #097197; color:white;">svcet@gmail.com</a></p></li>
 									</ul>
 								</div>
 								<div class="col-md-6">
 									<ul class="list list-icons list-icons-sm" style="background-color: #097197; color:black;">
-										<li><i class="fas fa-angle-right"></i><a href="sitemap.html" class="link-hover-style-1 ms-1" style="background-color: #097197; color:black;"> Sitemap</a></li>
-										<li><i class="fas fa-angle-right"></i><a href="page-faq.html" class="link-hover-style-1 ms-1" style="background-color: #097197; color:black;"> FAQ's</a></li>
-										<li><i class="fas fa-angle-right"></i><a href="contact-us.html" class="link-hover-style-1 ms-1" style="background-color: #097197; color:black;"> Contact Us</a></li>
+										<li><i class="fas fa-angle-right"></i><a href="sitemap.html" class="link-hover-style-1 ms-1" style=" color:white;"> Sitemap</a></li>
+										<li><i class="fas fa-angle-right"></i><a href="page-faq.html" class="link-hover-style-1 ms-1" style="background-color: #097197; color:white;"> FAQ's</a></li>
+										<li><i class="fas fa-angle-right"></i><a href="contact-us.html" class="link-hover-style-1 ms-1" style="background-color: #097197; color:white;"> Contact Us</a></li>
 									</ul>
 								</div>
 							</div>
 						</div>
 					</div>
+				</div>
+				<div class="footer-copyright footer-copyright-style-2">
+					
 				</div>
 
 				<!-- Vendor -->
@@ -483,10 +375,14 @@
 <script src="js/go.js"></script>
 
 			</footer>
+			</body>
+
+</html>
 		</div>
 
 		<!-- Vendor -->
 		<script src="vendor/plugins/js/plugins.min.js"></script>
+		<script src="vendor/instafeed/instafeed.min.js"></script>
 
 		<!-- Theme Base, Components and Settings -->
 		<script src="js/theme.js"></script>
@@ -496,6 +392,9 @@
 
 		<!-- Theme Initialization Files -->
 		<script src="js/theme.init.js"></script>
+
+	<!-- Examples -->
+		<script src="js/examples/examples.instagramFeed.js"></script>
 
 	</body>
 </html>
