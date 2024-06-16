@@ -143,6 +143,10 @@
 <br>
 <br>
 
+<<<<<<< HEAD
+=======
+<section class="board" style="padding: 7px;height:45px; margin: 10px; background-color: #097197; color:white;">
+>>>>>>> 49c62cc3a98d99c64dd57d0d74193700b0ddb947
     <div class="container">
         <div class="row">
             <div class="col-lg-4 col-md-6 col-sm-12">
@@ -380,8 +384,24 @@
                     </div>
                 </div>
 
+<<<<<<< HEAD
     </section>
 </div>
 
 
     <?php include 'footer.php'; ?>
+=======
+            </div>
+        </div>
+
+
+    </section>
+
+    <br>
+    <?php include 'footer.php'; ?>
+
+</section>
+</body>
+
+</html>
+>>>>>>> 49c62cc3a98d99c64dd57d0d74193700b0ddb947
