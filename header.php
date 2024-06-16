@@ -65,6 +65,13 @@
 			display: block;
 			width: auto;
 		}
+		/* Assuming the list has a class named 'my-list' */
+@media (max-width: 600px) { /* Adjust the max-width as needed for targeting phone view */
+  .my-list {
+    background-color: #000; /* Change to a suitable background color */
+    color: #fff; /* Change text color to ensure it is visible */
+  }
+}
 	</style>
 
 </head>
