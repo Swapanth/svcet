@@ -190,7 +190,7 @@
 										
 												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#">P & T</a>
 													<ul class="dropdown-menu">
-														<li><a href="soon.php">PLACEMENT & TRANNING</a></li>
+														<li><a href="placements.php">PLACEMENT & TRANNING</a></li>
 														<li><a href="soon.php">COMPETATIVE EXAMINATIONS</a></li>
 														<li><a href="soon.php">WEB PORTAL</a></li>
 														<li><a href="soon.php">PLACEMENT & CONTACT DETAILS</a></li>
