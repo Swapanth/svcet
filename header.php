@@ -73,16 +73,16 @@
 
 	<div class="body">
 		<header id="header" class="header-effect-shrink" data-plugin-options="{'stickyEnabled': true, 'stickyEffect': 'shrink', 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': false, 'stickyChangeLogo': false, 'stickyStartAt': 30, 'stickyHeaderContainerHeight': 70}">
-			<div class="header-body border-top-0">
-				<div class="header-top header-top-default border-bottom-0" style="background-color: #097197;">
-					<div class="container" style="background-color: #097197; width: 100%;">
+			<div class="header-body border-top-0" style="background-color: #097197;">
+				<div class="header-top header-top-default border-bottom-0" style="background-color: white;">
+					<div class="container" style="background-color: white; width: 100%;">
 						<div class="header-row py-2">
-							<div class="header-column justify-content-start" style="background-color: #097197;">
+							<div class="header-column justify-content-start" style="background-color: white;">
 								<div class="header-row">
 									<nav class="header-nav-top">
 										<ul class="nav nav-pills">
-											<li class="nav-item" style="background-color: #097197;">
-												<strong style="color: white; ">COLLEGE CODE FOR EAMCET / ECET / PGCET - VETS</strong>
+											<li class="nav-item" style="background-color: white;">
+												<strong style="color:#097197 ">COLLEGE CODE FOR EAMCET / ECET / PGCET - VETS</strong>
 											</li>
 										</ul>
 									</nav>
@@ -93,10 +93,10 @@
 									<nav class="header-nav-top">
 										<ul class="nav nav-pills text-uppercase text-2">
 											<li class="nav-item nav-item-anim-icon d-none d-md-block">
-												<a class="nav-link ps-0 text-light opacity-7" href="soon.html"><i class="fas fa-angle-right"></i> About Us</a>
+												<a class="nav-link ps-0 text-light opacity-7" style="color:#097197 " href="soon.html"><i class="fas fa-angle-right"></i> About Us</a>
 											</li>
 											<li class="nav-item nav-item-anim-icon d-none d-md-block">
-												<a class="nav-link text-light opacity-7 pe-0" href="soon.html"><i class="fas fa-angle-right"></i> Contact Us</a>
+												<a class="nav-link text-light opacity-7 pe-0" style="color:#097197 " href="soon.html"><i class="fas fa-angle-right"></i> Contact Us</a>
 											</li>
 										</ul>
 									</nav>
@@ -112,25 +112,25 @@
 							<div class="header-row">
 								<div class="header-logo header-logo-sticky-change" style="width: 82px; height: 40px;margin-Top:-19px;">
 									<a href="index.php">
-										<img class="header-logo-non-sticky opacity-0" alt="Porto" width="100" height="100" src="img/I1.png" style="margin-Top:-12px;">
-										<img class="header-logo-sticky opacity-0" alt="Porto" width="170" height="100px" src="img/I2.png" style="margin-bottom: 20px;">
+										<img class="header-logo-non-sticky opacity-0" alt="Porto" width="600" height="90" src="img/svcet.svg" style="margin-Top:-12px; margin-left:-100px;">
+										<img class="header-logo-sticky opacity-0" alt="Porto" width="170" height="100px" src="img/svcet1.svg" style="margin-bottom: 20px;">
 									</a>
 								</div>
 							</div>
 						</div>
-						<div class="header-column justify-content-end">
+						<div class="header-column justify-content-end" style="color: white; margin:10px;">
 							<div class="header-row">
-								<div class="header-nav header-nav-links">
+								<div class="header-nav header-nav-links" style="color: white;">
 									<div class="header-nav-main header-nav-main-square header-nav-main-dropdown-no-borders header-nav-main-dropdown-arrow header-nav-main-dropdown-center header-nav-main-effect-3 header-nav-main-sub-effect-1">
 										<nav class="collapse">
 											<ul class="nav nav-pills" id="mainNav">
 												<li class="active">
-													<a href="index.php">
+													<a href="index.php" style="color: white;">
 														Home
 													</a>
 												</li>
 												<li>
-												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#">ABOUT US</a>
+												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" style="color: white;">ABOUT US</a>
 													<ul class="dropdown-menu">
 														<li><a href="soon.php">OBJECTIVES</a></li>
 														<li><a href="soon.php">VISION & MISSION</a></li>
@@ -146,7 +146,7 @@
 													</ul>
 												</li>
 												</li>
-												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#">ADMISSIONS</a>
+												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" style="color: white;">ADMISSIONS</a>
 													<ul class="dropdown-menu">
 														<li><a href="soon.php">ADMISSON PROCEDURE</a></li>
 														<li><a href="soon.php">UNDERGRADUATE ADMISSIONS</a></li>
@@ -154,7 +154,7 @@
 														<li><a href="soon.php">FEE STRUCTURE</a></li>
 													</ul>
 												</li>
-												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#">ACADEMICS</a>
+												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" style="color: white;">ACADEMICS</a>
 													<ul class="dropdown-menu">
 														<li><a href="soon.php">CIVIL ENGINEERING</a></li>
 														<li><a href="soon.php">COMPUTER SCIENCE & ENGINEERING</a></li>
@@ -165,7 +165,7 @@
 														<li><a href="soon.php">MASTER OF BUSSINESS ADMISTRATION</a></li>
 													</ul>
 												</li>
-												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#">ACTIVITES</a>
+												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" style="color: white;">ACTIVITES</a>
 													<ul class="dropdown-menu">
 														<li><a href="NSS.php">NSS</a></li>
 														<li><a href="soon.php">IQAC</a></li>
@@ -176,7 +176,7 @@
 													</ul>
 												</li>
 
-												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#">FACILITES</a>
+												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" style="color: white;">FACILITES</a>
 													<ul class="dropdown-menu">
 														<li><a href="soon.php">CENTRAL LIBRARY</a></li>
 														<li><a href="soon.php">HOSTEL</a></li>
@@ -191,7 +191,7 @@
 													</ul>
 												</li>
 
-												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#">P & T</a>
+												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" style="color: white;">P & T</a>
 													<ul class="dropdown-menu">
 														<li><a href="placements.php">PLACEMENT & TRANNING</a></li>
 														<li><a href="soon.php">COMPETATIVE EXAMINATIONS</a></li>
@@ -200,18 +200,14 @@
 														<li><a href="soon.php">JOB RECURTORS</a></li>
 													</ul>
 												</li>
-												<li class="dropdown"><a class="" href="soon.php">CONTACT</a></li>
 
-												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#">NAAC</a>
+												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" style="color: white;">NAAC</a>
 													<ul class="dropdown-menu">
 														<li><a href="naacreport.php">Self Study Report</a></li>
 														<li><a href="soon.php">Data Validation and Verification</a></li>
 													
 													</ul>
 												</li>
-												<li class="dropdown"><a class="" href="soon.php">CONTACT</a></li>
-
-
 											</ul>
 										</nav>
 									</div>
