@@ -101,10 +101,10 @@
                                     <span class="day">16</span>
                                     <span class="month">Nov</span>
                                 </div>
-                                <h4><a href="blog-post.html" class="text-decoration-none">Professional Development through Innovative Thinking</a></h4>
+                                <h4><a href="soon.php" class="text-decoration-none">Professional Development through Innovative Thinking</a></h4>
                                 <p class="mb-0" style="text-align: left;">➢ Aware the importance of creative thinking
                                     ➢ apply learning for innovation and value creation
-                                    ➢ to build confidence to be an Entrepreneur <a href="blog-post.html" class="read-more font-weight-bold text-2">read more <i class="fas fa-chevron-right text-1 ms-1"></i></a></p>
+                                    ➢ to build confidence to be an Entrepreneur <a href="soon.php" class="read-more font-weight-bold text-2">read more <i class="fas fa-chevron-right text-1 ms-1"></i></a></p>
                             </article>
                         </div>
                     </div>
@@ -115,10 +115,10 @@
                                     <span class="day">26</span>
                                     <span class="month">Nov</span>
                                 </div>
-                                <h4><a href="blog-post.html" class="text-decoration-none">
+                                <h4><a href="soon.php" class="text-decoration-none">
                                         SVCET NSS event on behalf of constitution day on 26th Nov</a></h4>
                                 <p class="mb-0" style="text-align: left;">SVCET NSS union conducted the rally in our engineering campus on the
-                                    event of constitution day on 26th Nov of every year<a href="blog-post.html" class="read-more font-weight-bold text-2">read more <i class="fas fa-chevron-right text-1 ms-1"></i></a></p>
+                                    event of constitution day on 26th Nov of every year<a href="soon.php" class="read-more font-weight-bold text-2">read more <i class="fas fa-chevron-right text-1 ms-1"></i></a></p>
                             </article>
                         </div>
                     </div>
@@ -132,7 +132,7 @@
                     </div>
                     <p class="mb-4" style="text-align: left;">
 
-                        <b style="color: orange;"> Sri Venkateswara College of Engineering & Technology (SVCE)</b>, Etcherla, was established in 2008 by the Vikas Educational Society (1997) with the objective of accelerating the growth of science and technology in the industrially backward Srikakulam district. The institution aims at providing state-of-the-art technology to the student community to broaden their horizon for a better and more prospective tomorrow, in their own interest and in the interest of society at large. <a href="blog-post.html" class="read-more font-weight-bold text-2">read more <i class="fas fa-chevron-right text-1 ms-1"></i></a>
+                        <b style="color: orange;"> Sri Venkateswara College of Engineering & Technology (SVCE)</b>, Etcherla, was established in 2008 by the Vikas Educational Society (1997) with the objective of accelerating the growth of science and technology in the industrially backward Srikakulam district. The institution aims at providing state-of-the-art technology to the student community to broaden their horizon for a better and more prospective tomorrow, in their own interest and in the interest of society at large. <a href="soon.php" class="read-more font-weight-bold text-2">read more <i class="fas fa-chevron-right text-1 ms-1"></i></a>
                     </p>
 
                     </p>
@@ -147,17 +147,17 @@
         <div class="row">
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <div style="margin-bottom: 15px;">
-                    <b class="section-title"><a href=# style="color: white;">COURSES OFFERED</a></b>
+                    <b class="section-title"><a href="soon.php" style="color: white;">COURSES OFFERED</a></b>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <div style="margin-bottom: 15px;">
-                    <b class="section-title"><a href=# style="color: white;">E RESOURCES LINKS</a></b>
+                    <b class="section-title"><a href="soon.php" style="color: white;">E RESOURCES LINKS</a></b>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <div style="margin-bottom: 15px;">
-                    <b class="section-title"><a href=# style="color: white;">Download RESOURCES</a></b>
+                    <b class="section-title"><a href="soon.php" style="color: white;">Download RESOURCES</a></b>
                 </div>
             </div>
         </div>
@@ -357,7 +357,7 @@
                         </div>
                         <div class="thumb-info
                             -caption">
-                            <p class="mb-0" style="text-align: left;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus blandit massa enim. Nullam id varius nunc.</p>
+                            <p class="mb-0" style="text-align: left;">Cultural Activites held on our compus.</p>
                         </div>
                     </div>
                 </div>
