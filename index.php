@@ -142,29 +142,27 @@
 <br>
 <br>
 
-<section class="board" style="padding: 7px;height:45px; margin: 10px; background-color: #3ab3ed; color:white; text-align: center;">
-    <div class="container">
+<section class="board" style="padding: 7px;height:45px; margin: 10px; background-color: #097197; color:white;">
+<div class="container">
         <div class="row">
-            <div class="col-lg-4">
-
+            <div class="col-lg-4 col-md-6 col-sm-12">
                 <div style="margin-bottom: 15px;">
-                    <b style="display: block; font-size: 15PX; margin-bottom: 10px;">COURES OFFERED</b>
-
+                    <b class="section-title"><a href=# style="color: white;">COURSES OFFERED</a></b>
                 </div>
             </div>
-            <div class="col-lg-4">
-
+            <div class="col-lg-4 col-md-6 col-sm-12">
                 <div style="margin-bottom: 15px;">
-                    <b style="display: block; font-size: 15PX; margin-bottom: 10px;">E RESOURCES LINKS</b>
+                    <b class="section-title"><a href=# style="color: white;">E RESOURCES LINKS</a></b>
                 </div>
             </div>
-            <div class="col-lg-4">
-
+            <div class="col-lg-4 col-md-6 col-sm-12">
                 <div style="margin-bottom: 15px;">
-                    <b style="display: block; font-size: 15PX;">Download RESOURCES</b>
+                    <b class="section-title"><a href=# style="color: white;">Download RESOURCES</a></b>
                 </div>
             </div>
-</section>
+        </div>
+    </div>
+
 
 <br>
 <br>
@@ -183,28 +181,28 @@
                 <div class="counter counter-primary appear-animation" data-appear-animation="bounceIn" data-appear-animation-delay="600">
                     <i class="fas fa-star"></i>
                     <strong data-to="15">0</strong>
-                    <label>Year of Establishment</label>
+                    <label style="color: black;">Year of Establishment</label>
                 </div>
             </div>
             <div class="col-sm-6 col-lg-3 mb-4 mb-sm-0">
                 <div class="counter counter-primary appear-animation" data-appear-animation="bounceIn" data-appear-animation-delay="900">
                     <i class="fas fa-user"></i>
                     <strong data-to="3520" data-append="+">0</strong>
-                    <label>Total Students</label>
+                    <label style="color: black;">Total Students</label>
                 </div>
             </div>
             <div class="col-sm-6 col-lg-3 mb-4 mb-lg-0">
                 <div class="counter counter-primary appear-animation" data-appear-animation="bounceIn" data-appear-animation-delay="300">
                     <i class="fas fa-user"></i>
                     <strong data-to="450" data-append="+">0</strong>
-                    <label>Total Staff</label>
+                    <label style="color: black;">Total Staff</label>
                 </div>
             </div>
             <div class="col-sm-6 col-lg-3">
                 <div class="counter counter-primary appear-animation" data-appear-animation="bounceIn" data-appear-animation-delay="1200">
                     <i class="far fa-chart-bar"></i>
                     <strong data-to="178">0</strong>
-                    <label>Branches</label>
+                    <label style="color: black;">Branches</label>
                 </div>
             </div>
         </div>
@@ -213,16 +211,16 @@
             <div class="counter counter-primary appear-animation" data-appear-animation="bounceIn" data-appear-animation-delay="600">
                 <i class="fas fa-star"></i>
                 <strong data-to="300">0</strong>
-                <label>PLACEMENT METER</label>
+                <label style="color: black;">PLACEMENT METER</label>
             </div>
         </div>
         <div class="col-sm-6 col-lg-3 mb-4 mb-sm-0">
             <div class="counter counter-primary appear-animation" data-appear-animation="bounceIn" data-appear-animation-delay="900">
-            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="#3ab3ed" class="bi bi-mortarboard-fill" viewBox="0 0 16 16">
+            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="#097197" class="bi bi-mortarboard-fill" viewBox="0 0 16 16">
   <path d="M8.211 2.047a.5.5 0 0 0-.422 0l-7.5 3.5a.5.5 0 0 0 .025.917l7.5 3a.5.5 0 0 0 .372 0L14 7.14V13a1 1 0 0 0-1 1v2h3v-2a1 1 0 0 0-1-1V6.739l.686-.275a.5.5 0 0 0 .025-.917z"/>
   <path d="M4.176 9.032a.5.5 0 0 0-.656.327l-.5 1.7a.5.5 0 0 0 .294.605l4.5 1.8a.5.5 0 0 0 .372 0l4.5-1.8a.5.5 0 0 0 .294-.605l-.5-1.7a.5.5 0 0 0-.656-.327L8 10.466z"/>
 </svg>                <strong data-to="3">0</strong>
-                <label>NAAC 'A' GRADE</label>
+                <label style="color: black;">NAAC 'A' GRADE</label>
             </div>
         </div>
 
@@ -260,13 +258,27 @@
                     <img class="img-responsive" style="height: 90px; width:120px" src="img/3.jpg" alt="">
                 </div>
                 <div>
-                    <img class="img-responsive" style="height: 90px; width:120px" src="img/1.jpg" alt="">
+                    <img class="img-responsive" style="height: 90px; width:120px" src="img/10.jpg" alt="">
                 </div>
                 <div>
-                    <img class="img-responsive" style="height: 90px; width:120px" src="img/2.jpg" alt="">
+                    <img class="img-responsive" style="height: 90px; width:120px" src="img/13.jpg" alt="">
                 </div>
                 <div>
-                    <img class="img-responsive" style="height: 90px; width:120px" src="img/3.jpg" alt="">
+                    <img class="img-responsive" style="height: 90px; width:120px" src="img/14.png" alt="">
+                </div>
+
+                <div>
+                    <img class="img-responsive" style="height: 90px; width:120px" src="img/15.jpg" alt="">
+                </div>
+                <div>
+                    <img class="img-responsive" style="height: 90px; width:120px" src="img/16.jpg" alt="">
+                </div>
+                <div>
+                    <img class="img-responsive" style="height: 90px; width:120px" src="img/18.jpg" alt="">
+                </div>
+
+                <div>
+                    <img class="img-responsive" style="height: 90px; width:120px" src="img/27.png" alt="">
                 </div>
 
             </div>
@@ -387,7 +399,7 @@
 <script src="js/custom.js"></script>
 
 <!-- Theme Initialization Files -->
-<script src="js/theme.init.js"></script>
+<script src="js/go.js"></script>
 
 <?php include 'footer.php'; ?>
 </body>
