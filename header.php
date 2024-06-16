@@ -129,17 +129,17 @@
 												<li>
 												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#">ABOUT US</a>
 													<ul class="dropdown-menu">
-														<li><a href="research.php">OBJECTIVES</a></li>
-														<li><a href="conferences-attended.php">VISION & MISSION</a></li>
-														<li><a href="conferences-conducted.php">AFFILIATION & ACCREDITATION</a></li>
-														<li><a href="books-published.php">MANAGEMENT</a></li>
-														<li><a href="papers-published.php">PRINCIPAL</a></li>
-														<li><a href="seminars-and-conferences.php">RULES & REGULATIONS</a></li>
-														<li><a href="paper-presentations.php">PROGRAMMES OFFERED</a></li>
-														<li><a href="honors-and-awards.php">GOVERNING COUNCIL BOARD</a></li>
-														<li><a href="honors-and-awards.php">GRIEVANCE REDRESSAL COMMITTEE</a></li>
-														<li><a href="paper-presentations.php">ANTI RAGGING COMMITTEE</a></li>
-														<li><a href="honors-and-awards.php">ANTI RAGGING SQUAD</a></li>
+														<li><a href="objectives.php">OBJECTIVES</a></li>
+														<li><a href="vision.php">VISION & MISSION</a></li>
+														<li><a href="affiliation.php">AFFILIATION & ACCREDITATION</a></li>
+														<li><a href="management.php">MANAGEMENT</a></li>
+														<li><a href="principal.php">PRINCIPAL</a></li>
+														<li><a href="rules.php">RULES & REGULATIONS</a></li>
+														<li><a href="programmes_offered.php">PROGRAMMES OFFERED</a></li>
+														<li><a href="governing_council.php">GOVERNING COUNCIL BOARD</a></li>
+														<li><a href="grievance.php">GRIEVANCE REDRESSAL COMMITTEE</a></li>
+														<li><a href="antiragging.php">ANTI RAGGING COMMITTEE</a></li>
+														<li><a href="antiragging_squad.php">ANTI RAGGING SQUAD</a></li>
 													</ul>
 												</li>
 												</li>
