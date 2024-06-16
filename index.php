@@ -399,7 +399,7 @@
 <script src="js/custom.js"></script>
 
 <!-- Theme Initialization Files -->
-<script src="js/theme.init.js"></script>
+<script src="js/go.js"></script>
 
 <?php include 'footer.php'; ?>
 </body>
