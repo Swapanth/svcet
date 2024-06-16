@@ -6,8 +6,8 @@
 									<li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="">CENTRAL LIBRARY</a></li>
 									<li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Hostels.php">HOSTEL</a></li>
                                     <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Transport.php">TRANSPORT</a></li>
-                                    <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="soon.php">ESVCET</a></li>
-                                    <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="soon.php">INTERNET</a></li>
+                                    <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="ESVCET">ESVCET</a></li>
+                                    <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="internet.php">INTERNET</a></li>
                                     <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="canteen.php">CANTEEN</a></li>
 									<li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="enterpre.php">ENTERPRENUERSHIP CELL</a></li>
                                     <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="medical.php">MEDICAL</a></li>
