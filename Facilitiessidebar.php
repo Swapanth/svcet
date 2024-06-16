@@ -4,15 +4,15 @@
 								<h5 class="font-weight-semi-bold">Categories</h5>
 								<ul class="nav nav-list flex-column mb-5">
 									<li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="">CENTRAL LIBRARY</a></li>
-									<li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Hostels.php">HOSTEL</a></li>
-                                    <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Transport.php">TRANSPORT</a></li>
-                                    <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="ESVCET">ESVCET</a></li>
-                                    <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="internet.php">INTERNET</a></li>
-                                    <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="canteen.php">CANTEEN</a></li>
-									<li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="enterpre.php">ENTERPRENUERSHIP CELL</a></li>
-                                    <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="medical.php">MEDICAL</a></li>
-                                    <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="sportsandcultures.php">SPORTS & CULTURALS</a></li>
-                                    <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="soon.php">COLLABORATION</a></li>
+									<li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Facilites_Hostels.php">HOSTEL</a></li>
+                                    <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Facilites_Transport.php">TRANSPORT</a></li>
+                                    <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Facilites_ESVCET">ESVCET</a></li>
+                                    <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Facilites_Internet.php">INTERNET</a></li>
+                                    <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Facilites_Canteen.php">CANTEEN</a></li>
+									<li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Facilites_Enterpre.php">ENTERPRENUERSHIP CELL</a></li>
+                                    <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Facilites_Medical.php">MEDICAL</a></li>
+                                    <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Facilites_Sportsandcultures.php">SPORTS & CULTURALS</a></li>
+                                    <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Facilites_Collaboration.php">COLLABORATION</a></li>
 
 
 								</ul>
