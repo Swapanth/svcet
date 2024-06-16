@@ -51,7 +51,7 @@
 
 	</head>
 	<body>
-
+        
 		<div class="body">
         <?php include 'header.php'; ?>
 
@@ -61,14 +61,13 @@
                 <br>
                 <br>
                 <br>
-               
-                
 				<section class="page-header page-header-modern bg-color-primary page-header-md">
 					<div class="container">
 						<div class="row">
+
 							<div class="col-md-8 order-2 order-md-1 align-self-center p-static">
 								<h1>P & T</h1>
-								<span class="sub-title">Placements & Training</span>
+								<span class="sub-title">PLACEMENT & TRANNING</span>
 							</div>
 							<div class="col-md-4 order-1 order-md-2 align-self-center">
 								<ul class="breadcrumb d-block text-md-end breadcrumb-light">
@@ -79,11 +78,13 @@
 						</div>
 					</div>
 				</section>
-
+                 
 				<div class="container">
 
 					<div class="row mt-5 mb-4">
+                    <?php include 'placementssidebar.php'; ?>
 						<div class="col">
+                            
                           <h2 class="font-weight-semibold mb-3">Training:</h2>
 
 							<h4 class="font-weight-semibold mb-3">1. WEB DESIGNING COURSE :</h4>
