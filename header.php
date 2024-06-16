@@ -167,7 +167,7 @@
 												</li>
 												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#">ACTIVITES</a>
 													<ul class="dropdown-menu">
-														<li><a href="soon.php">NSS</a></li>
+														<li><a href="NSS.php">NSS</a></li>
 														<li><a href="soon.php">IQAC</a></li>
 														<li><a href="soon.php">ALUMINI</a></li>
 														<li><a href="soon.php">PROFESSIONAL BODIES</a></li>
