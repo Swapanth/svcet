@@ -142,26 +142,166 @@
 <br>
 <br>
 
-<section class="board" style="padding: 7px;height:45px; margin: 10px; background-color: #097197; color:white;">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-4 col-md-6 col-sm-12">
-                <div style="margin-bottom: 15px;">
-                    <b class="section-title"><a href="soon.php" style="color: white;">COURSES OFFERED</a></b>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12">
-                <div style="margin-bottom: 15px;">
-                    <b class="section-title"><a href="soon.php" style="color: white;">E RESOURCES LINKS</a></b>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12">
-                <div style="margin-bottom: 15px;">
-                    <b class="section-title"><a href="soon.php" style="color: white;">Download RESOURCES</a></b>
+<!-- <section class="board" style="padding: 7px;height:45px; margin: 10px; background-color: #097197; color:white;"> -->
+
+    <section class="#" style="text-align: center;">
+        <div class="row mt-7">
+            <div class="col">
+                <div class="row">
+                    <div class="col-lg-4 d-lg-block d-xl-block d-none">
+                        <div class="tabs tabs-vertical tabs-right tabs-navigation tabs-navigation-simple">
+                            <ul class="nav nav-tabs nav-flex-column">
+                                <li class="nav-item">
+                                    <a class="nav-link active" href="#courseOfferedTab" data-bs-toggle="tab">Course
+                                        Offered</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#resourcesTab" data-bs-toggle="tab">Resources</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#downloadResourcesTab" data-bs-toggle="tab">Download
+                                        Resources</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <nav class="col-12 d-lg-none d-xl-none">
+                        <ul class="nav nav-tabs nav-fill">
+                            <li class="nav-item">
+                                <a class="nav-link active" href="#courseOfferedTab" data-bs-toggle="tab">Course
+                                    Offered</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#resourcesTab" data-bs-toggle="tab">Resources</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#downloadResourcesTab" data-bs-toggle="tab">Download
+                                    Resources</a>
+                            </li>
+                        </ul>
+                    </nav>
+                    <div class="col-lg-8">
+                        <div class="tab-content">
+                            <div class="tab-pane tab-pane-navigation active" id="courseOfferedTab">
+                                <h4>Course Offered</h4>
+                                <table class="table table-bordered">
+                                    <thead>
+                                        <tr>
+                                            <th>Course</th>
+                                            <th>Branch</th>
+                                            <th>Intake</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <!-- Show the first few rows -->
+                                        <tr>
+                                            <td>B.Tech</td>
+                                            <td>Civil Engineering</td>
+                                            <td>60</td>
+                                        </tr>
+                                        <tr>
+                                            <td>B.Tech</td>
+                                            <td>Electrical and Electronics Engineering</td>
+                                            <td>30</td>
+                                        </tr>
+                                        <tr>
+                                            <td>B.Tech</td>
+                                            <td>Mechanical Engineering</td>
+                                            <td>60</td>
+                                        </tr>
+                                    </tbody>
+                                    <tbody id="collapsibleRows" style="display: none;">
+                                        <!-- Hide the remaining rows initially -->
+                                        <tr>
+                                            <td>B.Tech</td>
+                                            <td>Electronics and Communication Engineering</td>
+                                            <td>60</td>
+                                        </tr>
+                                        <tr>
+                                            <td>B.Tech</td>
+                                            <td>Computer Science and Engineering</td>
+                                            <td>120</td>
+                                        </tr>
+                                        <tr>
+                                            <td>B.Tech</td>
+                                            <td>Artificial-Intelligence and Machine-Learning</td>
+                                            <td>60</td>
+                                        </tr>
+                                        <tr>
+                                            <td>B.Tech</td>
+                                            <td>Computer Science & Engineering (AIML)</td>
+                                            <td>30</td>
+                                        </tr>
+                                        <tr>
+                                            <td>M.Tech</td>
+                                            <td>Thermal Engineering</td>
+                                            <td>18</td>
+                                        </tr>
+                                        <tr>
+                                            <td>M.Tech</td>
+                                            <td>Control Systems</td>
+                                            <td>09</td>
+                                        </tr>
+                                        <tr>
+                                            <td>M.Tech</td>
+                                            <td>Power Electronics</td>
+                                            <td>09</td>
+                                        </tr>
+                                        <tr>
+                                            <td>M.Tech</td>
+                                            <td>V L S I</td>
+                                            <td>18</td>
+                                        </tr>
+                                        <tr>
+                                            <td>M.Tech</td>
+                                            <td>Computer Science and Engineering</td>
+                                            <td>18</td>
+                                        </tr>
+                                        <tr>
+                                            <td>M.B.A</td>
+                                            <td>MBA</td>
+                                            <td>120</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <button type="button" class="btn btn-primary mt-3" onclick="toggleCollapsibleRows()">Read More</button>
+                            </div>
+                            <div class="tab-pane tab-pane-navigation" id="resourcesTab">
+                                <h4>Resources</h4>
+                                <p>Placeholder text for Resources tab.</p>
+                            </div>
+                            <div class="tab-pane tab-pane-navigation" id="downloadResourcesTab">
+                                <h4>Download Resources</h4>
+                                <p>Placeholder text for Download Resources tab.</p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
+    </section>
+
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz4fnFO9gybBud7RduPuemT//+jJXB16zg6i8UQD3lV5uDC3Yc7bz29L33" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.min.js" integrity="sha384-cn7l7gDp0eyniUwwAZgrzD06kc/tftFf19TOAs2zVinnD/C7E91j9yyk5//jjpt/" crossorigin="anonymous"></script>
+
+    <script>
+        function toggleCollapsibleRows() {
+            var collapsibleRows = document.getElementById("collapsibleRows");
+            if (collapsibleRows.style.display === "none") {
+                collapsibleRows.style.display = "table-row-group";
+            } else {
+                collapsibleRows.style.display = "none";
+            }
+
+            // Change the button text based on the visibility state
+            var button = document.querySelector("#courseOfferedTab button");
+            if (collapsibleRows.style.display === "none") {
+                button.textContent = "Read More";
+            } else {
+                button.textContent = "Read Less";
+            }
+        }
+    </script>
 
 
     <br>
