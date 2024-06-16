@@ -56,8 +56,4 @@
 			</footer>
 			</body>
 
-<<<<<<< HEAD
 </html>
-=======
-</html>
->>>>>>> 49c62cc3a98d99c64dd57d0d74193700b0ddb947
