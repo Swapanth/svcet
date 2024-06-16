@@ -261,7 +261,7 @@
 									
 								</div>
 								<!-- You can add an image below -->
-								<img src="img/img7.jpg" class="img-fluid" alt="">
+								<img src="img/team/img7.jpg" class="img-fluid" alt="">
 							</div>
 						</div>
 						
