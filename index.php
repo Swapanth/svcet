@@ -81,7 +81,7 @@
                     </div>
 
                     <dl style="text-align: left;">
-                        <dt style="font-weight: bolder;">Archievement of NAAC "A" Grade</dt>
+                        <dt style="font-weight: bolder;">Achievements of NAAC "A" Grade</dt>
                         <dd>SVCE has been awarded with the highest grade by the National Assessment and Accreditation Council (NAAC) for a period of five years.</dd>
                         <dt style="font-weight: bolder;">IQAC Minutes</dt>
                         <dd>IQAC Minutes of the meeting held on 10th December 2021</dd>
@@ -142,7 +142,8 @@
 <br>
 
 
-<h1 style="text-align: center;">Svr</h1>PrintPrintPrint this alarm. Newspaper. newspaper. Mudla Academy scroll out on the scroll ballot under the Ask Lodge Eid Montagari, Nick Potter, the Potavant.     <section class="#" style="text-align: center;">
+<h1 style="margin-Left:40px;">Svcet Provides</h1>
+         <section class="#" style="text-align: center;">
         <div class="row mt-7">
             <div class="col">
                 <div class="row">

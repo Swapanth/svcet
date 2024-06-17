@@ -112,7 +112,7 @@
 							<div class="header-row">
 								<div class="header-logo header-logo-sticky-change" style="width: 82px; height: 40px;margin-Top:-19px;">
 									<a href="index.php">
-										<img class="header-logo-non-sticky opacity-0" alt="Porto" width="600" height="90" src="img/svcet.svg" style="margin-Top:-12px; margin-left:-100px;">
+										<img class="header-logo-non-sticky opacity-0" alt="Porto" width="700" height="90" src="img/svcet2.svg" style="margin-Top:-12px; margin-left:-150px;">
 										<img class="header-logo-sticky opacity-0" alt="Porto" width="170" height="100px" src="img/svcet1.svg" style="margin-bottom: 20px;">
 									</a>
 								</div>
