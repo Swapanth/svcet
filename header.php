@@ -148,9 +148,10 @@
 												</li>
 												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" style="color: white;">Admissions</a>
 													<ul class="dropdown-menu">
-														<li><a href="soon.php">Admission Procedure</a></li>
-														<li><a href="soon.php">Undergraduate Admissions</a></li>
-														<li><a href="soon.php">Postgraduate Admissions</a></li>
+													    <li><a href="admission_enquiry.php">Admission Enquiry</a></li>
+														<li><a href="admission_procedure.php">Admission Procedure</a></li>
+														<li><a href="admission_undergraduate.php">Undergraduate Admissions</a></li>
+														<li><a href="admission_postgraduate.php">Postgraduate Admissions</a></li>
 														<li><a href="soon.php">Fee Structure</a></li>
 													</ul>
 												</li>
