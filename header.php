@@ -132,18 +132,19 @@
 												<li>
 												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" style="color: white;">About Us</a>
 													<ul class="dropdown-menu">
-														<li><a href="objectives.php">OBJECTIVES</a></li>
-														<li><a href="vision.php">VISION & MISSION</a></li>
-														<li><a href="affiliation.php">AFFILIATION & ACCREDITATION</a></li>
-														<li><a href="management.php">MANAGEMENT</a></li>
-														<li><a href="principal.php">PRINCIPAL</a></li>
-														<li><a href="rules.php">RULES & REGULATIONS</a></li>
-														<li><a href="programmes_offered.php">PROGRAMMES OFFERED</a></li>
-														<li><a href="governing_council.php">GOVERNING COUNCIL BOARD</a></li>
-														<li><a href="grievance.php">GRIEVANCE REDRESSAL COMMITTEE</a></li>
-														<li><a href="antiragging.php">ANTI RAGGING COMMITTEE</a></li>
-														<li><a href="antiragging_squad.php">ANTI RAGGING SQUAD</a></li>
+														<li><a href="Aboutus_objectives.php">Objectives</a></li>
+														<li><a href="Aboutus_vision.php">Vision & Mission</a></li>
+														<li><a href="Aboutus_affiliation.php">Affiliation & Accreditation</a></li>
+														<li><a href="Aboutus_management.php">Management</a></li>
+														<li><a href="Aboutus_principal.php">Principal</a></li>
+														<li><a href="Aboutus_rules.php">Rules & Regulations</a></li>
+														<li><a href="Aboutus_programmes.php">Programmes Offered</a></li>
+														<li><a href="Aboutus_governing_council.php">Governing Council Board</a></li>
+														<li><a href="Aboutus_grievance.php">Grievance Redressal Committee</a></li>
+														<li><a href="Aboutus_antiragging.php">Anti Ragging Committee</a></li>
+														<li><a href="Aboutus_antiragging_squad.php">Anti Ragging Squad</a></li>
 													</ul>
+
 												</li>
 												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" style="color: white;">Admissions</a>
 													<ul class="dropdown-menu">
