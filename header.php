@@ -132,17 +132,17 @@
 												<li>
 												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" style="color: white;">About Us</a>
 													<ul class="dropdown-menu">
-														<li><a href="soon.php">Objectives</a></li>
-														<li><a href="soon.php">Vision & Mission</a></li>
-														<li><a href="soon.php">Affiliation & Accreditation</a></li>
-														<li><a href="soon.php">Management</a></li>
-														<li><a href="soon.php">Principal</a></li>
-														<li><a href="soon.php">Rules & Regulations</a></li>
-														<li><a href="soon.php">Programmes Offered</a></li>
-														<li><a href="soon.php">Governing Council Board</a></li>
-														<li><a href="soon.php">Grievance Redressal Committee</a></li>
-														<li><a href="soon.php">Anti Ragging Committee</a></li>
-														<li><a href="soon.php">Anti Ragging Squad</a></li>
+														<li><a href="objectives.php">OBJECTIVES</a></li>
+														<li><a href="vision.php">VISION & MISSION</a></li>
+														<li><a href="affiliation.php">AFFILIATION & ACCREDITATION</a></li>
+														<li><a href="management.php">MANAGEMENT</a></li>
+														<li><a href="principal.php">PRINCIPAL</a></li>
+														<li><a href="rules.php">RULES & REGULATIONS</a></li>
+														<li><a href="programmes_offered.php">PROGRAMMES OFFERED</a></li>
+														<li><a href="governing_council.php">GOVERNING COUNCIL BOARD</a></li>
+														<li><a href="grievance.php">GRIEVANCE REDRESSAL COMMITTEE</a></li>
+														<li><a href="antiragging.php">ANTI RAGGING COMMITTEE</a></li>
+														<li><a href="antiragging_squad.php">ANTI RAGGING SQUAD</a></li>
 													</ul>
 												</li>
 												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" style="color: white;">Admissions</a>

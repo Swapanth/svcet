@@ -59,13 +59,13 @@
                             <div class="col">
                                 <div class="row align-items-center pt-4 appear-animation" data-appear-animation="fadeInLeftShorter">
                                     <div class="col-md-4 mb-4 mb-md-0 d-flex justify-content-center align-items-center">
-                                        <img class="img-fluid" style="width: 100%; height: auto; max-width: 100%;" src="img/team/img6.png" alt="layout styles">
+                                        <img class="img-fluid" style="width: 100%; height: auto; max-width: 100%;" src="img/img6.png" alt="layout styles">
                                     </div>
                                     <div class="col-md-8 ps-md-5">
                                         <h2 class="font-weight-normal text-6 mb-3"><strong class="font-weight-extra-bold">First Aid Center</strong></h2>
                                         <p class="text-4">
-                                            <strong>Experienced Staff:</strong> Our First Aid Center is staffed with well-experienced pharmacists who are available at all times. They are equipped to handle a variety of medical situations and provide immediate care.<br>
-                                            <strong>Availability of Medicines:</strong> The center is stocked with all necessary medicines and first aid items, ensuring that we are prepared for any emergencies. This includes over-the-counter medications, prescription medications, and essential first aid supplies.<br>
+                                            <strong>Experienced Staff:</strong> Our First Aid Center is staffed with well-experienced pharmacists who are available at all times. <br>
+                                            <strong>Availability of Medicines:</strong> The center is stocked with all necessary medicines and first aid items. This includes over-the-counter medications, prescription medications, and essential first aid supplies.<br>
                                             <strong>Prompt Care:</strong> Whether it's a minor injury or a sudden illness, our First Aid Center is always ready to provide prompt and effective care, minimizing any disruption to the academic schedule of our students.
                                         </p>
                                     </div>
@@ -83,7 +83,7 @@
                                         </p>
                                     </div>
                                     <div class="col-md-4 px-5 px-md-3">
-                                        <img class="img-fluid scale-2 my-4" src="img/team/img5.webp" alt="style switcher" />
+                                        <img class="img-fluid scale-2 my-4" src="img/img5.webp" alt="style switcher" />
                                     </div>
                                 </div>
                             </div>
