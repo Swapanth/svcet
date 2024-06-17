@@ -61,13 +61,13 @@
                 <br>
                 <br>
                 <br>
-				<section class="page-header page-header-modern bg-color-primary page-header-md">
-					<div class="container">
-						<div class="row">
+				<section class="page-header page-header-modern page-header-md" style="background-color:#840103; height:6px; margin-Bottom:-10px;">
+					<div class="container" >
+						<div class="row" style="margin-top:-5px;">
 
 							<div class="col-md-8 order-2 order-md-1 align-self-center p-static">
-								<h1>Admission</h1>
-								<span class="sub-title">Admission procedure</span>
+								<h1>Admissons</h1>
+								<span class="sub-title">Admission Procedure</span>
 							</div>
 							<div class="col-md-4 order-1 order-md-2 align-self-center">
 								<ul class="breadcrumb d-block text-md-end breadcrumb-light">
