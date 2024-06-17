@@ -157,13 +157,13 @@
 												</li>
 												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" style="color: white;">Academics</a>
 													<ul class="dropdown-menu">
-														<li><a href="soon.php">Civil Engineering</a></li>
-														<li><a href="soon.php">Computer Science & Engineering</a></li>
-														<li><a href="soon.php">Electrical & Electronics Engineering</a></li>
-														<li><a href="soon.php">Electronics & Communication Engineering</a></li>
-														<li><a href="soon.php">Mechanical Engineering</a></li>
+														<li><a href="civil.php">Civil Engineering</a></li>
+														<li><a href="cse.php">Computer Science & Engineering</a></li>
+														<li><a href="ece.php">Electrical & Electronics Engineering</a></li>
+														<li><a href="ece.php">Electronics & Communication Engineering</a></li>
+														<li><a href="mec.php">Mechanical Engineering</a></li>
 														<li><a href="soon.php">Basic Science & Humanities</a></li>
-														<li><a href="soon.php">Master Of Business Administration</a></li>
+														<li><a href="mba.php">Master Of Business Administration</a></li>
 													</ul>
 												</li>
 												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" style="color: white;">Activities</a>
