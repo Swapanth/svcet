@@ -14,7 +14,6 @@
 
 	<!-- Favicon -->
 	<link rel="shortcut icon" href="img/favicon.ico" type="img/I1" />
-	<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
 
 	<!-- Mobile Metas -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
@@ -203,7 +202,7 @@
 
 												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" style="color: white;">NAAC</a>
 													<ul class="dropdown-menu">
-														<li><a href="naacreport.php">Self Study Report</a></li>
+														<li><a href="Naac_report.php">Self Study Report</a></li>
 														<li><a href="soon.php">Data Validation and Verification</a></li>
 
 													</ul>

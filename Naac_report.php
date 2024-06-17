@@ -83,7 +83,7 @@
             <div class="container">
 
                 <div class="row mt-5 mb-4">
-                    <?php include 'naccsidebar.php'; ?>
+                    <?php include 'Nacc_sidebar.php'; ?>
                     <div class="col">
 
                         <h1 style="text-align:center">NAAC Report</h1>
