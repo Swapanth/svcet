@@ -1,22 +1,21 @@
 <div class="col-lg-3 position-relative">
-							<aside class="sidebar" id="sidebar" data-plugin-sticky data-plugin-options="{'minWidth': 991, 'containerSelector': '.container', 'padding': {'top': 110}}">
+    <aside class="sidebar" id="sidebar" data-plugin-sticky data-plugin-options="{'minWidth': 991, 'containerSelector': '.container', 'padding': {'top': 110}}">
 
-								<h5 class="font-weight-semi-bold">Categories</h5>
-								<ul class="nav nav-list flex-column mb-5">
-									<li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="objectives.php">OBJECTIVES</a></li>
-									<li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="vision.php">VISION & MISSION</a></li>
-                                    <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="affiliation.php">AFFILIATION & ACCREDITATION</a></li>
-                                    <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="management.php">MANAGEMENT</a></li>
-                                    <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="principal.php">PRINCIPAL</a></li>
-                                    <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="rules.php">RULES & REGULATIONS</a></li>
-                                    <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="programmes_offered.php">PROGRAMMES OFFERED</a></li>
-                                    <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="governing_council.php">GOVERNING COUNCIL BOARD</a></li>
-                                    <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="grievance.php">GRIEVANCE REDRESSAL COMMITTEE</a></li>
-                                    <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="antiragging.php">ANTI RAGGING COMMITTEE</a></li>
-                                    <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="antiragging_squad.php">ANTI RAGGING SQUAD</a></li>
+        <h5 class="font-weight-semi-bold">Categories</h5>
+        <ul class="nav nav-list flex-column mb-5">
+            <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Aboutus_objectives.php">Objectives</a></li>
+            <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Aboutus_vision.php">Vision & Mission</a></li>
+            <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Aboutus_affiliation.php">Affiliation & Accreditation</a></li>
+            <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Aboutus_management.php">Management</a></li>
+            <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Aboutus_principal.php">Principal</a></li>
+            <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Aboutus_programmes.php">Programmes Offered</a></li>
+            <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Aboutus_rules.php">Rules & Regulations</a></li>
+            <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Aboutus_governing_council.php">Governing Council Board</a></li>
+            <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Aboutus_grievance.php">Grievance Redressal Committee</a></li>
+            <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Aboutus_antiragging.php">Anti Ragging Committee</a></li>
+            <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Aboutus_antiragging_squad.php">Anti Ragging Squad</a></li>
+        </ul>
 
 
-								</ul>
-
-							</aside>
-						</div>
+    </aside>
+</div>

@@ -6,7 +6,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<title>NSS</title>	
+		<title>Admission enquiry</title>	
 
 		<meta name="keywords" content="WebSite Template" />
 		<meta name="description" content="Porto - Multipurpose Website Template">
@@ -61,19 +61,18 @@
                 <br>
                 <br>
                 <br>
-                <br>
-				<section class="page-header page-header-modern bg-color-primary page-header-md">
-					<div class="container">
-						<div class="row">
+                <section class="page-header page-header-modern page-header-md" style="background-color:#840103; height:6px; margin-Bottom:-10px;">
+					<div class="container" >
+						<div class="row" style="margin-top:-5px;">
 
 							<div class="col-md-8 order-2 order-md-1 align-self-center p-static">
-								<h1>ACTIVITES</h1>
-								<span class="sub-title">NSS</span>
+								<h1>Admissons</h1>
+								<span class="sub-title">Undergraduate Admissions</span>
 							</div>
 							<div class="col-md-4 order-1 order-md-2 align-self-center">
 								<ul class="breadcrumb d-block text-md-end breadcrumb-light">
 									<li><a href="demo-medical.html">Home</a></li>
-									<li class="active">NSS</li>
+									<li class="active">Admissions</li>
 								</ul>
 							</div>
 						</div>
@@ -83,15 +82,18 @@
 				<div class="container">
 
 					<div class="row mt-5 mb-4">
-                    <?php include 'Activities_sidebar.php'; ?>
+                    <?php include 'admissionsidebar.php'; ?>
 						<div class="col">
-                         <h1>NSS</h1>
-                         <p> <a href="img/NSS/blooddonationcamp15.03.19.pdf" target="_blank"> Blood Donation Camp On 15.03.19 </a> </p>
-                         <p> <a href="img\NSS\blooddonationcamp31.08.2018.pdf" target="_blank"> Blooddonation Camp On 31.08.2018 </a> </p>
-                         <p> <a href="img\NSS\InternationalDayOfYoga-21-06-18.pdf" target="_blank"> International Day Of Yoga-21-06-18 </a> </p>
-                         <p> <a href="img\NSS\Republicdaycelebration26.01.2019.pdf" target="_blank"> Republic Day Celebration On 26.01.2019 </a> </p>
-                         <p> <a href="img\NSS\worldozoneday16.09.18.pdf" target="_blank">  World Ozone Day 16.09.18</a> </p>
+                            
+                            <h3>UNDERGRADUATE ADMISSION</h3>
 
+                            <h4>Eligibility</h4>
+                            <p>Higher Secondary Examination of (10 + 2) Curriculum (Academic Stream) prescribed by the Government of Andhra Pradesh with Mathematics, Physics and Chemistry.</p>
+                            <p>Any examination of any other University or authority accepted by the JNTUK as equivalent thereto.</p>
+                            <p>Diploma in Engineering / Technology awarded by the State Board of Technical Education, Andhra Pradesh or any other authority accepted by the syndicate of the University as equivalent there to.</p>
+                            <p>The candidates who possess the Diploma in Engineering / Technology awarded by the State Board of Technical Education and Training, are eligible for admission to the third semester of the B.E. / B. Tech, Degree Programs in affiliated colleges through lateral entry system.</p>
+                            <p>The eligibility criteria such as marks, number of attempts and physical fitness and the mode of admission shall be as prescribed by the University from time to time.</p>
+                        
 
 						</div>
 					</div>

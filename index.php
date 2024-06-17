@@ -36,7 +36,6 @@
     </div>
 
 </section>
-<!-- testing -->
 
 <section class="news_events_about" style="text-align: center;" ,>
 
@@ -82,7 +81,7 @@
                     </div>
 
                     <dl style="text-align: left;">
-                        <dt style="font-weight: bolder;">Archievement of NAAC "A" Grade</dt>
+                        <dt style="font-weight: bolder;">Achievements of NAAC "A" Grade</dt>
                         <dd>SVCE has been awarded with the highest grade by the National Assessment and Accreditation Council (NAAC) for a period of five years.</dd>
                         <dt style="font-weight: bolder;">IQAC Minutes</dt>
                         <dd>IQAC Minutes of the meeting held on 10th December 2021</dd>
@@ -102,9 +101,9 @@
                                     <span class="month">Nov</span>
                                 </div>
                                 <h4><a href="soon.php" class="text-decoration-none">Professional Development through Innovative Thinking</a></h4>
-                                <p class="mb-0" style="text-align: left;">➢ Aware the importance of creative thinking
-                                    ➢ apply learning for innovation and value creation
-                                    ➢ to build confidence to be an Entrepreneur <a href="soon.php" class="read-more font-weight-bold text-2">read more <i class="fas fa-chevron-right text-1 ms-1"></i></a></p>
+                                <p class="mb-0" style="text-align: left;">Aware the importance of creative thinking
+                                    apply learning for innovation and value creation
+                                    to build confidence to be an Entrepreneur <a href="soon.php" class="read-more font-weight-bold text-2">read more <i class="fas fa-chevron-right text-1 ms-1"></i></a></p>
                             </article>
                         </div>
                     </div>
@@ -142,9 +141,9 @@
 <br>
 <br>
 
-<!-- <section class="board" style="padding: 7px;height:45px; margin: 10px; background-color: #097197; color:white;"> -->
 
-    <section class="#" style="text-align: center;">
+<h1 style="margin-Left:40px;">Svcet Provides</h1>
+         <section class="#" style="text-align: center;">
         <div class="row mt-7">
             <div class="col">
                 <div class="row">
@@ -193,7 +192,6 @@
                                         </tr>
                                     </thead>
                                     <tbody>
-                                        <!-- Show the first few rows -->
                                         <tr>
                                             <td>B.Tech</td>
                                             <td>Civil Engineering</td>

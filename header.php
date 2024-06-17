@@ -112,7 +112,7 @@
 							<div class="header-row">
 								<div class="header-logo header-logo-sticky-change" style="width: 82px; height: 40px;margin-Top:-19px;">
 									<a href="index.php">
-										<img class="header-logo-non-sticky opacity-0" alt="Porto" width="600" height="90" src="img/svcet.svg" style="margin-Top:-12px; margin-left:-100px;">
+										<img class="header-logo-non-sticky opacity-0" alt="Porto" width="700" height="90" src="img/svcet2.svg" style="margin-Top:-12px; margin-left:-150px;">
 										<img class="header-logo-sticky opacity-0" alt="Porto" width="170" height="100px" src="img/svcet1.svg" style="margin-bottom: 20px;">
 									</a>
 								</div>
@@ -132,24 +132,26 @@
 												<li>
 												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" style="color: white;">About Us</a>
 													<ul class="dropdown-menu">
-														<li><a href="objectives.php">OBJECTIVES</a></li>
-														<li><a href="vision.php">VISION & MISSION</a></li>
-														<li><a href="affiliation.php">AFFILIATION & ACCREDITATION</a></li>
-														<li><a href="management.php">MANAGEMENT</a></li>
-														<li><a href="principal.php">PRINCIPAL</a></li>
-														<li><a href="rules.php">RULES & REGULATIONS</a></li>
-														<li><a href="programmes_offered.php">PROGRAMMES OFFERED</a></li>
-														<li><a href="governing_council.php">GOVERNING COUNCIL BOARD</a></li>
-														<li><a href="grievance.php">GRIEVANCE REDRESSAL COMMITTEE</a></li>
-														<li><a href="antiragging.php">ANTI RAGGING COMMITTEE</a></li>
-														<li><a href="antiragging_squad.php">ANTI RAGGING SQUAD</a></li>
+														<li><a href="Aboutus_objectives.php">Objectives</a></li>
+														<li><a href="Aboutus_vision.php">Vision & Mission</a></li>
+														<li><a href="Aboutus_affiliation.php">Affiliation & Accreditation</a></li>
+														<li><a href="Aboutus_management.php">Management</a></li>
+														<li><a href="Aboutus_principal.php">Principal</a></li>
+														<li><a href="Aboutus_rules.php">Rules & Regulations</a></li>
+														<li><a href="Aboutus_programmes.php">Programmes Offered</a></li>
+														<li><a href="Aboutus_governing_council.php">Governing Council Board</a></li>
+														<li><a href="Aboutus_grievance.php">Grievance Redressal Committee</a></li>
+														<li><a href="Aboutus_antiragging.php">Anti Ragging Committee</a></li>
+														<li><a href="Aboutus_antiragging_squad.php">Anti Ragging Squad</a></li>
 													</ul>
+
 												</li>
 												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" style="color: white;">Admissions</a>
 													<ul class="dropdown-menu">
-														<li><a href="soon.php">Admission Procedure</a></li>
-														<li><a href="soon.php">Undergraduate Admissions</a></li>
-														<li><a href="soon.php">Postgraduate Admissions</a></li>
+													    <li><a href="admission_enquiry.php">Admission Enquiry</a></li>
+														<li><a href="admission_procedure.php">Admission Procedure</a></li>
+														<li><a href="admission_undergraduate.php">Undergraduate Admissions</a></li>
+														<li><a href="admission_postgraduate.php">Postgraduate Admissions</a></li>
 														<li><a href="soon.php">Fee Structure</a></li>
 													</ul>
 												</li>
@@ -166,9 +168,9 @@
 												</li>
 												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" style="color: white;">Activities</a>
 													<ul class="dropdown-menu">
-														<li><a href="NSS.php">NSS</a></li>
-														<li><a href="soon.php">IQAC</a></li>
-														<li><a href="alumini.php">Alumni</a></li>
+														<li><a href="Activities_NSS.php">NSS</a></li>
+														<li><a href="Activities_IQAC.php">IQAC</a></li>
+														<li><a href="Activities_alumini.php">Alumni</a></li>
 														<li><a href="soon.php">Professional Bodies</a></li>
 														<li><a href="soon.php">Student Chapters</a></li>
 														<li><a href="soon.php">Events Gallery</a></li>
