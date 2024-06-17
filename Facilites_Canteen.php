@@ -29,7 +29,7 @@
 				<div class="container py-5 mt-3">
 
 					<div class="row">
-					<?php include 'Facilitiessidebar.php'; ?>
+					<?php include 'Facilities_sidebar.php'; ?>
 
 						<div class="col-lg-8">
 							<div class="overflow-hidden mb-2">
