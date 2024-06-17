@@ -48,7 +48,7 @@
                                     </a>
                                 </div>
                                 <div class="post-content">
-                                    <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="blog-post.html">BasketBall </a></h2>
+                                    <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="soon.php">BasketBall </a></h2>
                                 </div>
                             </article>
                         </div>
@@ -61,7 +61,7 @@
                                     </a>
                                 </div>
                                 <div class="post-content">
-                                    <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="blog-post.html">Volleyball Tournament</a></h2>
+                                    <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="soon.php">Volleyball Tournament</a></h2>
                                 </div>
                             </article>
                         </div>
@@ -74,7 +74,7 @@
                                     </a>
                                 </div>
                                 <div class="post-content">
-                                    <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="blog-post.html">Kabbadi</a></h2>
+                                    <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="soon.php">Kabbadi</a></h2>
                                 </div>
                             </article>
                         </div>
@@ -87,7 +87,7 @@
                                     </a>
                                 </div>
                                 <div class="post-content">
-                                    <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="blog-post.html">Chess Tournament</a></h2>
+                                    <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="soon.php">Chess Tournament</a></h2>
                                 </div>
                             </article>
                         </div>
@@ -100,7 +100,7 @@
                                     </a>
                                 </div>
                                 <div class="post-content">
-                                    <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="blog-post.html">Culturals</a></h2>
+                                    <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="soon.php">Culturals</a></h2>
                                 </div>
                             </article>
                         </div>
@@ -113,7 +113,7 @@
                                     </a>
                                 </div>
                                 <div class="post-content">
-                                    <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="blog-post.html">Sankranthi Sambaralu</a></h2>
+                                    <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="soon.php">Sankranthi Sambaralu</a></h2>
                                 </div>
                             </article>
                         </div>
@@ -126,7 +126,7 @@
                                     </a>
                                 </div>
                                 <div class="post-content">
-                                    <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="blog-post.html">Dance Programme</a></h2>
+                                    <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="soon.php">Dance Programme</a></h2>
                                 </div>
                             </article>
                         </div>
@@ -139,7 +139,7 @@
                                     </a>
                                 </div>
                                 <div class="post-content">
-                                    <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="blog-post.html">The Creative Team</a></h2>
+                                    <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="soon.php">The Creative Team</a></h2>
                                 </div>
                             </article>
                         </div>
