@@ -178,16 +178,16 @@
 												</li>
 												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" style="color: white;">Facilities</a>
 													<ul class="dropdown-menu">
-														<li><a href="soon.php">Central Library</a></li>
-														<li><a href="soon.php">Hostel</a></li>
-														<li><a href="soon.php">Transport</a></li>
-														<li><a href="soon.php">ESVCET</a></li>
-														<li><a href="soon.php">Internet</a></li>
-														<li><a href="soon.php">Canteen</a></li>
-														<li><a href="soon.php">Entrepreneurship Cell</a></li>
-														<li><a href="soon.php">Medical</a></li>
-														<li><a href="soon.php">Sports & Culturals</a></li>
-														<li><a href="soon.php">Collaboration</a></li>
+														<li><a href="Facilites_Library.php">Central Library</a></li>
+														<li><a href="Facilites_Hostels.php">Hostel</a></li>
+														<li><a href="Facilites_Transport.php">Transport</a></li>
+														<li><a href="Facilites_ESVCET.php">ESVCET</a></li>
+														<li><a href="Facilites_Internet.php">Internet</a></li>
+														<li><a href="Facilites_Canteen.php">Canteen</a></li>
+														<li><a href="Facilites_Enterpre.php">Entrepreneurship Cell</a></li>
+														<li><a href="Facilites_Medical.php">Medical</a></li>
+														<li><a href="Facilites_Sportsandcultures.php">Sports & Culturals</a></li>
+														<li><a href="Facilites_Collaboration.php">Collaboration</a></li>
 													</ul>
 												</li>
 												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" style="color: white;">P & T</a>
