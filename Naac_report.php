@@ -571,213 +571,209 @@
                                                     <tr>
                                                         <td>5.1.1(1)</td>
                                                         <td>Sanction letters and list of students benefited by Government in A.Y 2022-23</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/5.1.1(1).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>5.1.1(2)</td>
                                                         <td>Sanction letters and list of students benefited by Government in A.Y 2021-22</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/5.1.1(2).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>5.1.1(3)</td>
                                                         <td>Sanction letters and list of students benefited by Government in A.Y 2020-21</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/5.1.1(3).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>5.1.1(4)</td>
                                                         <td>Sanction letters and list of students benefited by Government in A.Y 2019-20</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/5.1.1(4).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>5.1.1(5)</td>
                                                         <td>Sanction letters and list of students benefited by Government in A.Y 2018-19</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/5.1.1(5).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>5.1.1(6)</td>
                                                         <td>Policy Document for Institutional Freeships</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/5.1.1(6).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>5.1.1(7)</td>
                                                         <td>List of students benefitted along with the sanction letters for the Institutional freeships</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/5.1.1(7).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>5.1.2(1)</td>
                                                         <td>Documents related to organised softskills programmmes during Assessment period</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/5.1.2(1).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>5.1.2(2)</td>
                                                         <td>Documents related to organised language and communication skills during Assessment period</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/5.1.2(2).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>5.1.2(3)</td>
                                                         <td>Documents related to organised lifeskills programmes during Assessment period</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/5.1.2(3).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>5.1.2(4)</td>
                                                         <td>Documents related to organised ICT/Computing skills programmmes during Assessment period</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/5.1.2(4).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>5.1.2(5)</td>
                                                         <td>Institutional weblink redirecting to the capacity building and skill enhancement programs</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/5.1.2(5).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>5.1.3(1)</td>
                                                         <td>Documents related to guidance for competitive examinations and career counselling during A.Y 2022-23</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/5.1.3(1).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>5.1.3(2)</td>
                                                         <td>Documents related to guidance for competitive examinations and career counselling during A.Y 2021-22</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/5.1.3(2).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>5.1.3(3)</td>
                                                         <td>Documents related to guidance for competitive examinations and career counselling during A.Y 2020-21</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/5.1.3(3).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>5.1.3(4)</td>
                                                         <td>Documents related to guidance for competitive examinations and career counselling during A.Y 2019-20</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/5.1.3(4).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>5.1.3(5)</td>
                                                         <td>Documents related to guidance for competitive examinations and career counselling during A.Y 2018-19</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/5.1.3(5).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>5.1.4(1)</td>
                                                         <td>Minutes of Anti ragging committee</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/5.1.4(1).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>5.1.4(2)</td>
                                                         <td>Minutes of Women Empowerment grievance Redressal committee</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/5.1.4(2).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>5.1.4(3)</td>
                                                         <td>Grievance Redressal cell</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/5.1.4(3).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>5.1.4(4)</td>
                                                         <td>Sample filled undertaking forms</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/5.1.4(4).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>5.1.4(5)</td>
                                                         <td>Weblink for online grievance cell</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/5.1.4(5).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>5.2.1(1)</td>
                                                         <td>Offer letters of the placed students and admission letters of students enrolled in higher education during A.Y 2022-23</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/5.2.1(1).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>5.2.1(2)</td>
                                                         <td>Offer letters of the placed students and admission letters of students enrolled in higher education during A.Y 2021-22</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/5.2.1(2).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>5.2.1(3)</td>
                                                         <td>Offer letters of the placed students and admission letters of students enrolled in higher education during A.Y 2020-21</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/5.2.1(3).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>5.2.1(4)</td>
                                                         <td>Offer letters of the placed students and admission letters of students enrolled in higher education during A.Y 2019-20</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/5.2.1(4).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>5.2.1(5)</td>
                                                         <td>Offer letters of the placed students and admission letters of students enrolled in higher education during A.Y 2018-19</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/5.2.1(5).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>5.2.2(1)</td>
                                                         <td>List of students with E-copies of qualifying certificates in A.Y 2022-23</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/5.2.2(1).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>5.2.2(3)</td>
                                                         <td>List of students with E-copies of qualifying certificates in A.Y 2020-21</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/5.2.2(3).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>5.2.2(5)</td>
                                                         <td>List of students with E-copies of qualifying certificates in A.Y 2018-19</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/5.2.2(5).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>5.3.1(1)</td>
                                                         <td>E-copies of merit certificates in sports and culturals during A.Y.2022-23</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/5.3.1(1).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>5.3.1(2)</td>
                                                         <td>E-copies of merit certificates in sports and culturals during A.Y.2021-22</td>
-                                                        <td><a href="#">View</a></td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>5.3.1(2)</td>
-                                                        <td>E-copies of merit certificates in sports and culturals during A.Y.2021-22</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/5.3.1(2).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>5.3.1(3)</td>
                                                         <td>E-copies of merit certificates in sports and culturals during A.Y.2020-21</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/5.3.1(3).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>5.3.1(4)</td>
                                                         <td>E-copies of merit certificates in sports and culturals during A.Y.2019-20</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/5.3.1(4).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>5.3.1(5)</td>
                                                         <td>E-copies of merit certificates in sports and culturals during A.Y.2018-19</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/5.3.1(5).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>5.3.2(1)</td>
                                                         <td>Documents related to sports and cultural competitions organised in the institution and e-copies of participation certificates in other institutions in A.Y 2022-23</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/5.3.2(1).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>5.3.2(2)</td>
                                                         <td>Documents related to sports and cultural competitions organised in the institution and e-copies of participation certificates in other institutions in A.Y 2021-22</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/5.3.2(2).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>5.3.2(3)</td>
                                                         <td>Documents related to sports and cultural competitions organised in the institution and e-copies of participation certificates in other institutions in A.Y 2020-21</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/5.3.2(3).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>5.3.2(4)</td>
                                                         <td>Documents related to sports and cultural competitions organised in the institution and e-copies of participation certificates in other institutions in A.Y 2019-20</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/5.3.2(4).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>5.3.2(5)</td>
                                                         <td>Documents related to sports and cultural competitions organised in the institution and e-copies of participation certificates in other institutions in A.Y 2018-19</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/5.3.2(5).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>5.3.2(6)</td>
                                                         <td>Certified list of events organised in the college and participated in other colleges along with the participants list for the last five years</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/5.3.2(6).pdf">View</a></td>
                                                     </tr>
+
                                                     <tr>
                                                         <td>5.4.1</td>
                                                         <td>e-copy of Alumni registered certificate</td>
@@ -977,87 +973,87 @@
                                                     <tr>
                                                         <td>7.1.1</td>
                                                         <td>Documents related to gender equity promotion programs</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/7.1.1.pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>7.1.2(1)</td>
                                                         <td>Geo-Tagged Photographs</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/7.1.2(1).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>7.1.2(2)</td>
                                                         <td>Invoices</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/7.1.2(2).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>7.1.2(3)</td>
                                                         <td>MoUs For Solid and e-Waste Management</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/7.1.2(3).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>7.1.2(4)</td>
                                                         <td>Circulars for No Entry of Automobiles and Ban on Use of Plastic</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/7.1.2(4).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>7.1.2(5)</td>
                                                         <td>Scribe Letters</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/7.1.2(5).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>7.1.2(6)</td>
                                                         <td>Policy Documents</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/7.1.2(6).pd6">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>7.1.3(1)</td>
                                                         <td>Policy for Energy Utilization and Environment</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/7.1.3(1).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>7.1.3(2)</td>
                                                         <td>Green Audit report</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/7.1.3(2).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>7.1.3(3)</td>
                                                         <td>Environment audit Report</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/7.1.3(3).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>7.1.3(4)</td>
                                                         <td>Energy audit Report</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/7.1.3(4).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>7.1.3(5)</td>
                                                         <td>Document Related to Clean and Green Campus Initiatives</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/7.1.3(5).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>7.1.3(6)</td>
                                                         <td>Report on Green Campus Initiatives</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/7.1.3(6).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>7.1.3(7)</td>
                                                         <td>Document related to Environment Promotion Activities beyond Campus</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/7.1.3(7).pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>7.1.4</td>
                                                         <td>Supporting Documents</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/7.1.4.pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>7.2.1</td>
                                                         <td>Documents related to the evidence of success for two best practices</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/7.2.1.pdf">View</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>7.3.1</td>
                                                         <td>Supporting Documents</td>
-                                                        <td><a href="#">View</a></td>
+                                                        <td><a href="http://svcet.net/ssr%20uploads/7.3.1.pdf">View</a></td>
                                                     </tr>
                                                 </tbody>
                                             </table>
