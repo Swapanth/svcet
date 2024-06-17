@@ -44,11 +44,11 @@
                             <article class="post post-medium border-0 pb-0 mb-5">
                                 <div class="post-image">
                                     <a href="#">
-                                        <img src="img/img8.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="Sports Image" />
+                                        <img src="img/img20.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="Sports Image" />
                                     </a>
                                 </div>
                                 <div class="post-content">
-                                    <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="blog-post.html">Sports</a></h2>
+                                    <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="blog-post.html">BasketBall </a></h2>
                                 </div>
                             </article>
                         </div>

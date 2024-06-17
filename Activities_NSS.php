@@ -83,7 +83,7 @@
 				<div class="container">
 
 					<div class="row mt-5 mb-4">
-                    <?php include 'Activitiessidebar.php'; ?>
+                    <?php include 'Activities_sidebar.php'; ?>
 						<div class="col">
                          <h1>NSS</h1>
                          <p> <a href="img/NSS/blooddonationcamp15.03.19.pdf" target="_blank"> Blood Donation Camp On 15.03.19 </a> </p>

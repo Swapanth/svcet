@@ -61,9 +61,9 @@
                 <br>
                 <br>
                 <br>
-				<section class="page-header page-header-modern bg-color-primary page-header-md">
-					<div class="container">
-						<div class="row">
+				<section class="page-header page-header-modern page-header-md" style="background-color:#840103; height:6px; margin-Bottom:-10px;">
+					<div class="container" >
+						<div class="row" style="margin-top:-5px;">
 
 							<div class="col-md-8 order-2 order-md-1 align-self-center p-static">
 								<h1>P & T</h1>
@@ -82,7 +82,7 @@
 				<div class="container">
 
 					<div class="row mt-5 mb-4">
-                    <?php include 'placementssidebar.php'; ?>
+                    <?php include 'Placements_sidebar.php'; ?>
 						<div class="col">
                             
                           <h2 class="font-weight-semibold mb-3">Training:</h2>

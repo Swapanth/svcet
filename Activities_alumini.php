@@ -83,7 +83,7 @@
 				<div class="container">
 
 					<div class="row mt-5 mb-4">
-                    <?php include 'Activitiessidebar.php'; ?>
+                    <?php include 'Activities_sidebar.php'; ?>
 						<div class="col">
                          <h1>Alumini</h1>
                          <p> <a href="img\alumni reg file bothsides color.pdf" target="_blank">Alumni Certificate of Registration </a> </p>

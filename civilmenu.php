@@ -19,7 +19,7 @@
                             <li><a href="civil_syllabus_events.php">Syllabus And Event Gallery</a></li>
 
                         </ul>
-                    </article><!-- /.news-small -->
-                   </div><!-- /#section-content -->
-                </div><!-- /#sidebar -->
-            </div><!-- /.col-md-4 -->
+                    </article>
+                   </div>
+                </div>
+            </div>
