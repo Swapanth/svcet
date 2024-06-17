@@ -30,7 +30,7 @@
 
         <div class="row">
             <div class="col-lg-3">
-                <?php include 'Facilitiessidebar.php'; ?>
+                <?php include 'Facilities_sidebar.php'; ?>
             </div>
             <div class="col-lg-9">
                 <div class="blog-posts">
