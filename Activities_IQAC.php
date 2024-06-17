@@ -101,7 +101,7 @@
 				<div class="container">
 
 					<div class="row mt-5 mb-4">
-                    <?php include 'Activitiessidebar.php'; ?>
+                    <?php include 'Activities_sidebar.php'; ?>
 						<div class="col">
                         <h2 align='center'><b>Internal Quality Assurance Cell (IQAC)</b></h2>
                         <p>The Internal Quality Assurance Committee for the Academic Year 2018-19 has been reformed under the Chairmanship of Dr. M.Govinda Raju, Principal, SVCET with the following members for the improvement of Quality in terms of teaching learning and evaluation process in our Institution.</p>

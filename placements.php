@@ -82,7 +82,7 @@
 				<div class="container">
 
 					<div class="row mt-5 mb-4">
-                    <?php include 'placementssidebar.php'; ?>
+                    <?php include 'Placements_sidebar.php'; ?>
 						<div class="col">
                             
                           <h2 class="font-weight-semibold mb-3">Training:</h2>
