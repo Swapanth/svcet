@@ -10,7 +10,7 @@
             <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Aboutus_principal.php">Principal</a></li>
             <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Aboutus_programmes.php">Programmes Offered</a></li>
             <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Aboutus_rules.php">Rules & Regulations</a></li>
-            <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Aboutus_governing_council.php">Governing Council Board</a></li>
+            <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Aboutus_governing.php">Governing Council Board</a></li>
             <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Aboutus_grievance.php">Grievance Redressal Committee</a></li>
             <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Aboutus_antiragging.php">Anti Ragging Committee</a></li>
             <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Aboutus_antiragging_squad.php">Anti Ragging Squad</a></li>
