@@ -48,7 +48,7 @@
                 <div class="col content">
             <h4 class="mb-4">GOVERNING COUNCIL BOARD</h4>
             <div class="table-responsive">
-            <table class="table table-hover">
+            <table class="table">
             <thead>
                 <tr>
                     <th>#</th>
