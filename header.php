@@ -167,9 +167,9 @@
 												</li>
 												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" style="color: white;">Activities</a>
 													<ul class="dropdown-menu">
-														<li><a href="NSS.php">NSS</a></li>
-														<li><a href="soon.php">IQAC</a></li>
-														<li><a href="alumini.php">Alumni</a></li>
+														<li><a href="Activities_NSS.php">NSS</a></li>
+														<li><a href="Activities_IQAC.php">IQAC</a></li>
+														<li><a href="Activities_alumini.php">Alumni</a></li>
 														<li><a href="soon.php">Professional Bodies</a></li>
 														<li><a href="soon.php">Student Chapters</a></li>
 														<li><a href="soon.php">Events Gallery</a></li>
