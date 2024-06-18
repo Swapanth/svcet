@@ -157,8 +157,8 @@
 												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" style="color: white;">Academics</a>
 													<ul class="dropdown-menu">
 														<li><a href="cse.php">Computer Science & Engineering</a></li>
-														<li><a href="eee.php">Electronics & Communication Engineering</a></li>
-														<li><a href="ece.php">Electrical & Electronics Engineering</a></li>
+														<li><a href="ece.php">Electronics & Communication Engineering</a></li>
+														<li><a href="eee.php">Electrical & Electronics Engineering</a></li>
 														<li><a href="mec.php">Mechanical Engineering</a></li>
 														<li><a href="civil.php">Civil Engineering</a></li>
 														<li><a href="soon.php">Basic Science & Humanities</a></li>
