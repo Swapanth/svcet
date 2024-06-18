@@ -11,7 +11,7 @@
                         <li><a href="ece.php">About ECE Department</a></li>
                         <li><a href="ece_vision&mision.php">Vision and Mission</a></li>
                         <li><a href="soon.php">Outcome and Objectives</a></li>
-                        <li><a href="soon.php">Infrastructure</a></li>
+                        <li><a href="ece_infra.php">Infrastructure</a></li>
                         <li><a href="ece_staff.php">Staff Details</a></li>
                         <li><a href="soon.php">Achievements</a></li>
                         <li><a href="ece_hod.php">HOD Message</a></li>
