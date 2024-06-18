@@ -6,7 +6,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<title>Placements & Training</title>	
+		<title>Admission enquiry</title>	
 
 		<meta name="keywords" content="WebSite Template" />
 		<meta name="description" content="Porto - Multipurpose Website Template">
@@ -66,13 +66,13 @@
 						<div class="row" style="margin-top:-5px;">
 
 							<div class="col-md-8 order-2 order-md-1 align-self-center p-static">
-								<h1>P & T</h1>
-								<span class="sub-title">PLACEMENT & TRANNING</span>
+								<h1>Admissons</h1>
+								<span class="sub-title">Admission Procedure</span>
 							</div>
 							<div class="col-md-4 order-1 order-md-2 align-self-center">
 								<ul class="breadcrumb d-block text-md-end breadcrumb-light">
 									<li><a href="demo-medical.html">Home</a></li>
-									<li class="active">P & T</li>
+									<li class="active">Admissions</li>
 								</ul>
 							</div>
 						</div>
@@ -82,45 +82,50 @@
 				<div class="container">
 
 					<div class="row mt-5 mb-4">
-                    <?php include 'Placements_sidebar.php'; ?>
+                    <?php include 'admissionsidebar.php'; ?>
 						<div class="col">
                             
-                          <h2 class="font-weight-semibold mb-3">Training:</h2>
-
-							<h4 class="font-weight-semibold mb-3">1. WEB DESIGNING COURSE :</h4>
-							<p>This course was conducted in summer and course involves HTML5 + CSS3 + JavaScript.</p>
-                            <p> This program duration is 45 days and it was conducted as a summer intern course and professional bodys involved in the training.A well experienced Software Development team taken the charge and conducted the training.</p>
+                            <h2 class="font-weight-semibold mb-3">ADMISSION PROCEDURE :</h2>
+                            <p>SVCET recognizes that no two students are alike, so your college education can't follow a "general education" path. That is why the SVCET Curriculum is unique in higher education has no required subjects. The result is an education that reflects students' priorities. The Managing committee is responsible for making all major decisions to carry out the recommendations of the Governing Council and Technical Advisory Committee. The members of these bodies are eminent personalities possessing expertise and experience in technical education, industry, business and public services.</p>
                             
-                            <h4 class="font-weight-semibold mb-3">2. TALLY ACE :</h4>
-							<p>Course involves Tally ERP 9(Licenced Version).</p>
-                            <p>This program duration is 1 Month.Experienced trainers involved in the training.A well experienced Acoounts team taken the charge and conducted the training.</p>
-                           
-                            <h4 class="font-weight-semibold mb-3">3. SOFTWARE DEVELOPMENT TRAINING :</h4>
-                              <p>This course was conducted in summer and course involves HTML5 + CSS3 + JavaScript + PHP + MYSQL.</p>
-                              <p>This program duration is 45 days and it was conducted as a summer intern course and professional bodys involved in the training.A well experienced Software Development team taken the charge and conducted the training.</p>
-
-                              <h4 class="font-weight-semibold mb-3">4. SUMMER INTERNSHIP :</h4>
-							<p>This program was conducted in summer and students worked in a real time environment.</p>
-                            <p> This program duration is 1 Month.It was under taking by a section8 company called ISVC. professional bodys involved in the training.A well experienced Software Development team taken the charge and conducted the internship training.</p>
+                            <p>For Admissions Call : +919494011444</p>
                             
-                            <h4 class="font-weight-semibold mb-3">5. SKILL DEVELOPMENT TRAINING :</h4>
-							<p>This program was conducted to develop students soft skills and comminication skills.</p>
-                            <p>This program duration is 45 Days.It was under taking by a section8 company called ISVC. professional bodys involved in the training.A well experienced team taken the charge and conducted the training.</p>
-                           
-							<!--<div class="content-grid mt-5 pb-5">
-								<div class="row content-grid-row ps-3 pe-3">
-									<div class="content-grid-item col-sm-4 text-center">
-										<img src="img/demos/medical/logos/insurance-logo-1.png" alt class="img-fluid" />
-									</div>
-									<div class="content-grid-item col-sm-4 text-center">
-										<img src="img/demos/medical/logos/insurance-logo-2.png" alt class="img-fluid" />
-									</div>
-									<div class="content-grid-item col-sm-4 text-center">
-										<img src="img/demos/medical/logos/insurance-logo-3.png" alt class="img-fluid" />
-									</div>
-								</div>
-							
-							</div>-->
+                            <p>Andra Pradesh Admissions Incharge: Prasad Lingala - 9866502803</p>
+                            
+                            <p>Bihar & Jharkhand Admissions Incharge:</p>
+                            
+                            <p>Satish Kumar Pathak - 9439466243 / 7008275550</p>
+                            
+                            <h4 class="font-weight-semibold mb-3">Under Graduate Programme (4 years)</h4>
+                            <ul>
+                                <li>BTech Civil Engineering</li>
+                                <li>BTech Computer Science and Engineering</li>
+                                <li>BTech Electronics and Communication Engineering.</li>
+                                <li>BTech Electrical and Electronics Engineering</li>
+                                <li>BTech Mechanical Engineering.</li>
+                            </ul>
+                            
+                            <h4 class="font-weight-semibold mb-3">Post Graduate Programme</h4>
+                            <ul>
+                                <li>M.Tech POWER ELECTRONICS</li>
+                                <li>M.Tech THERMAL ENGINEERING .</li>
+                                <li>M.Tech CSE</li>
+                                <li>M.Tech VLAID</li>
+                                <li>M.Tech CONTROL SYSTEMS</li>
+                            </ul>
+                            
+                            <h4 class="font-weight-semibold mb-3">Master Of Business Administration (MBA) (2 years)</h4>
+                            <p>Sciences and Humanities</p>
+                            <ul>
+                                <li>English</li>
+                                <li>Mathematics</li>
+                                <li>Physics</li>
+                                <li>Chemistry</li>
+                                <li>Management Studies</li>
+                            </ul>
+                            
+                            <p>Eligibility criteria for seeking an admission for Undergraduate and Postgraduate Courses</p>
+                        
 
 						</div>
 					</div>

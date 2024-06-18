@@ -6,7 +6,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<title>Placements & Training</title>	
+		<title>NSS</title>	
 
 		<meta name="keywords" content="WebSite Template" />
 		<meta name="description" content="Porto - Multipurpose Website Template">
@@ -52,7 +52,7 @@
 	</head>
 	<body>
         
-		<div class="body">
+	<div class="body">
         <?php include 'header.php'; ?>
 
 			<div role="main" class="main">
@@ -66,13 +66,13 @@
 						<div class="row" style="margin-top:-5px;">
 
 							<div class="col-md-8 order-2 order-md-1 align-self-center p-static">
-								<h1>P & T</h1>
-								<span class="sub-title">PLACEMENT & TRANNING</span>
+								<h1>ACTIVITES</h1>
+								<span class="sub-title">NSS</span>
 							</div>
 							<div class="col-md-4 order-1 order-md-2 align-self-center">
 								<ul class="breadcrumb d-block text-md-end breadcrumb-light">
 									<li><a href="demo-medical.html">Home</a></li>
-									<li class="active">P & T</li>
+									<li class="active">NSS</li>
 								</ul>
 							</div>
 						</div>
@@ -82,45 +82,15 @@
 				<div class="container">
 
 					<div class="row mt-5 mb-4">
-                    <?php include 'Placements_sidebar.php'; ?>
+                    <?php include 'Activities_sidebar.php'; ?>
 						<div class="col">
-                            
-                          <h2 class="font-weight-semibold mb-3">Training:</h2>
+                         <h1>NSS</h1>
+                         <p> <a href="img/NSS/blooddonationcamp15.03.19.pdf" target="_blank"> Blood Donation Camp On 15.03.19 </a> </p>
+                         <p> <a href="img\NSS\blooddonationcamp31.08.2018.pdf" target="_blank"> Blooddonation Camp On 31.08.2018 </a> </p>
+                         <p> <a href="img\NSS\InternationalDayOfYoga-21-06-18.pdf" target="_blank"> International Day Of Yoga-21-06-18 </a> </p>
+                         <p> <a href="img\NSS\Republicdaycelebration26.01.2019.pdf" target="_blank"> Republic Day Celebration On 26.01.2019 </a> </p>
+                         <p> <a href="img\NSS\worldozoneday16.09.18.pdf" target="_blank">  World Ozone Day 16.09.18</a> </p>
 
-							<h4 class="font-weight-semibold mb-3">1. WEB DESIGNING COURSE :</h4>
-							<p>This course was conducted in summer and course involves HTML5 + CSS3 + JavaScript.</p>
-                            <p> This program duration is 45 days and it was conducted as a summer intern course and professional bodys involved in the training.A well experienced Software Development team taken the charge and conducted the training.</p>
-                            
-                            <h4 class="font-weight-semibold mb-3">2. TALLY ACE :</h4>
-							<p>Course involves Tally ERP 9(Licenced Version).</p>
-                            <p>This program duration is 1 Month.Experienced trainers involved in the training.A well experienced Acoounts team taken the charge and conducted the training.</p>
-                           
-                            <h4 class="font-weight-semibold mb-3">3. SOFTWARE DEVELOPMENT TRAINING :</h4>
-                              <p>This course was conducted in summer and course involves HTML5 + CSS3 + JavaScript + PHP + MYSQL.</p>
-                              <p>This program duration is 45 days and it was conducted as a summer intern course and professional bodys involved in the training.A well experienced Software Development team taken the charge and conducted the training.</p>
-
-                              <h4 class="font-weight-semibold mb-3">4. SUMMER INTERNSHIP :</h4>
-							<p>This program was conducted in summer and students worked in a real time environment.</p>
-                            <p> This program duration is 1 Month.It was under taking by a section8 company called ISVC. professional bodys involved in the training.A well experienced Software Development team taken the charge and conducted the internship training.</p>
-                            
-                            <h4 class="font-weight-semibold mb-3">5. SKILL DEVELOPMENT TRAINING :</h4>
-							<p>This program was conducted to develop students soft skills and comminication skills.</p>
-                            <p>This program duration is 45 Days.It was under taking by a section8 company called ISVC. professional bodys involved in the training.A well experienced team taken the charge and conducted the training.</p>
-                           
-							<!--<div class="content-grid mt-5 pb-5">
-								<div class="row content-grid-row ps-3 pe-3">
-									<div class="content-grid-item col-sm-4 text-center">
-										<img src="img/demos/medical/logos/insurance-logo-1.png" alt class="img-fluid" />
-									</div>
-									<div class="content-grid-item col-sm-4 text-center">
-										<img src="img/demos/medical/logos/insurance-logo-2.png" alt class="img-fluid" />
-									</div>
-									<div class="content-grid-item col-sm-4 text-center">
-										<img src="img/demos/medical/logos/insurance-logo-3.png" alt class="img-fluid" />
-									</div>
-								</div>
-							
-							</div>-->
 
 						</div>
 					</div>

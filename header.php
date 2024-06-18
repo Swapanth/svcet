@@ -14,7 +14,6 @@
 
 	<!-- Favicon -->
 	<link rel="shortcut icon" href="img/favicon.ico" type="img/I1" />
-	<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
 
 	<!-- Mobile Metas -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
@@ -119,7 +118,7 @@
 							<div class="header-row">
 								<div class="header-logo header-logo-sticky-change" style="width: 82px; height: 40px;margin-Top:-19px;">
 									<a href="index.php">
-										<img class="header-logo-non-sticky opacity-0" alt="Porto" width="600" height="90" src="img/svcet.svg" style="margin-Top:-12px; margin-left:-100px;">
+										<img class="header-logo-non-sticky opacity-0" alt="Porto" width="700" height="90" src="img/svcet2.svg" style="margin-Top:-12px; margin-left:-150px;">
 										<img class="header-logo-sticky opacity-0" alt="Porto" width="170" height="100px" src="img/svcet1.svg" style="margin-bottom: 20px;">
 									</a>
 								</div>
@@ -137,82 +136,82 @@
 													</a>
 												</li>
 												<li>
-												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" style="color: white;">ABOUT US</a>
+												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" style="color: white;">About Us</a>
 													<ul class="dropdown-menu">
-														<li><a href="soon.php">OBJECTIVES</a></li>
-														<li><a href="soon.php">VISION & MISSION</a></li>
-														<li><a href="soon.php">AFFILIATION & ACCREDITATION</a></li>
-														<li><a href="soon.php">MANAGEMENT</a></li>
-														<li><a href="soon.php">PRINCIPAL</a></li>
-														<li><a href="soon.php">RULES & REGULATIONS</a></li>
-														<li><a href="soon.php">PROGRAMMES OFFERED</a></li>
-														<li><a href="soon.php">GOVERNING COUNCIL BOARD</a></li>
-														<li><a href="soon.php">GRIEVANCE REDRESSAL COMMITTEE</a></li>
-														<li><a href="soon.php">ANTI RAGGING COMMITTEE</a></li>
-														<li><a href="soon.php">ANTI RAGGING SQUAD</a></li>
+														<li><a href="Aboutus_objectives.php">Objectives</a></li>
+														<li><a href="Aboutus_vision.php">Vision & Mission</a></li>
+														<li><a href="Aboutus_affiliation.php">Affiliation & Accreditation</a></li>
+														<li><a href="Aboutus_management.php">Management</a></li>
+														<li><a href="Aboutus_principal.php">Principal</a></li>
+														<li><a href="Aboutus_rules.php">Rules & Regulations</a></li>
+														<li><a href="Aboutus_programmes.php">Programmes Offered</a></li>
+														<li><a href="Aboutus_governing_council.php">Governing Council Board</a></li>
+														<li><a href="Aboutus_grievance.php">Grievance Redressal Committee</a></li>
+														<li><a href="Aboutus_antiragging.php">Anti Ragging Committee</a></li>
+														<li><a href="Aboutus_antiragging_squad.php">Anti Ragging Squad</a></li>
 													</ul>
-												</li>
-												</li>
-												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" style="color: white;">ADMISSIONS</a>
-													<ul class="dropdown-menu">
-														<li><a href="soon.php">ADMISSON PROCEDURE</a></li>
-														<li><a href="soon.php">UNDERGRADUATE ADMISSIONS</a></li>
-														<li><a href="soon.php">POSTGRADUATE ADMISSIONS</a></li>
-														<li><a href="soon.php">FEE STRUCTURE</a></li>
-													</ul>
-												</li>
-												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" style="color: white;">ACADEMICS</a>
-													<ul class="dropdown-menu">
-														<li><a href="soon.php">CIVIL ENGINEERING</a></li>
-														<li><a href="soon.php">COMPUTER SCIENCE & ENGINEERING</a></li>
-														<li><a href="soon.php">ELECTRICAL & ELECTRONICS ENGINEERING</a></li>
-														<li><a href="soon.php">ELECTRONICS & COMMUNICATION ENGINEERING</a></li>
-														<li><a href="soon.php">MECHANICAL ENGINEERING</a></li>
-														<li><a href="soon.php">BASIC SCIENCE & HUMANITIES</a></li>
-														<li><a href="soon.php">MASTER OF BUSSINESS ADMISTRATION</a></li>
-													</ul>
-												</li>
-												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" style="color: white;">ACTIVITES</a>
-													<ul class="dropdown-menu">
-														<li><a href="soon.php">NSS</a></li>
-														<li><a href="soon.php">IQAC</a></li>
-														<li><a href="soon.php">ALUMINI</a></li>
-														<li><a href="soon.php">PROFESSIONAL BODIES</a></li>
-														<li><a href="soon.php">STUDENT CHAPTERS</a></li>
-														<li><a href="soon.php">EVENTS GALLERY</a></li>
-													</ul>
-												</li>
 
-												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" style="color: white;">FACILITES</a>
+												</li>
+												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" style="color: white;">Admissions</a>
 													<ul class="dropdown-menu">
-														<li><a href="soon.php">CENTRAL LIBRARY</a></li>
-														<li><a href="soon.php">HOSTEL</a></li>
-														<li><a href="soon.php">TRANSPORT</a></li>
-														<li><a href="soon.php">ESVCET</a></li>
-														<li><a href="soon.php">INTERNET</a></li>
-														<li><a href="soon.php">CANTEEN</a></li>
-														<li><a href="soon.php">ENTERPRENUERSHIP CELL</a></li>
-														<li><a href="soon.php">MEDICAL</a></li>
-														<li><a href="soon.php">SPORTS & CULTURALS</a></li>
-														<li><a href="soon.php">COLLABORATION</a></li>
+													    <li><a href="admission_enquiry.php">Admission Enquiry</a></li>
+														<li><a href="admission_procedure.php">Admission Procedure</a></li>
+														<li><a href="admission_undergraduate.php">Undergraduate Admissions</a></li>
+														<li><a href="admission_postgraduate.php">Postgraduate Admissions</a></li>
+														<li><a href="soon.php">Fee Structure</a></li>
 													</ul>
 												</li>
-
+												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" style="color: white;">Academics</a>
+													<ul class="dropdown-menu">
+														<li><a href="civil.php">Civil Engineering</a></li>
+														<li><a href="cse.php">Computer Science & Engineering</a></li>
+														<li><a href="ece.php">Electrical & Electronics Engineering</a></li>
+														<li><a href="ece.php">Electronics & Communication Engineering</a></li>
+														<li><a href="mec.php">Mechanical Engineering</a></li>
+														<li><a href="soon.php">Basic Science & Humanities</a></li>
+														<li><a href="mba.php">Master Of Business Administration</a></li>
+													</ul>
+												</li>
+												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" style="color: white;">Activities</a>
+													<ul class="dropdown-menu">
+														<li><a href="Activities_NSS.php">NSS</a></li>
+														<li><a href="Activities_IQAC.php">IQAC</a></li>
+														<li><a href="Activities_alumini.php">Alumni</a></li>
+														<li><a href="soon.php">Professional Bodies</a></li>
+														<li><a href="soon.php">Student Chapters</a></li>
+														<li><a href="soon.php">Events Gallery</a></li>
+													</ul>
+												</li>
+												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" style="color: white;">Facilities</a>
+													<ul class="dropdown-menu">
+														<li><a href="Facilites_Library.php">Central Library</a></li>
+														<li><a href="Facilites_Hostels.php">Hostel</a></li>
+														<li><a href="Facilites_Transport.php">Transport</a></li>
+														<li><a href="Facilites_ESVCET.php">ESVCET</a></li>
+														<li><a href="Facilites_Internet.php">Internet</a></li>
+														<li><a href="Facilites_Canteen.php">Canteen</a></li>
+														<li><a href="Facilites_Enterpre.php">Entrepreneurship Cell</a></li>
+														<li><a href="Facilites_Medical.php">Medical</a></li>
+														<li><a href="Facilites_Sportsandcultures.php">Sports & Culturals</a></li>
+														<li><a href="Facilites_Collaboration.php">Collaboration</a></li>
+													</ul>
+												</li>
 												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" style="color: white;">P & T</a>
 													<ul class="dropdown-menu">
-														<li><a href="placements.php">PLACEMENT & TRANNING</a></li>
-														<li><a href="soon.php">COMPETATIVE EXAMINATIONS</a></li>
-														<li><a href="soon.php">WEB PORTAL</a></li>
-														<li><a href="soon.php">PLACEMENT & CONTACT DETAILS</a></li>
-														<li><a href="soon.php">JOB RECURTORS</a></li>
+														<li><a href="placements.php">Placement & Training</a></li>
+														<li><a href="soon.php">Competitive Examinations</a></li>
+														<li><a href="soon.php">Web Portal</a></li>
+														<li><a href="soon.php">Placement & Contact Details</a></li>
+														<li><a href="soon.php">Job Recruiters</a></li>
 													</ul>
 												</li>
+
 
 												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" style="color: white;">NAAC</a>
 													<ul class="dropdown-menu">
-														<li><a href="naacreport.php">Self Study Report</a></li>
+														<li><a href="Naac_report.php">Self Study Report</a></li>
 														<li><a href="soon.php">Data Validation and Verification</a></li>
-													
+
 													</ul>
 												</li>
 											</ul>

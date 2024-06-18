@@ -32,8 +32,33 @@
 						</div>
 					</div>
 				</div>
-				<div class="footer-copyright footer-copyright-style-2">
-					
+				<div class="footer-copyright" >
+					<div class="container">
+						<div class="row">
+
+							<div class="col-md-9">
+								<a href="index.php" class="logo">
+								</a>							
+								<p>© Copyright 2024. All Rights Reserved.</p>
+							</div>
+							<div class="col-md-3">
+								<a href="http://mcr.org.in" class="logo" target="_blank">
+									<img alt="MCR logo" class="img-responsive" height="50px" width="120px"  src="img/mcr_logo.png">
+								</a>							
+								<p><a href='http://www.mcr.org.in' target='_blank'>© Designed by MCR Web Solutions</a></p>
+							</div>							
+							<!--div class="col-md-4">
+								<nav id="sub-menu">
+									<ul>
+										<li><a href="page-faq.html">FAQ's</a></li>
+										<li><a href="sitemap.html">Sitemap</a></li>
+										<li><a href="contact-us.html">Contact</a></li>
+									</ul>
+								</nav>
+							</div-->
+						</div>
+					</div>
+				</div>
 				</div>
 
 				<!-- Vendor -->

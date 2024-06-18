@@ -6,7 +6,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<title>Placements & Training</title>	
+		<title>Admission enquiry</title>	
 
 		<meta name="keywords" content="WebSite Template" />
 		<meta name="description" content="Porto - Multipurpose Website Template">
@@ -66,13 +66,13 @@
 						<div class="row" style="margin-top:-5px;">
 
 							<div class="col-md-8 order-2 order-md-1 align-self-center p-static">
-								<h1>P & T</h1>
-								<span class="sub-title">PLACEMENT & TRANNING</span>
+								<h1>Academics</h1>
+								<span class="sub-title">Civil Engineering</span>
 							</div>
 							<div class="col-md-4 order-1 order-md-2 align-self-center">
 								<ul class="breadcrumb d-block text-md-end breadcrumb-light">
 									<li><a href="demo-medical.html">Home</a></li>
-									<li class="active">P & T</li>
+									<li class="active">Admissions</li>
 								</ul>
 							</div>
 						</div>
@@ -82,45 +82,16 @@
 				<div class="container">
 
 					<div class="row mt-5 mb-4">
-                    <?php include 'Placements_sidebar.php'; ?>
+                    <?php include 'civilmenu.php'; ?>
 						<div class="col">
                             
-                          <h2 class="font-weight-semibold mb-3">Training:</h2>
-
-							<h4 class="font-weight-semibold mb-3">1. WEB DESIGNING COURSE :</h4>
-							<p>This course was conducted in summer and course involves HTML5 + CSS3 + JavaScript.</p>
-                            <p> This program duration is 45 days and it was conducted as a summer intern course and professional bodys involved in the training.A well experienced Software Development team taken the charge and conducted the training.</p>
+                            <h2 class="font-weight-semibold mb-3">DEPARTMENT PROFILE</h2>
+                            <p>The Civil Engineering Department of SVCET was established in 2014 with an intake of 60. The department is currently offering B.Tech in Civil Engineering. The Civil Engineering Department has the state-of-the-art infrastructure with well-equipped labs, and a computer center spread over an area of 500 sq.m. They are supported by experienced and qualified faculty. The laboratory facilities are available in all subject areas of Civil Engineering such as Engineering Geology, Environmental Engineering, Computer-aided analysis and design, Surveying, Geo-Technical Engineering, Concrete and Highway Engineering, Strength of Materials, Fluid Mechanics, and Hydraulics Machinery.</p>
                             
-                            <h4 class="font-weight-semibold mb-3">2. TALLY ACE :</h4>
-							<p>Course involves Tally ERP 9(Licenced Version).</p>
-                            <p>This program duration is 1 Month.Experienced trainers involved in the training.A well experienced Acoounts team taken the charge and conducted the training.</p>
-                           
-                            <h4 class="font-weight-semibold mb-3">3. SOFTWARE DEVELOPMENT TRAINING :</h4>
-                              <p>This course was conducted in summer and course involves HTML5 + CSS3 + JavaScript + PHP + MYSQL.</p>
-                              <p>This program duration is 45 days and it was conducted as a summer intern course and professional bodys involved in the training.A well experienced Software Development team taken the charge and conducted the training.</p>
-
-                              <h4 class="font-weight-semibold mb-3">4. SUMMER INTERNSHIP :</h4>
-							<p>This program was conducted in summer and students worked in a real time environment.</p>
-                            <p> This program duration is 1 Month.It was under taking by a section8 company called ISVC. professional bodys involved in the training.A well experienced Software Development team taken the charge and conducted the internship training.</p>
+                            <p>The Department is equipped with software such as STAAD-pro. In addition to the regular curriculum, the department is offering add-on courses on communication skills for enriching the competitive knowledge of the students and preparing them for better employability. Students are also engaged in project work that meets the needs of the social body in the surrounding situations as well as in research projects.</p>
                             
-                            <h4 class="font-weight-semibold mb-3">5. SKILL DEVELOPMENT TRAINING :</h4>
-							<p>This program was conducted to develop students soft skills and comminication skills.</p>
-                            <p>This program duration is 45 Days.It was under taking by a section8 company called ISVC. professional bodys involved in the training.A well experienced team taken the charge and conducted the training.</p>
-                           
-							<!--<div class="content-grid mt-5 pb-5">
-								<div class="row content-grid-row ps-3 pe-3">
-									<div class="content-grid-item col-sm-4 text-center">
-										<img src="img/demos/medical/logos/insurance-logo-1.png" alt class="img-fluid" />
-									</div>
-									<div class="content-grid-item col-sm-4 text-center">
-										<img src="img/demos/medical/logos/insurance-logo-2.png" alt class="img-fluid" />
-									</div>
-									<div class="content-grid-item col-sm-4 text-center">
-										<img src="img/demos/medical/logos/insurance-logo-3.png" alt class="img-fluid" />
-									</div>
-								</div>
-							
-							</div>-->
+                            <p>The department has a well-established library with a good collection of books, journals, and e-journals. The department has a separate association called “Civil Engineering Association” which conducts various technical and non-technical events for the students. The department has a good placement record with students being placed in reputed companies like L&T, Shapoorji Pallonji, and many more.</p>
+                        
 
 						</div>
 					</div>
