@@ -81,8 +81,6 @@
 			}
 
 		}
-		
-		
 	</style>
 
 </head>
@@ -230,8 +228,9 @@
 										</nav>
 									</div>
 									<button class="btn header-btn-collapse-nav" data-bs-toggle="collapse" data-bs-target=".header-nav-main nav">
-											<i class="fas fa-bars"></i>
-										</button>
+										<i class="fas fa-bars"></i>
+									</button>
+									
 								</div>
 							</div>
 						</div>
