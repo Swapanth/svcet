@@ -173,6 +173,7 @@
 												</li>
 												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#">Academics</a>
 													<ul class="dropdown-menu">
+														<li><a href="AIML&CSM.php">AIML & CSM</a></li>
 														<li><a href="civil.php">Civil Engineering</a></li>
 														<li><a href="cse.php">Computer Science & Engineering</a></li>
 														<li><a href="ece.php">Electrical & Electronics Engineering</a></li>
@@ -230,7 +231,7 @@
 									<button class="btn header-btn-collapse-nav" data-bs-toggle="collapse" data-bs-target=".header-nav-main nav">
 										<i class="fas fa-bars"></i>
 									</button>
-									
+
 								</div>
 							</div>
 						</div>
