@@ -1,150 +1,102 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
+<head>
 
-		<!-- Basic -->
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Basic -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<title>Admission enquiry</title>	
+    <title>Admission enquiry</title>
 
-		<meta name="keywords" content="WebSite Template" />
-		<meta name="description" content="Porto - Multipurpose Website Template">
-		<meta name="author" content="okler.net">
+    <meta name="keywords" content="WebSite Template" />
+    <meta name="description" content="Porto - Multipurpose Website Template">
+    <meta name="author" content="okler.net">
 
-		<!-- Favicon -->
-		<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
-		<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
 
-		<!-- Mobile Metas -->
-		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
 
-		<!-- Web Fonts  -->
-		<link id="googleFonts" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800%7CShadows+Into+Light&display=swap" rel="stylesheet" type="text/css">
+    <!-- Web Fonts  -->
+    <link id="googleFonts" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800%7CShadows+Into+Light&display=swap" rel="stylesheet" type="text/css">
 
-		<!-- Vendor CSS -->
-		<link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
-		<link rel="stylesheet" href="vendor/fontawesome-free/css/all.min.css">
-		<link rel="stylesheet" href="vendor/animate/animate.compat.css">
-		<link rel="stylesheet" href="vendor/simple-line-icons/css/simple-line-icons.min.css">
-		<link rel="stylesheet" href="vendor/owl.carousel/assets/owl.carousel.min.css">
-		<link rel="stylesheet" href="vendor/owl.carousel/assets/owl.theme.default.min.css">
-		<link rel="stylesheet" href="vendor/magnific-popup/magnific-popup.min.css">
+    <!-- Vendor CSS -->
+    <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="vendor/fontawesome-free/css/all.min.css">
+    <link rel="stylesheet" href="vendor/animate/animate.compat.css">
+    <link rel="stylesheet" href="vendor/simple-line-icons/css/simple-line-icons.min.css">
+    <link rel="stylesheet" href="vendor/owl.carousel/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="vendor/owl.carousel/assets/owl.theme.default.min.css">
+    <link rel="stylesheet" href="vendor/magnific-popup/magnific-popup.min.css">
 
-		<!-- Theme CSS -->
-		<link rel="stylesheet" href="css/theme.css">
-		<link rel="stylesheet" href="css/theme-elements.css">
-		<link rel="stylesheet" href="css/theme-blog.css">
-		<link rel="stylesheet" href="css/theme-shop.css">
+    <!-- Theme CSS -->
+    <link rel="stylesheet" href="css/theme.css">
+    <link rel="stylesheet" href="css/theme-elements.css">
+    <link rel="stylesheet" href="css/theme-blog.css">
+    <link rel="stylesheet" href="css/theme-shop.css">
 
-		<!-- Demo CSS -->
-		<link rel="stylesheet" href="css/demos/demo-medical.css">
+    <!-- Demo CSS -->
+    <link rel="stylesheet" href="css/demos/demo-medical.css">
 
-		<!-- Skin CSS -->
-		<link id="skinCSS" rel="stylesheet" href="css/skins/skin-medical.css">
+    <!-- Skin CSS -->
+    <link id="skinCSS" rel="stylesheet" href="css/skins/skin-medical.css">
 
-		<!-- Theme Custom CSS -->
-		<link rel="stylesheet" href="css/custom.css">
+    <!-- Theme Custom CSS -->
+    <link rel="stylesheet" href="css/custom.css">
 
-		<!-- Head Libs -->
-		<script src="vendor/modernizr/modernizr.min.js"></script>
-        <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            text-align: justify;
-        }
-        .header {
-            text-align: center;
-            font-weight: 1000;
-            font-size: 32px;
-            margin-bottom: 20px;
-        }
-        .content {
-            font-size: 18px;
-        }
-        .all-content {
-            margin-top: -290px;
-            margin-left: 80px;
-        }
-        .col-md-3 {
-            width: 30%;
-            margin-top: 180px;
-            margin-left: 10px;
-            margin-right: 10px;
-            height: 100%;
-        }
-        .row {
-            display: flex;
-            flex-wrap: wrap;
-        }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-top: 20px;
-        }
-        th, td {
-            border: 1px solid #dddddd;
-            text-align: left;
-            padding: 8px;
-        }
-        th {
-            background-color: #f2f2f2;
-        }
-    </style>
+    <!-- Head Libs -->
+    <script src="vendor/modernizr/modernizr.min.js"></script>
 
-	</head>
-	<body>
-        
-		<div class="body">
+</head>
+<body>
+
+    <div class="body">
         <?php include 'header.php'; ?>
 
-			<div role="main" class="main">
-                <br>
-                <br>
-                <br>
-                <br>
-                <br>
-				<section class="page-header page-header-modern page-header-md" style="background-color:#840103; height:6px; margin-Bottom:-10px;">
-					<div class="container" >
-						<div class="row" style="margin-top:-5px;">
+        <div role="main" class="main">
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <section class="page-header page-header-modern page-header-md" style="background-color:#840103; height:6px; margin-Bottom:-10px;">
+                <div class="container">
+                    <div class="row" style="margin-top:-5px;">
 
-							<div class="col-md-8 order-2 order-md-1 align-self-center p-static">
-								<h1>Academics</h1>
+                        <div class="col-md-8 order-2 order-md-1 align-self-center p-static">
+                            <h1>Academics</h1>
 								<span class="sub-title">Master of Business Administration</span>
-							</div>
-							<div class="col-md-4 order-1 order-md-2 align-self-center">
-								<ul class="breadcrumb d-block text-md-end breadcrumb-light">
-									<li><a href="demo-medical.html">Home</a></li>
-									<li class="active">Admissions</li>
-								</ul>
-							</div>
-						</div>
-					</div>
-				</section>
-                 
-				<div class="container">
+                        </div>
+                        <div class="col-md-4 order-1 order-md-2 align-self-center">
+                            <ul class="breadcrumb d-block text-md-end breadcrumb-light">
+                                <li><a href="index.php">Home</a></li>
+                                <li class="active">Admissions</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
 
-					<div class="row mt-5 mb-4">
-                    <?php include 'MBA_menu.php'; ?>
-                    <div role="main" class="main">
-        <div class="container">
-            <div class="all-content">
-                <div class="header">Master of Business Administration  - Staff Details</div>
-                
-                <table>
-    <tr>
+            <div class="container">
+
+                <div class="row mt-5 mb-4">
+                <?php include 'MBA_menu.php'; ?>
+                <div class="col">
+                    <h3 class="font-weight-semibold mb-3">List of Faculty in Master of Business Administration</h2>
+                    <hr>
+                        <table class="table table-hover">
+                            <thead>
+                            <tr>
         <th>S.No</th>
         <th>Name of the Staff</th>
         <th>Designation</th>
         <th>Highest Qualification (PG/NET/SET/SLET/ Ph.D)</th>
     </tr>
-    <tr>
+                            </thead>
+                            <tbody>
+                            <tr>
         <td>1</td>
         <td>Dr K SATYAM</td>
         <td>HOD, Professor</td>
@@ -234,37 +186,38 @@
         <td>Assistant Professor</td>
         <td>MBA</td>
     </tr>
-</table>
+
+                            </tbody>
+                        </table>
+
+                    </div>
+                </div>
 
             </div>
+
         </div>
+
+        <?php include 'footer.php'; ?>
     </div>
-					</div>
 
-				</div>
+    <!-- Vendor -->
+    <script src="vendor/plugins/js/plugins.min.js"></script>
 
-		
+    <!-- Theme Base, Components and Settings -->
+    <script src="js/theme.js"></script>
 
-			<?php include 'footer.php'; ?>
-		</div>
+    <!-- Current Page Vendor and Views -->
+    <script src="js/views/view.contact.js"></script>
 
-		<!-- Vendor -->
-		<script src="vendor/plugins/js/plugins.min.js"></script>
+    <!-- Demo -->
+    <script src="js/demos/demo-medical.js"></script>
 
-		<!-- Theme Base, Components and Settings -->
-		<script src="js/theme.js"></script>
+    <!-- Theme Custom -->
+    <script src="js/custom.js"></script>
 
-		<!-- Current Page Vendor and Views -->
-		<script src="js/views/view.contact.js"></script>
+    <!-- Theme Initialization Files -->
+    <script src="js/theme.init.js"></script>
 
-		<!-- Demo -->
-		<script src="js/demos/demo-medical.js"></script>
+</body>
 
-		<!-- Theme Custom -->
-		<script src="js/custom.js"></script>
-
-		<!-- Theme Initialization Files -->
-		<script src="js/theme.init.js"></script>
-
-	</body>
 </html>
