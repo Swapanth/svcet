@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 
+
 <head>
 
     <!-- Basic -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Civil Engineering Department Resources</title>
+    <title>Civil Engineering Vision and Mission</title>
 
     <meta name="keywords" content="WebSite Template" />
     <meta name="description" content="Porto - Multipurpose Website Template">
@@ -50,56 +51,8 @@
     <!-- Head Libs -->
     <script src="vendor/modernizr/modernizr.min.js"></script>
 
-    <!-- Custom CSS -->
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        .main-container {
-            max-width: 800px;
-            margin: 0 auto;
-            margin-top: 20px;
-        }
-        .header {
-            text-align: center;
-            font-weight: bold;
-            font-size: 32px;
-            margin-bottom: 20px;
-        }
-        .section-header {
-            font-weight: bold;
-            font-size: 24px;
-            margin-top: 30px;
-            margin-bottom: 10px;
-            border-bottom: 2px solid #333;
-            padding-bottom: 5px;
-        }
-        .resource-item {
-            margin-left: 20px;
-            margin-bottom: 10px;
-        }
-        .library-info {
-            margin-left: 20px;
-            margin-top: 10px;
-        }
-        .library-table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-top: 10px;
-        }
-        .library-table th, .library-table td {
-            border: 1px solid #ccc;
-            padding: 8px;
-            text-align: left;
-        }
-        .library-table th {
-            background-color: #f2f2f2;
-        }
-    </style>
-
 </head>
+
 
 <body>
 
@@ -107,18 +60,24 @@
         <?php include 'header.php'; ?>
 
         <div role="main" class="main">
-            <br><br><br><br><br>
-            <section class="page-header page-header-modern page-header-md" style="background-color:#840103; height:6px; margin-bottom:-10px;">
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <section class="page-header page-header-modern page-header-md" style="background-color:#840103; height:6px; margin-Bottom:-10px;">
                 <div class="container">
                     <div class="row" style="margin-top:-5px;">
+
                         <div class="col-md-8 order-2 order-md-1 align-self-center p-static">
-                            <h1>Civil Engineering Department Resources</h1>
-                            <span class="sub-title">Department Resources</span>
+                            <h1>Academics</h1>
+                            <span class="sub-title">
+                                Civil Engineering </span>
                         </div>
                         <div class="col-md-4 order-1 order-md-2 align-self-center">
                             <ul class="breadcrumb d-block text-md-end breadcrumb-light">
                                 <li><a href="index.php">Home</a></li>
-                                <li class="active">Department Resources</li>
+                                <li class="active">Academics</li>
                             </ul>
                         </div>
                     </div>
@@ -127,55 +86,65 @@
 
             <div class="container">
                 <div class="row mt-5 mb-4">
-                    <?php include 'civilmenu.php'; ?>
-                    <div class="col-md-9">
-                        <div class="main-container">
-                            <div class="header">Civil Engineering Department Resources</div>
-                            
-                            <div class="section-header">Department Physical Resources:</div>
-                            <div class="resource-item">
-                                <strong>Class Rooms:</strong> 03
-                            </div>
-                            <div class="resource-item">
-                                <strong>Laboratories:</strong> 06
-                            </div>
-                            <div class="resource-item">
-                                <strong>Staff Rooms:</strong> 01
-                            </div>
-                            <div class="resource-item">
-                                <strong>HOD Room:</strong> 01
-                            </div>
-                            <div class="resource-item">
-                                <strong>Computing Facility in Labs:</strong> 60 Systems
-                            </div>
-                            <div class="resource-item">
-                                <strong>Internet Facility:</strong> 20 Mbps
-                            </div>
-                            <div class="resource-item">
-                                <strong>Department Library:</strong> 01
-                            </div>
-                            <div class="resource-item">
-                                <strong>UPS - 20 KVA:</strong> 01
-                            </div>
-                            <div class="resource-item">
-                                <strong>LCD Projectors:</strong> 01
-                            </div>
-                            <div class="resource-item">
-                                <strong>OHPs:</strong> 01
-                            </div>
-                            <div class="resource-item">
-                                <strong>Printers:</strong> 01
-                            </div>
+                    <?php include "civilmenu.php"; ?>
 
-                            <div><a href="soon.php" style="color:blue;font-size:20px">Click Here For Labs Information</a></div>
-                            
-                            <div class="section-header">DEPARTMENT LIBRARY:</div>
-                            <div class="library-info">
-                                <table class="library-table">
+                    <div class="col">
+                        <div class="blog-posts single-post">
+                            <article class="post post-large blog-single-post border-0 m-0 p-0">
+
+
+                                <div class="post-content ms-0">
+                                    <h3 class="font-weight-semibold mb-3">PROGRAMME EDUCATIONAL OBJECTIVES:</h2>
+                                        <div class="resource-item">
+                                            <strong>Class Rooms:</strong> 03
+                                        </div>
+                                        <div class="resource-item">
+                                            <strong>Laboratories:</strong> 06
+                                        </div>
+                                        <div class="resource-item">
+                                            <strong>Staff Rooms:</strong> 01
+                                        </div>
+                                        <div class="resource-item">
+                                            <strong>HOD Room:</strong> 01
+                                        </div>
+                                        <div class="resource-item">
+                                            <strong>Computing Facility in Labs:</strong> 60 Systems
+                                        </div>
+                                        <div class="resource-item">
+                                            <strong>Internet Facility:</strong> 20 Mbps
+                                        </div>
+                                        <div class="resource-item">
+                                            <strong>Department Library:</strong> 01
+                                        </div>
+                                        <div class="resource-item">
+                                            <strong>UPS - 20 KVA:</strong> 01
+                                        </div>
+                                        <div class="resource-item">
+                                            <strong>LCD Projectors:</strong> 01
+                                        </div>
+                                        <div class="resource-item">
+                                            <strong>OHPs:</strong> 01
+                                        </div>
+                                        <div class="resource-item">
+                                            <strong>Printers:</strong> 01
+                                        </div>
+
+
+
+                                </div>
+                            </article>
+                            <br>
+                        </div>
+                        <h3 class="font-weight-semibold mb-3">List of Faculty in EEE Department</h2>
+                            <hr>
+                            <table class="table table-hover">
+                                <thead>
                                     <tr>
                                         <th>Category</th>
                                         <th>Count</th>
                                     </tr>
+                                </thead>
+                                <tbody>
                                     <tr>
                                         <td>Books</td>
                                         <td>62</td>
@@ -196,9 +165,10 @@
                                         <td>Any Other</td>
                                         <td>-NIL-</td>
                                     </tr>
-                                </table>
-                            </div>
-                        </div>
+
+
+                                </tbody>
+                            </table>
                     </div>
                 </div>
             </div>
@@ -227,5 +197,6 @@
     <script src="js/theme.init.js"></script>
 
 </body>
+
 
 </html>
