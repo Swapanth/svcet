@@ -48,9 +48,9 @@
                 <div class="col content">
             <h4 class="mb-4">GOVERNING COUNCIL BOARD</h4>
             <div class="table-responsive">
-            <table class="table">
-            <thead>
-                <tr>
+            <table class="table table-hover">
+                            <thead>
+                                <tr>
                     <th>#</th>
                     <th>Department</th>
                     <th>Degree</th>
@@ -63,10 +63,10 @@
                     <th>2016-17</th>
                     <th>2017-18</th>
                     <th>2018-19</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
                     <td>1</td>
                     <td>Civil</td>
                     <td>B.Tech</td>
@@ -79,8 +79,8 @@
                     <td>60</td>
                     <td>60</td>
                     <td>60</td>
-                </tr>
-                <tr>
+                                </tr>
+                                <tr>
                     <td>2</td>
                     <td>Mechanical</td>
                     <td>B.Tech</td>
@@ -93,8 +93,8 @@
                     <td>120</td>
                     <td>120</td>
                     <td>120</td>
-                </tr>
-                <tr>
+                                </tr>
+                                <tr>
                     <td>3</td>
                     <td>E.E.E</td>
                     <td>B.Tech</td>
@@ -107,8 +107,8 @@
                     <td>60</td>
                     <td>60</td>
                     <td>60</td>
-                </tr>
-                <tr>
+                                </tr>
+                                <tr>
                     <td>4</td>
                     <td>E.C.E</td>
                     <td>B.Tech</td>
@@ -121,7 +121,7 @@
                     <td>120</td>
                     <td>120</td>
                     <td>120</td>
-                </tr>
+                                </tr>
                 <tr>
                     <td>5</td>
                     <td>C.S.E</td>
@@ -220,8 +220,8 @@
                     <td>18</td>
                     <td>18</td>
                 </tr>
-            </tbody>
-        </table>
+                            </tbody>
+                        </table>
         </div>
         </div>
         </div>
