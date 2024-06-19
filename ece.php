@@ -85,7 +85,7 @@
                     <?php include 'ecemenu.php'; ?>
 						<div class="col">
                             
-                            <h2 class="font-weight-semibold mb-3">ABOUT THE DEPARTMENT </h2>
+                            <h2 class="font-weight-semibold mb-3">DEPARTMENT PROFILE</h2>
                             <p>The Department offers a four-year degree program in Electronics & Communication Engineering (ECE) an annual intake of 60 was started in the year 2008. and two-year P.G. programs in M.Tech  VLSI SD with an intake of 18 started in the year 2012.
  Electronics and Communication Engineering is one of the most popular fields in engineering which applies science and mathematics to address practical problems. Electronics and Communication Engineering, popularly known as ECE, involves designing, developing, testing and maintaining electronic equipment. Electronics and Communication engineers also deal with the production of communication systems.
 </p>
