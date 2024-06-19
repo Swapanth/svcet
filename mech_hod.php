@@ -3,66 +3,123 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mechanical Engineering Department</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            text-align: justify;
-        }
-        .header {
-            text-align: center;
-            font-weight: 1000;
-            font-size: 32px;
-            margin-bottom: 20px;
-        }
-        .content {
-            font-size: 18px;
-        }
-        .all-content {
-            margin-top: -290px;
-            margin-left: 80px;
-        }
-        .col-md-3 {
-            width: 30%;
-            margin-top: 180px;
-            margin-left: 10px;
-            margin-right: 10px;
-            height: 100%;
-        }
-        .row {
-            display: flex;
-            flex-wrap: wrap;
-        }
-    </style>
+    <!-- Basic -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Mechanical Engineering Department Profile</title>
+
+    <meta name="keywords" content="Mechanical Engineering" />
+    <meta name="description" content="Mechanical Engineering Department Profile">
+    <meta name="author" content="Your Name">
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
+
+    <!-- Web Fonts  -->
+    <link id="googleFonts" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800%7CShadows+Into+Light&display=swap" rel="stylesheet" type="text/css">
+
+    <!-- Vendor CSS -->
+    <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="vendor/fontawesome-free/css/all.min.css">
+    <link rel="stylesheet" href="vendor/animate/animate.compat.css">
+    <link rel="stylesheet" href="vendor/simple-line-icons/css/simple-line-icons.min.css">
+    <link rel="stylesheet" href="vendor/owl.carousel/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="vendor/owl.carousel/assets/owl.theme.default.min.css">
+    <link rel="stylesheet" href="vendor/magnific-popup/magnific-popup.min.css">
+
+    <!-- Theme CSS -->
+    <link rel="stylesheet" href="css/theme.css">
+    <link rel="stylesheet" href="css/theme-elements.css">
+    <link rel="stylesheet" href="css/theme-blog.css">
+    <link rel="stylesheet" href="css/theme-shop.css">
+
+    <!-- Demo CSS -->
+    <link rel="stylesheet" href="css/demos/demo-medical.css">
+
+    <!-- Skin CSS -->
+    <link id="skinCSS" rel="stylesheet" href="css/skins/skin-medical.css">
+
+    <!-- Theme Custom CSS -->
+    <link rel="stylesheet" href="css/custom.css">
+
+    <!-- Head Libs -->
+    <script src="vendor/modernizr/modernizr.min.js"></script>
+
 </head>
-<body> 
-    <div class="row">
-        <?php include "mechmenu.php"; ?>
-    </div>  
-    
-    <div role="main" class="main">
-        <div class="container">
-            <div class="all-content">
-                <div class="header">MECHANICAL ENGINEERING</div>
-                <div class="content">
-                    <h2>HOD Message</h2>
-                    <p>Mechanical engineering department was established in the year 2009. The department is offering four year B.Tech (Mechanical Engineering) with an intake of 60 students during year 2009. The intake in U.G Programme was increased from 60 to 120 in the year 2013. The department also started PG Programme in the specialization “Thermal Engineering” from year 2014 with an intake of 18 students. The strength of the department lies with dedicated and enthusiastic staff and most of them are well qualified from reputed institutions with different specialization and experienced. The faculty is focused towards inculcating technical creativity in the students along with theoretical as well as practical knowledge. The excellent facilities are available to achieve this aim. The department is having well equipped laboratories and provides excellent facilities for gaining practical knowledge. The main beauty of the department is that, each one of the student will undergo Summer/winter Internships during II & III year at different core industries to get practical exposure along with theoretical knowledge.</p>
-                    <p>Mr. B. Gangadhar M.Tech., (Ph.D)<br>
-                    Assoc. Prof. HOD, ME</p>
-                    
+<body>
+
+    <div class="body">
+        <?php include 'header.php'; ?>
+
+        <div role="main" class="main">
+            <br><br><br><br><br>
+            <section class="page-header page-header-modern page-header-md" style="background-color:#840103; height:6px; margin-bottom:-10px;">
+                <div class="container">
+                    <div class="row" style="margin-top:-5px;">
+                        <div class="col-md-8 order-2 order-md-1 align-self-center p-static">
+                            <h1>Academics</h1>
+                            <span class="sub-title">
+                            Mechanical Engineering
+                            </span>
+                        </div>
+                        <div class="col-md-4 order-1 order-md-2 align-self-center">
+                            <ul class="breadcrumb d-block text-md-end breadcrumb-light">
+                                <li><a href="index.php">Home</a></li>
+                                <li class="active">Academics</li>
+                            </ul>
+                        </div>
                     </div>
+                </div>
+            </section>
+
+            <div class="container">
+                <div class="row mt-5 mb-4">
+                    <?php include 'mechmenu.php'; ?>
+                    <div class="col">
+                        <div class="blog-posts single-post">
+                            <article class="post post-large blog-single-post border-0 m-0 p-0">
+                                <div class="post-content ms-0">
+                                    <h3 class="font-weight-semibold mb-3">HOD Message</h3>
+                                    <p>
+                                        <p>Mechanical engineering department was established in the year 2009. The department is offering a four-year B.Tech (Mechanical Engineering) with an intake of 60 students since the year 2009. The department also started a PG Programme in the specialization “Thermal Engineering” from the year 2014 with an intake of 18 students. The strength of the department lies with dedicated and enthusiastic staff, most of whom are well qualified from reputed institutions with different specializations and extensive experience. The faculty is focused on inculcating technical creativity in the students along with theoretical as well as practical knowledge. Excellent facilities are available to achieve this aim.</p>
+                                        <p>The department has well-equipped laboratories that provide excellent facilities for gaining practical knowledge. The main beauty of the department is that each student undergoes Summer Internships during the II, III, and IV year at different core industries to get practical exposure along with theoretical knowledge.</p>
+                                        <h5>Dr. J.Bala Bhaskara Rao</h5>
+                                        <h5>Ph.D, (DSc), MISTE<br>Professor, HOD, ME</h5>
+
+                                    </p>
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
-    </div>  
-    
-    <?php include 'footer.php'; ?>
+
+        <?php include 'footer.php'; ?>
+    </div>
+
+    <!-- Vendor -->
+    <script src="vendor/plugins/js/plugins.min.js"></script>
+
+    <!-- Theme Base, Components and Settings -->
+    <script src="js/theme.js"></script>
+
+    <!-- Current Page Vendor and Views -->
+    <script src="js/views/view.contact.js"></script>
+
+    <!-- Demo -->
+    <script src="js/demos/demo-medical.js"></script>
+
+    <!-- Theme Custom -->
+    <script src="js/custom.js"></script>
+
+    <!-- Theme Initialization Files -->
+    <script src="js/theme.init.js"></script>
+
 </body>
 </html>
