@@ -64,6 +64,23 @@
 			display: block;
 			width: auto;
 		}
+
+		@media (min-width: 992px) {
+
+			#header .header-nav.header-nav-links:not(.header-nav-light-text) nav>ul>li>a,
+			#header .header-nav.header-nav-line:not(.header-nav-light-text) nav>ul>li>a {
+				color: white;
+			}
+		}
+
+		@media (max-width: 992px) {
+
+			#header .header-nav.header-nav-links:not(.header-nav-light-text) nav>ul>li>a,
+			#header .header-nav.header-nav-line:not(.header-nav-light-text) nav>ul>li>a {
+				color: black;
+			}
+
+		}
 	</style>
 
 </head>
@@ -92,10 +109,10 @@
 									<nav class="header-nav-top">
 										<ul class="nav nav-pills text-uppercase text-2">
 											<li class="nav-item nav-item-anim-icon d-none d-md-block">
-												<a class="nav-link ps-0 text-light opacity-7" style="color:#097197 " href="soon.html"><i class="fas fa-angle-right"></i> About Us</a>
+												<a class="nav-link ps-0" style="color:#097197" href="soon.html"><i class="fas fa-angle-right"></i> About Us</a>
 											</li>
 											<li class="nav-item nav-item-anim-icon d-none d-md-block">
-												<a class="nav-link text-light opacity-7 pe-0" style="color:#097197 " href="soon.html"><i class="fas fa-angle-right"></i> Contact Us</a>
+												<a class="nav-link" style="color:#097197 " href="soon.html"><i class="fas fa-angle-right"></i> Contact Us</a>
 											</li>
 										</ul>
 									</nav>
@@ -119,17 +136,17 @@
 						</div>
 						<div class="header-column justify-content-end" style="color: white; margin:10px;">
 							<div class="header-row">
-								<div class="header-nav header-nav-links" style="color: white;">
+								<div class="header-nav header-nav-links">
 									<div class="header-nav-main header-nav-main-square header-nav-main-dropdown-no-borders header-nav-main-dropdown-arrow header-nav-main-dropdown-center header-nav-main-effect-3 header-nav-main-sub-effect-1">
 										<nav class="collapse">
 											<ul class="nav nav-pills" id="mainNav">
-												<li class="active">
-													<a href="index.php" style="color: white;">
+												<li>
+													<a href="index.php">
 														Home
 													</a>
 												</li>
 												<li>
-												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" style="color: white;">About Us</a>
+												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#">About Us</a>
 													<ul class="dropdown-menu">
 														<li><a href="Aboutus_objectives.php">Objectives</a></li>
 														<li><a href="Aboutus_vision.php">Vision & Mission</a></li>
@@ -145,27 +162,29 @@
 													</ul>
 
 												</li>
-												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" style="color: white;">Admissions</a>
+												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#">Admissions</a>
 													<ul class="dropdown-menu">
-													    <li><a href="admission_enquiry.php">Admission Enquiry</a></li>
+														<li><a href="admission_enquiry.php">Admission Enquiry</a></li>
 														<li><a href="admission_procedure.php">Admission Procedure</a></li>
 														<li><a href="admission_undergraduate.php">Undergraduate Admissions</a></li>
 														<li><a href="admission_postgraduate.php">Postgraduate Admissions</a></li>
 														<li><a href="soon.php">Fee Structure</a></li>
 													</ul>
 												</li>
-												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" style="color: white;">Academics</a>
+												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#">Academics</a>
 													<ul class="dropdown-menu">
+														<li><a href="AIML&CSM.php">AIML & CSM</a></li>
+														<li><a href="civil.php">Civil Engineering</a></li>
 														<li><a href="cse.php">Computer Science & Engineering</a></li>
-														<li><a href="eee.php">Electronics & Communication Engineering</a></li>
-														<li><a href="ece.php">Electrical & Electronics Engineering</a></li>
+														<li><a href="ece.php">Electronics & Communication Engineering</a></li>
+														<li><a href="eee.php">Electrical & Electronics Engineering</a></li>
 														<li><a href="mec.php">Mechanical Engineering</a></li>
 														<li><a href="civil.php">Civil Engineering</a></li>
 														<li><a href="soon.php">Basic Science & Humanities</a></li>
 														<li><a href="mba.php">Master Of Business Administration</a></li>
 													</ul>
 												</li>
-												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" style="color: white;">Activities</a>
+												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#">Activities</a>
 													<ul class="dropdown-menu">
 														<li><a href="Activities_NSS.php">NSS</a></li>
 														<li><a href="Activities_IQAC.php">IQAC</a></li>
@@ -175,7 +194,7 @@
 														<li><a href="soon.php">Events Gallery</a></li>
 													</ul>
 												</li>
-												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" style="color: white;">Facilities</a>
+												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#">Facilities</a>
 													<ul class="dropdown-menu">
 														<li><a href="Facilites_Library.php">Central Library</a></li>
 														<li><a href="Facilites_Hostels.php">Hostel</a></li>
@@ -189,7 +208,7 @@
 														<li><a href="Facilites_Collaboration.php">Collaboration</a></li>
 													</ul>
 												</li>
-												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" style="color: white;">P & T</a>
+												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#">P & T</a>
 													<ul class="dropdown-menu">
 														<li><a href="placements.php">Placement & Training</a></li>
 														<li><a href="soon.php">Competitive Examinations</a></li>
@@ -200,7 +219,7 @@
 												</li>
 
 
-												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" style="color: white;">NAAC</a>
+												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#">NAAC</a>
 													<ul class="dropdown-menu">
 														<li><a href="Naac_report.php">Self Study Report</a></li>
 														<li><a href="soon.php">Data Validation and Verification</a></li>
@@ -213,8 +232,8 @@
 									<button class="btn header-btn-collapse-nav" data-bs-toggle="collapse" data-bs-target=".header-nav-main nav">
 										<i class="fas fa-bars"></i>
 									</button>
-								</div>
 
+								</div>
 							</div>
 						</div>
 					</div>
