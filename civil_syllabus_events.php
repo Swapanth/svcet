@@ -115,30 +115,31 @@
             <br>
             <br>
             <br>
-            <section class="page-header page-header-modern page-header-md" style="background-color:#840103; height:6px; margin-bottom:-10px;">
-                <div class="container">
-                    <div class="row" style="margin-top:-5px;">
-                        <div class="col-md-8 order-2 order-md-1 align-self-center p-static">
-                            <h1>Civil Engineering Department Courses and Laboratories</h1>
-                            <span class="sub-title">Academic Year 2017-18</span>
-                        </div>
-                        <div class="col-md-4 order-1 order-md-2 align-self-center">
-                            <ul class="breadcrumb d-block text-md-end breadcrumb-light">
-                                <li><a href="index.php">Home</a></li>
-                                <li class="active">Courses and Laboratories</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </section>
+            <section class="page-header page-header-modern page-header-md" style="background-color:#840103; height:6px; margin-Bottom:-10px;">
+					<div class="container" >
+						<div class="row" style="margin-top:-5px;">
+
+							<div class="col-md-8 order-2 order-md-1 align-self-center p-static">
+								<h1>Civil Engineerings</h1>
+								<span class="sub-title">Academic</span>
+							</div>
+							<div class="col-md-4 order-1 order-md-2 align-self-center">
+								<ul class="breadcrumb d-block text-md-end breadcrumb-light">
+									<li><a href="demo-medical.html">Home</a></li>
+									<li class="active">Admissions</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section>
 
             <div class="container">
                 <div class="row mt-5 mb-4">
                     <?php include 'civilmenu.php'; ?>
                     <div class="col all-content">
                         <div class="main-container">
-                            <div class="header">Civil Engineering Department Courses and Laboratories (2017-18)</div>
-                            <div class="section-header">Courses Details</div>
+                            <h4>Civil Engineering Department Courses and Laboratories (2017-18)</h4>
+                            <h4 >Courses Details</h4>
                             <table class="course-table">
                                 <thead>
                                     <tr>
@@ -185,7 +186,7 @@
                                     </tr>
                                 </tbody>
                             </table>
-                            <div class="section-header">Laboratories Details</div>
+                            <h4 >Laboratories Details</h4>
                             <table class="lab-table">
                                 <thead>
                                     <tr>

@@ -8,6 +8,7 @@
             <li class="nav-item"><a class="nav-link" href="civil_outcome.php">Outcome and Objectives</a></li>
             <li class="nav-item"><a class="nav-link" href="civil_hod_message.php">Hod Message</a></li>
             <li class="nav-item"><a class="nav-link" href="civil_infra.php">Infrastructure</a></li>
+            <li class="nav-item"><a class="nav-link" href="civil_syllabus_events.php">Syllabus & Events</a></li>
         </ul>
 
     </aside>
