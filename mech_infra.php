@@ -68,15 +68,15 @@
                     <div class="row" style="margin-top:-5px;">
 
                         <div class="col-md-8 order-2 order-md-1 align-self-center p-static">
-                            <h1>Academics</h1>
+                            <h1>Mechanical Engineering</h1>
                             <span class="sub-title">
-                            Mechanical Engineering
+                            Academics
                             </span>
                         </div>
                         <div class="col-md-4 order-1 order-md-2 align-self-center">
                             <ul class="breadcrumb d-block text-md-end breadcrumb-light">
                                 <li><a href="index.php">Home</a></li>
-                                <li class="active">Academics</li>
+                                <li class="active">Admissions</li>
                             </ul>
                         </div>
                     </div>
