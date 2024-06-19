@@ -6,7 +6,11 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+<<<<<<< HEAD
+		<title>Master of Business Administration</title>	
+=======
     <title>Admission enquiry</title>
+>>>>>>> 74456c81e0e426089f130d25997b6e71130c42e8
 
     <meta name="keywords" content="WebSite Template" />
     <meta name="description" content="Porto - Multipurpose Website Template">
