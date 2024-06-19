@@ -56,11 +56,7 @@
         <?php include 'header.php'; ?>
 
         <div role="main" class="main">
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
+           
             <section class="page-header page-header-modern page-header-md" style="background-color:#840103; height:6px; margin-bottom:-10px;">
                 <div class="container">
                     <div class="row" style="margin-top:-5px;">
