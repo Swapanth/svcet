@@ -94,7 +94,7 @@
                                 <h3 class="font-weight-semibold mb-3">HOD Message</h2>
                                 
 
-                                    <img src="img/civilhod.png" style="height: 250px; width:200px;" class="img-fluid float-start me-4 mt-2" alt="im here" />
+                                    <img src="img/profile/civilhod.png" style="height: 250px; width:200px;" class="img-fluid float-start me-4 mt-2" alt="im here" />
                                     <p>
                                     The Civil Engineering Department of SVCET established a decade ago aims at developing analytical and experimental skills in students to apply in various fields of Civil Engineering. Department of Civil encourages its students to participate in various events for their overall growth.  Apart from this the department provides students an  opportunity to improve communication and presentation skills, knowledge of software like Auto CAD, STAAD PRO, E-TABS, Arc GIS, Rivet Architecture, Microsoft Project Management (MSP), and Primavera. As a part of curriculum and beyond curriculum the student undergo Industrial Training and participate in live construction sites to gain practical knowledge and understanding of the field constraints. Further students will take up Project works and perform various designs and detailing of structures in site.  
 
