@@ -1,16 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 
     <!-- Basic -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<<<<<<< HEAD
-		<title>Master of Business Administration</title>	
-=======
     <title>Admission enquiry</title>
->>>>>>> 74456c81e0e426089f130d25997b6e71130c42e8
 
     <meta name="keywords" content="WebSite Template" />
     <meta name="description" content="Porto - Multipurpose Website Template">
@@ -54,6 +51,7 @@
     <script src="vendor/modernizr/modernizr.min.js"></script>
 
 </head>
+
 <body>
 
     <div class="body">
@@ -71,7 +69,9 @@
 
                         <div class="col-md-8 order-2 order-md-1 align-self-center p-static">
                             <h1>Academics</h1>
-								<span class="sub-title">Master of Business Administration</span>
+                            <span class="sub-title">
+                            Electrical & Electronics Engineering
+                            </span>
                         </div>
                         <div class="col-md-4 order-1 order-md-2 align-self-center">
                             <ul class="breadcrumb d-block text-md-end breadcrumb-light">
@@ -84,119 +84,37 @@
             </section>
 
             <div class="container">
+            <div class="row mt-5 mb-4">
+                <?php include 'eee_menu.php'; ?>
+                
+                    <div class="col">
+                        <div class="blog-posts single-post">
+                            <article class="post post-large blog-single-post border-0 m-0 p-0">
+                                
 
-                <div class="row mt-5 mb-4">
-                <?php include 'MBA_menu.php'; ?>
-                <div class="col">
-                    <h3 class="font-weight-semibold mb-3">List of Faculty in Master of Business Administration</h2>
-                    <hr>
-                        <table class="table table-hover">
-                            <thead>
-                            <tr>
-        <th>S.No</th>
-        <th>Name of the Staff</th>
-        <th>Designation</th>
-        <th>Highest Qualification (PG/NET/SET/SLET/ Ph.D)</th>
-    </tr>
-                            </thead>
-                            <tbody>
-                            <tr>
-        <td>1</td>
-        <td>Dr K SATYAM</td>
-        <td>HOD, Professor</td>
-        <td>Ph.D</td>
-    </tr>
-    <tr>
-        <td>2</td>
-        <td>Dr P KIRAN KUMAR</td>
-        <td>Assistant Professor</td>
-        <td>Ph.D</td>
-    </tr>
-    <tr>
-        <td>3</td>
-        <td>M RAJAMOHAN</td>
-        <td>Assistant Professor</td>
-        <td>MBA (Ph.D)</td>
-    </tr>
-    <tr>
-        <td>4</td>
-        <td>K.DURGA RAO</td>
-        <td>Assistant Professor</td>
-        <td>MBA</td>
-    </tr>
-    <tr>
-        <td>5</td>
-        <td>V.RAMANA</td>
-        <td>Assistant Professor</td>
-        <td>MBA</td>
-    </tr>
-    <tr>
-        <td>6</td>
-        <td>S.GANGARAO</td>
-        <td>Assistant Professor</td>
-        <td>MBA</td>
-    </tr>
-    <tr>
-        <td>7</td>
-        <td>T.LAKSHMI</td>
-        <td>Assistant Professor</td>
-        <td>MBA</td>
-    </tr>
-    <tr>
-        <td>8</td>
-        <td>J.LOKESWARA RAO</td>
-        <td>Assistant Professor</td>
-        <td>MBA</td>
-    </tr>
-    <tr>
-        <td>9</td>
-        <td>N RAMESH NAIDU</td>
-        <td>Assistant Professor</td>
-        <td>MBA</td>
-    </tr>
-    <tr>
-        <td>10</td>
-        <td>A RUKMINI</td>
-        <td>Assistant Professor</td>
-        <td>MBA</td>
-    </tr>
-    <tr>
-        <td>11</td>
-        <td>CH SURESH</td>
-        <td>Assistant Professor</td>
-        <td>MBA</td>
-    </tr>
-    <tr>
-        <td>12</td>
-        <td>P. VENKATESWARA RAO</td>
-        <td>Assistant Professor</td>
-        <td>MBA</td>
-    </tr>
-    <tr>
-        <td>13</td>
-        <td>S.UMADEVI</td>
-        <td>Assistant Professor</td>
-        <td>MBA</td>
-    </tr>
-    <tr>
-        <td>14</td>
-        <td>N.SUNEETHA REDDI</td>
-        <td>Assistant Professor</td>
-        <td>MBA</td>
-    </tr>
-    <tr>
-        <td>15</td>
-        <td>K.RAKESH</td>
-        <td>Assistant Professor</td>
-        <td>MBA</td>
-    </tr>
+                                <div class="post-content ms-0">
+                                <h3 class="font-weight-semibold mb-3">HOD Message</h2>
+                                
 
-                            </tbody>
-                        </table>
+                                    <img src="img/profile/eee_hod.jpg" class="img-fluid float-start me-4 mt-2" alt="im here" />
+                                    <p>
+                                        <h3>Sri V.Vykunta Rao, Assistant Professor ( M.Tech )</h3>
+                                        <h5>Head, Department of EEE</h5>
+                                        <h5>More than 8 years in  Teaching  at reputed Engineering  Colleges</h5>
 
+                                    </p>
+                                
+                                    <p>
+                                    Welcome to the Department of Electrical & Electronics Engineering.
+                                    </p>
+                                    <p>
+With great pleasure, I welcome you to the department of Electrical & Electronics Engineering. The process of learning is extremely important in life. What you learn, how you learn and from whom you learn plays a crucial role in developing ones intellectual capability. The department of Electrical and Electronics Engineering offers a suitable teaching-learning environment to the students that help them in their holistic development. This overall grooming of students is made possible by continuous monitoring and guidance by our well qualified and experienced faculty members. Small opportunities are often the beginning of great achievements. I consider all the students seeking admission in this department, as the most fortunate students as they get ample opportunities not just in IT and business firms but also in renowned PSUs, R&D Units, Electricity boards and Startups. With the whole world moving towards adopting Smart grid technologies and EV Vehicle Technology, the students graduating with a degree in Electrical & Electronics Engineering will definitely have a bright future ahead. I wish all my colleagues and students ALL THE BEST for their future endeavors.
+.</p>
+                                     </div>
+                            </article>
+                        </div>
                     </div>
                 </div>
-
             </div>
 
         </div>

@@ -1,14 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
 <head>
 
     <!-- Basic -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Civil Engineering Vision and Mission</title>
+    <title>Admission enquiry</title>
 
     <meta name="keywords" content="WebSite Template" />
     <meta name="description" content="Porto - Multipurpose Website Template">
@@ -53,7 +52,6 @@
 
 </head>
 
-
 <body>
 
     <div class="body">
@@ -72,12 +70,13 @@
                         <div class="col-md-8 order-2 order-md-1 align-self-center p-static">
                             <h1>Academics</h1>
                             <span class="sub-title">
-                                Civil Engineering </span>
+                                COMPUTER SCIENCE & ENGINEERING
+                            </span>
                         </div>
                         <div class="col-md-4 order-1 order-md-2 align-self-center">
                             <ul class="breadcrumb d-block text-md-end breadcrumb-light">
                                 <li><a href="index.php">Home</a></li>
-                                <li class="active">Academics</li>
+                                <li class="active">Admissions</li>
                             </ul>
                         </div>
                     </div>
@@ -86,7 +85,7 @@
 
             <div class="container">
                 <div class="row mt-5 mb-4">
-                    <?php include "civilmenu.php"; ?>
+                    <?php include 'cse_menu.php'; ?>
 
                     <div class="col">
                         <div class="blog-posts single-post">
@@ -94,81 +93,29 @@
 
 
                                 <div class="post-content ms-0">
-                                    <h3 class="font-weight-semibold mb-3">PROGRAMME EDUCATIONAL OBJECTIVES:</h2>
-                                        <div class="resource-item">
-                                            <strong>Class Rooms:</strong> 03
-                                        </div>
-                                        <div class="resource-item">
-                                            <strong>Laboratories:</strong> 06
-                                        </div>
-                                        <div class="resource-item">
-                                            <strong>Staff Rooms:</strong> 01
-                                        </div>
-                                        <div class="resource-item">
-                                            <strong>HOD Room:</strong> 01
-                                        </div>
-                                        <div class="resource-item">
-                                            <strong>Computing Facility in Labs:</strong> 60 Systems
-                                        </div>
-                                        <div class="resource-item">
-                                            <strong>Internet Facility:</strong> 20 Mbps
-                                        </div>
-                                        <div class="resource-item">
-                                            <strong>Department Library:</strong> 01
-                                        </div>
-                                        <div class="resource-item">
-                                            <strong>UPS - 20 KVA:</strong> 01
-                                        </div>
-                                        <div class="resource-item">
-                                            <strong>LCD Projectors:</strong> 01
-                                        </div>
-                                        <div class="resource-item">
-                                            <strong>OHPs:</strong> 01
-                                        </div>
-                                        <div class="resource-item">
-                                            <strong>Printers:</strong> 01
-                                        </div>
+                                    <h3 class="font-weight-semibold mb-3">HOD Message</h2>
 
 
+                                        <img src="img/profile/cse_hod.jpg" class="img-fluid float-start me-4 mt-2" alt="im here" />
+                                        <p>
+                                        <h3>SANAPALA BHASKARA RAO(M.Tech.,(Ph.D))</h3>
+                                        <h5>Head, Department of CSE</h5>
+                                        <h5>bhaskar.sanapala@gmail.com</h5>
 
+                                        </p>
+
+                                        <p>
+                                            Welcome to the Department of Computer Science and Engineering (CSE)
+                                        </p>
+                                        <p>The Department of Computer Science and Engineering was established in 2008. Department is affiliated to JNTUK Kakinada since 2008 and approved by AICTE New Delhi. The department offers four-year B.Tech Programs in CSE, and two-year M.Tech programs. It has a rich tradition and well-qualified faculty, along with widely recognized laboratories. The department aims to provide a strong foundation in Computer Science and Engineering fundamentals, emphasizing mathematical and scientific principles. Additionally, the course focuses on developing skills in the application of design processes for innovative engineering solutions. The annual intake of students in CSE is 120 in the undergraduate course the department seeks to combine excellence in education with service to the industry.</p>
+                                        <p>The Department of Computer Science and Engineering (CSE) aims to produce skilled professionals in the domain of Computer Science and Engineering enable them to excel professionally. It also provides state-of-the-art laboratory facilities to the students to get better practical exposure and strong ties with industry, research organizations and the community.</p>
+                                    <p>This course enables students to build intelligent machines, software, or applications with a crisp combination of Machine Learning, Deep Learning, Analytics and Visualization technologies. The department aims to impart cutting-edge technology skills and competencies in various fields of Computer Science and Engineering, thereby producing industry-ready professionals and Entrepreneurs.  </p>
+                                        <p>The department will collaborate with the leading industries to exhilarate innovative research and development in Computer Science and Engineering and its allied technologies. The department covers a whole spectrum of research in Artificial Intelligence, Image Processing, Pattern Recognition, Machine Learning, Block chain Technologies, Data Mining, Big-Data Analytics, Algorithms, and Computer Security led by a qualified and experienced team of faculty members.</p>
+                                    <p>The students, faculty, and staff of Computer Science and Engineering at Sri Venkateswara College of Engineering and Technology  believe in working together, encouraging each other, helping each other and most importantly, belief & trust in each other. This is the key to making our students successful at Sri Venkateswara College of engineering and Technology.</p>
+                                        <p>I am confident that the Department of Computer Science and Engineering at Sri Venkateswara College of engineering and Technology is ready in all respect to face the new & exciting challenges in this new digital era and to be one of the best institutions in the state of Andhra Pradesh and India.</p>
                                 </div>
                             </article>
-                            <br>
                         </div>
-                        <h3 class="font-weight-semibold mb-3">List of Faculty in EEE Department</h2>
-                            <hr>
-                            <table class="table table-hover">
-                                <thead>
-                                    <tr>
-                                        <th>Category</th>
-                                        <th>Count</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <td>Books</td>
-                                        <td>62</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Journals (International)</td>
-                                        <td>00</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Journals (National)</td>
-                                        <td>00</td>
-                                    </tr>
-                                    <tr>
-                                        <td>CDs, VCDs, Multimedia</td>
-                                        <td>-NIL-</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Any Other</td>
-                                        <td>-NIL-</td>
-                                    </tr>
-
-
-                                </tbody>
-                            </table>
                     </div>
                 </div>
             </div>
@@ -197,6 +144,5 @@
     <script src="js/theme.init.js"></script>
 
 </body>
-
 
 </html>

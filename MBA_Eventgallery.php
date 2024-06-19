@@ -6,7 +6,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<title>Admission enquiry</title>	
+		<title>Master of Business Administration</title>	
 
 		<meta name="keywords" content="WebSite Template" />
 		<meta name="description" content="Porto - Multipurpose Website Template">
@@ -212,19 +212,6 @@
                                         <div class="post-image">
                                             <a href="blog-post.html"><br><br>
                                                 <img src="img/pic7.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="" />
-                                            </a>
-                                        </div>
-                                        <div class="post-content">
-                                            <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="soon.php"></a></h2>
-                                        </div>
-                                    </article>
-                                </div>
-
-                                <div class="col-md-4 col-lg-3">
-                                    <article class="post post-medium border-0 pb-0 mb-5">
-                                        <div class="post-image">
-                                            <a href="blog-post.html">
-                                                <img src="" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt= />
                                             </a>
                                         </div>
                                         <div class="post-content">

@@ -1,18 +1,58 @@
-<?php include 'header.php'; ?>
-<br>    
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Basic -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
     <title>Civil Engineering Department Courses and Laboratories</title>
-    <!-- Bootstrap CSS -->
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
+
+    <meta name="keywords" content="WebSite Template" />
+    <meta name="description" content="Porto - Multipurpose Website Template">
+    <meta name="author" content="okler.net">
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
+
+    <!-- Web Fonts  -->
+    <link id="googleFonts" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800%7CShadows+Into+Light&display=swap" rel="stylesheet" type="text/css">
+
+    <!-- Vendor CSS -->
+    <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="vendor/fontawesome-free/css/all.min.css">
+    <link rel="stylesheet" href="vendor/animate/animate.compat.css">
+    <link rel="stylesheet" href="vendor/simple-line-icons/css/simple-line-icons.min.css">
+    <link rel="stylesheet" href="vendor/owl.carousel/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="vendor/owl.carousel/assets/owl.theme.default.min.css">
+    <link rel="stylesheet" href="vendor/magnific-popup/magnific-popup.min.css">
+
+    <!-- Theme CSS -->
+    <link rel="stylesheet" href="css/theme.css">
+    <link rel="stylesheet" href="css/theme-elements.css">
+    <link rel="stylesheet" href="css/theme-blog.css">
+    <link rel="stylesheet" href="css/theme-shop.css">
+
+    <!-- Demo CSS -->
+    <link rel="stylesheet" href="css/demos/demo-medical.css">
+
+    <!-- Skin CSS -->
+    <link id="skinCSS" rel="stylesheet" href="css/skins/skin-medical.css">
+
+    <!-- Theme Custom CSS -->
+    <link rel="stylesheet" href="css/custom.css">
+
+    <!-- Head Libs -->
+    <script src="vendor/modernizr/modernizr.min.js"></script>
+    
     <style>
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
-            margin: 20px;
         }
         .main-container {
             max-width: 800px;
@@ -28,176 +68,187 @@
         .section-header {
             font-weight: bold;
             font-size: 24px;
-            margin-top: 30px; /* Increased margin-top for better spacing */
-            margin-bottom: 10px; /* Added margin-bottom for better separation */
-            border-bottom: 2px solid #333; /* Added border bottom for section headers */
-            padding-bottom: 5px; /* Added padding bottom for section headers */
+            margin-top: 30px;
+            margin-bottom: 10px;
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
         }
-        .course-table {
+        .course-table, .lab-table {
             width: 100%;
             margin-top: 10px;
             border-collapse: collapse;
         }
-        .course-table th, .course-table td {
+        .course-table th, .course-table td, .lab-table th, .lab-table td {
             border: 1px solid #ddd;
             padding: 8px;
             text-align: left;
         }
-        .course-table th {
+        .course-table th, .lab-table th {
             background-color: #f2f2f2;
         }
-        .lab-table {
-            width: 100%;
-            margin-top: 10px;
-            border-collapse: collapse;
-        }
-        .lab-table th, .lab-table td {
-            border: 1px solid #ddd;
-            padding: 8px;
-            text-align: left;
-        }
-        .lab-table th {
-            background-color: #f2f2f2;
-        }
-
-        .all-content{
+        .all-content {
             margin-top: -290px;
             margin-left: 80px;
         }
-
-       .col-md-3{
+        .col-md-3 {
             width: 30%;
             margin-top: 180px;
             margin-left: 10px;
             margin-right: 10px;
             height: 100%;
         }
-        .row{
+        .row {
             display: flex;
             flex-wrap: wrap;
-       }
+        }
     </style>
 </head>
+
 <body>
-<div class="row">
-    <?php include "civilmenu.php"; ?>
 
-    </div>  
-    <div class="all-content">
-    <div class="main-container">
-        <div class="header">Civil Engineering Department Courses and Laboratories (2017-18)</div>
-        
-        <div class="section-header">Courses Details</div>
-        <table class="course-table">
-            <thead>
-                <tr>
-                    <th>S.NO</th>
-                    <th>YEAR</th>
-                    <th>SEM</th>
-                    <th>PROGRAM/BRANCH</th>
-                    <th>NAME OF THE COURSE</th>
-                    <th>HANDELED BY DEPT.</th>
-                </tr>
-            </thead>
-            <tbody>
-                <!-- ODD SEMESTER COURSES DETAILS -->
-                <tr>
-                    <td>1</td>
-                    <td>IV</td>
-                    <td>I</td>
-                    <td>B.Tech/CIVIL (R13)</td>
-                    <td>Environmental Engineering – II</td>
-                    <td>CIVIL</td>
-                </tr>
-                <tr>
-                    <td>2</td>
-                    <td>IV</td>
-                    <td>I</td>
-                    <td>B.Tech/CIVIL (R13)</td>
-                    <td>Prestressed Concrete</td>
-                    <td>CIVIL</td>
-                </tr>
-                <!-- Add more rows as per your data -->
+    <div class="body">
+        <?php include 'header.php'; ?>
 
-                <!-- EVEN SEMESTER COURSES DETAILS -->
-                <tr>
-                    <td>1</td>
-                    <td>IV</td>
-                    <td>II</td>
-                    <td>B.Tech/CIVIL (R13)</td>
-                    <td>Estimating, Specifications & Contracts</td>
-                    <td>CIVIL</td>
-                </tr>
-                <tr>
-                    <td>2</td>
-                    <td>IV</td>
-                    <td>II</td>
-                    <td>B.Tech/CIVIL (R13)</td>
-                    <td>Elective -II: Engineering with Geo-synthetics</td>
-                    <td>CIVIL</td>
-                </tr>
-                <!-- Add more rows as per your data -->
-            </tbody>
-        </table>
-        
-        <div class="section-header">Laboratories Details</div>
-        <table class="lab-table">
-            <thead>
-                <tr>
-                    <th>S.NO</th>
-                    <th>YEAR</th>
-                    <th>SEM</th>
-                    <th>PROGRAM/BRANCH</th>
-                    <th>NAME OF THE LAB</th>
-                    <th>HANDELED BY DEPT.</th>
-                </tr>
-            </thead>
-            <tbody>
-                <!-- ODD SEMESTER LABS DETAILS -->
-                <tr>
-                    <td>1</td>
-                    <td>IV</td>
-                    <td>I</td>
-                    <td>B.Tech/CIVIL (R13)</td>
-                    <td>Environmental Engineering Lab</td>
-                    <td>CIVIL</td>
-                </tr>
-                <tr>
-                    <td>2</td>
-                    <td>III</td>
-                    <td>I</td>
-                    <td>B.Tech/CIVIL (R13)</td>
-                    <td>Geotechnical Engineering Lab</td>
-                    <td>CIVIL</td>
-                </tr>
-                <!-- Add more rows as per your data -->
+        <div role="main" class="main">
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <section class="page-header page-header-modern page-header-md" style="background-color:#840103; height:6px; margin-bottom:-10px;">
+                <div class="container">
+                    <div class="row" style="margin-top:-5px;">
+                        <div class="col-md-8 order-2 order-md-1 align-self-center p-static">
+                            <h1>Civil Engineering Department Courses and Laboratories</h1>
+                            <span class="sub-title">Academic Year 2017-18</span>
+                        </div>
+                        <div class="col-md-4 order-1 order-md-2 align-self-center">
+                            <ul class="breadcrumb d-block text-md-end breadcrumb-light">
+                                <li><a href="index.php">Home</a></li>
+                                <li class="active">Courses and Laboratories</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
 
-                <!-- EVEN SEMESTER LABS DETAILS -->
-                <tr>
-                    <td>1</td>
-                    <td>IV</td>
-                    <td>II</td>
-                    <td>B.Tech/CIVIL (R13)</td>
-                    <td>PROJECT</td>
-                    <td>CIVIL</td>
-                </tr>
-                <tr>
-                    <td>2</td>
-                    <td>III</td>
-                    <td>II</td>
-                    <td>B.Tech/CIVIL (R13)</td>
-                    <td>Computer Aided Engineering Drawing</td>
-                    <td>CIVIL</td>
-                </tr>
-                <!-- Add more rows as per your data -->
-            </tbody>
-        </table>
+            <div class="container">
+                <div class="row mt-5 mb-4">
+                    <?php include 'civilmenu.php'; ?>
+                    <div class="col all-content">
+                        <div class="main-container">
+                            <div class="header">Civil Engineering Department Courses and Laboratories (2017-18)</div>
+                            <div class="section-header">Courses Details</div>
+                            <table class="course-table">
+                                <thead>
+                                    <tr>
+                                        <th>S.NO</th>
+                                        <th>YEAR</th>
+                                        <th>SEM</th>
+                                        <th>PROGRAM/BRANCH</th>
+                                        <th>NAME OF THE COURSE</th>
+                                        <th>HANDELED BY DEPT.</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>1</td>
+                                        <td>IV</td>
+                                        <td>I</td>
+                                        <td>B.Tech/CIVIL (R13)</td>
+                                        <td>Environmental Engineering – II</td>
+                                        <td>CIVIL</td>
+                                    </tr>
+                                    <tr>
+                                        <td>2</td>
+                                        <td>IV</td>
+                                        <td>I</td>
+                                        <td>B.Tech/CIVIL (R13)</td>
+                                        <td>Prestressed Concrete</td>
+                                        <td>CIVIL</td>
+                                    </tr>
+                                    <tr>
+                                        <td>1</td>
+                                        <td>IV</td>
+                                        <td>II</td>
+                                        <td>B.Tech/CIVIL (R13)</td>
+                                        <td>Estimating, Specifications & Contracts</td>
+                                        <td>CIVIL</td>
+                                    </tr>
+                                    <tr>
+                                        <td>2</td>
+                                        <td>IV</td>
+                                        <td>II</td>
+                                        <td>B.Tech/CIVIL (R13)</td>
+                                        <td>Elective -II: Engineering with Geo-synthetics</td>
+                                        <td>CIVIL</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <div class="section-header">Laboratories Details</div>
+                            <table class="lab-table">
+                                <thead>
+                                    <tr>
+                                        <th>S.NO</th>
+                                        <th>YEAR</th>
+                                        <th>SEM</th>
+                                        <th>PROGRAM/BRANCH</th>
+                                        <th>NAME OF THE LAB</th>
+                                        <th>HANDELED BY DEPT.</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>1</td>
+                                        <td>IV</td>
+                                        <td>I</td>
+                                        <td>B.Tech/CIVIL (R13)</td>
+                                        <td>Environmental Engineering Lab</td>
+                                        <td>CIVIL</td>
+                                    </tr>
+                                    <tr>
+                                        <td>2</td>
+                                        <td>III</td>
+                                        <td>I</td>
+                                        <td>B.Tech/CIVIL (R13)</td>
+                                        <td>Geotechnical Engineering Lab</td>
+                                        <td>CIVIL</td>
+                                    </tr>
+                                    <tr>
+                                        <td>1</td>
+                                        <td>IV</td>
+                                        <td>II</td>
+                                        <td>B.Tech/CIVIL (R13)</td>
+                                        <td>PROJECT</td>
+                                        <td>CIVIL</td>
+                                    </tr>
+                                    <tr>
+                                        <td>2</td>
+                                        <td>III</td>
+                                        <td>II</td>
+                                        <td>B.Tech/CIVIL (R13)</td>
+                                        <td>Computer Aided Engineering Drawing</td>
+                                        <td>CIVIL</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <?php include 'footer.php'; ?>
     </div>
-    </div>
-    <?php include 'footer.php'; ?>
-    <!-- Bootstrap JS and dependencies -->
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
-</body>
-</html>
+
+    <!-- Vendor -->
+    <script src="vendor/plugins/js/plugins.min.js"></script>
+
+    <!-- Theme Base, Components and Settings -->
+    <script src="js/theme.js"></script>
+
+    <!-- Current Page Vendor and Views -->
+    <script src="js/views/view.contact.js"></script>
+
+    <!-- Demo

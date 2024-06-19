@@ -1,16 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 
     <!-- Basic -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<<<<<<< HEAD
-		<title>Master of Business Administration</title>	
-=======
     <title>Admission enquiry</title>
->>>>>>> 74456c81e0e426089f130d25997b6e71130c42e8
 
     <meta name="keywords" content="WebSite Template" />
     <meta name="description" content="Porto - Multipurpose Website Template">
@@ -54,6 +51,7 @@
     <script src="vendor/modernizr/modernizr.min.js"></script>
 
 </head>
+
 <body>
 
     <div class="body">
@@ -71,7 +69,9 @@
 
                         <div class="col-md-8 order-2 order-md-1 align-self-center p-static">
                             <h1>Academics</h1>
-								<span class="sub-title">Master of Business Administration</span>
+                            <span class="sub-title">
+                            Electrical & Electronics Engineering
+                            </span>
                         </div>
                         <div class="col-md-4 order-1 order-md-2 align-self-center">
                             <ul class="breadcrumb d-block text-md-end breadcrumb-light">
@@ -86,110 +86,81 @@
             <div class="container">
 
                 <div class="row mt-5 mb-4">
-                <?php include 'MBA_menu.php'; ?>
-                <div class="col">
-                    <h3 class="font-weight-semibold mb-3">List of Faculty in Master of Business Administration</h2>
+                    <?php include 'eee_menu.php'; ?>
+                    <div class="col">
+                    <h3 class="font-weight-semibold mb-3">List of Faculty in EEE Department</h2>
                     <hr>
                         <table class="table table-hover">
                             <thead>
-                            <tr>
-        <th>S.No</th>
-        <th>Name of the Staff</th>
-        <th>Designation</th>
-        <th>Highest Qualification (PG/NET/SET/SLET/ Ph.D)</th>
-    </tr>
+                                <tr>
+                                    <th>S.NO</th>
+                                    <th>FACULTY NAME</th>
+                                    <th>QUALIFICATION</th>
+                                    <th>DESIGNATION</th>
+                                </tr>
                             </thead>
                             <tbody>
-                            <tr>
-        <td>1</td>
-        <td>Dr K SATYAM</td>
-        <td>HOD, Professor</td>
-        <td>Ph.D</td>
-    </tr>
-    <tr>
-        <td>2</td>
-        <td>Dr P KIRAN KUMAR</td>
-        <td>Assistant Professor</td>
-        <td>Ph.D</td>
-    </tr>
-    <tr>
-        <td>3</td>
-        <td>M RAJAMOHAN</td>
-        <td>Assistant Professor</td>
-        <td>MBA (Ph.D)</td>
-    </tr>
-    <tr>
-        <td>4</td>
-        <td>K.DURGA RAO</td>
-        <td>Assistant Professor</td>
-        <td>MBA</td>
-    </tr>
-    <tr>
-        <td>5</td>
-        <td>V.RAMANA</td>
-        <td>Assistant Professor</td>
-        <td>MBA</td>
-    </tr>
-    <tr>
-        <td>6</td>
-        <td>S.GANGARAO</td>
-        <td>Assistant Professor</td>
-        <td>MBA</td>
-    </tr>
-    <tr>
-        <td>7</td>
-        <td>T.LAKSHMI</td>
-        <td>Assistant Professor</td>
-        <td>MBA</td>
-    </tr>
-    <tr>
-        <td>8</td>
-        <td>J.LOKESWARA RAO</td>
-        <td>Assistant Professor</td>
-        <td>MBA</td>
-    </tr>
-    <tr>
-        <td>9</td>
-        <td>N RAMESH NAIDU</td>
-        <td>Assistant Professor</td>
-        <td>MBA</td>
-    </tr>
-    <tr>
-        <td>10</td>
-        <td>A RUKMINI</td>
-        <td>Assistant Professor</td>
-        <td>MBA</td>
-    </tr>
-    <tr>
-        <td>11</td>
-        <td>CH SURESH</td>
-        <td>Assistant Professor</td>
-        <td>MBA</td>
-    </tr>
-    <tr>
-        <td>12</td>
-        <td>P. VENKATESWARA RAO</td>
-        <td>Assistant Professor</td>
-        <td>MBA</td>
-    </tr>
-    <tr>
-        <td>13</td>
-        <td>S.UMADEVI</td>
-        <td>Assistant Professor</td>
-        <td>MBA</td>
-    </tr>
-    <tr>
-        <td>14</td>
-        <td>N.SUNEETHA REDDI</td>
-        <td>Assistant Professor</td>
-        <td>MBA</td>
-    </tr>
-    <tr>
-        <td>15</td>
-        <td>K.RAKESH</td>
-        <td>Assistant Professor</td>
-        <td>MBA</td>
-    </tr>
+                                <tr>
+                                    <td>01</td>
+                                    <td>A.APPARAO</td>
+                                    <td>M.Tech</td>
+                                    <td>Assistant Professor</td>
+                                </tr>
+                                <tr>
+                                    <td>02</td>
+                                    <td>V.VYKUNTARAO</td>
+                                    <td>M.Tech</td>
+                                    <td>Assistant Professor</td>
+                                </tr>
+                                <tr>
+                                    <td>03</td>
+                                    <td>K.SEETHARAMAYYA</td>
+                                    <td>M.Tech</td>
+                                    <td>Assistant Professor</td>
+                                </tr>
+                                <tr>
+                                    <td>04</td>
+                                    <td>M.SRINIVAS</td>
+                                    <td>M.Tech</td>
+                                    <td>Assistant Professor</td>
+                                </tr>
+                                <tr>
+                                    <td>05</td>
+                                    <td>P.USHA RANI</td>
+                                    <td>M.Tech</td>
+                                    <td>Assistant Professor</td>
+                                </tr>
+                                <tr>
+                                    <td>06</td>
+                                    <td>K PRAVEEN</td>
+                                    <td>M.Tech</td>
+                                    <td>Assistant Professor</td>
+                                </tr>
+                                <tr>
+                                    <td>07</td>
+                                    <td>A CHANDANA</td>
+                                    <td>M.Tech</td>
+                                    <td>Assistant Professor</td>
+                                </tr>
+                                <tr>
+                                    <td>08</td>
+                                    <td>P.VASANTHA KUMARI</td>
+                                    <td>M.Tech</td>
+                                    <td>Assistant Professor</td>
+                                </tr>
+                                <tr>
+                                    <td>09</td>
+                                    <td>B.SURESH</td>
+                                    <td>M.Tech</td>
+                                    <td>Assistant Professor</td>
+                                </tr>
+                                <tr>
+                                    <td>10</td>
+                                    <td>B.DURGA RAO</td>
+                                    <td>M.Tech</td>
+                                    <td>Assistant Professor</td>
+                                </tr>
+                                
 
                             </tbody>
                         </table>

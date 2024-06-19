@@ -1,16 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 
     <!-- Basic -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<<<<<<< HEAD
-		<title>Master of Business Administration</title>	
-=======
     <title>Admission enquiry</title>
->>>>>>> 74456c81e0e426089f130d25997b6e71130c42e8
 
     <meta name="keywords" content="WebSite Template" />
     <meta name="description" content="Porto - Multipurpose Website Template">
@@ -54,6 +51,7 @@
     <script src="vendor/modernizr/modernizr.min.js"></script>
 
 </head>
+
 <body>
 
     <div class="body">
@@ -71,12 +69,14 @@
 
                         <div class="col-md-8 order-2 order-md-1 align-self-center p-static">
                             <h1>Academics</h1>
-								<span class="sub-title">Master of Business Administration</span>
+                            <span class="sub-title">
+                               Civil Engineering
+                            </span>
                         </div>
                         <div class="col-md-4 order-1 order-md-2 align-self-center">
                             <ul class="breadcrumb d-block text-md-end breadcrumb-light">
                                 <li><a href="index.php">Home</a></li>
-                                <li class="active">Admissions</li>
+                                <li class="active">Academics</li>
                             </ul>
                         </div>
                     </div>
@@ -84,119 +84,31 @@
             </section>
 
             <div class="container">
+            <div class="row mt-5 mb-4">
+                <?php include 'cse_menu.php'; ?>
+                
+                    <div class="col">
+                        <div class="blog-posts single-post">
+                            <article class="post post-large blog-single-post border-0 m-0 p-0">
+                                
 
-                <div class="row mt-5 mb-4">
-                <?php include 'MBA_menu.php'; ?>
-                <div class="col">
-                    <h3 class="font-weight-semibold mb-3">List of Faculty in Master of Business Administration</h2>
-                    <hr>
-                        <table class="table table-hover">
-                            <thead>
-                            <tr>
-        <th>S.No</th>
-        <th>Name of the Staff</th>
-        <th>Designation</th>
-        <th>Highest Qualification (PG/NET/SET/SLET/ Ph.D)</th>
-    </tr>
-                            </thead>
-                            <tbody>
-                            <tr>
-        <td>1</td>
-        <td>Dr K SATYAM</td>
-        <td>HOD, Professor</td>
-        <td>Ph.D</td>
-    </tr>
-    <tr>
-        <td>2</td>
-        <td>Dr P KIRAN KUMAR</td>
-        <td>Assistant Professor</td>
-        <td>Ph.D</td>
-    </tr>
-    <tr>
-        <td>3</td>
-        <td>M RAJAMOHAN</td>
-        <td>Assistant Professor</td>
-        <td>MBA (Ph.D)</td>
-    </tr>
-    <tr>
-        <td>4</td>
-        <td>K.DURGA RAO</td>
-        <td>Assistant Professor</td>
-        <td>MBA</td>
-    </tr>
-    <tr>
-        <td>5</td>
-        <td>V.RAMANA</td>
-        <td>Assistant Professor</td>
-        <td>MBA</td>
-    </tr>
-    <tr>
-        <td>6</td>
-        <td>S.GANGARAO</td>
-        <td>Assistant Professor</td>
-        <td>MBA</td>
-    </tr>
-    <tr>
-        <td>7</td>
-        <td>T.LAKSHMI</td>
-        <td>Assistant Professor</td>
-        <td>MBA</td>
-    </tr>
-    <tr>
-        <td>8</td>
-        <td>J.LOKESWARA RAO</td>
-        <td>Assistant Professor</td>
-        <td>MBA</td>
-    </tr>
-    <tr>
-        <td>9</td>
-        <td>N RAMESH NAIDU</td>
-        <td>Assistant Professor</td>
-        <td>MBA</td>
-    </tr>
-    <tr>
-        <td>10</td>
-        <td>A RUKMINI</td>
-        <td>Assistant Professor</td>
-        <td>MBA</td>
-    </tr>
-    <tr>
-        <td>11</td>
-        <td>CH SURESH</td>
-        <td>Assistant Professor</td>
-        <td>MBA</td>
-    </tr>
-    <tr>
-        <td>12</td>
-        <td>P. VENKATESWARA RAO</td>
-        <td>Assistant Professor</td>
-        <td>MBA</td>
-    </tr>
-    <tr>
-        <td>13</td>
-        <td>S.UMADEVI</td>
-        <td>Assistant Professor</td>
-        <td>MBA</td>
-    </tr>
-    <tr>
-        <td>14</td>
-        <td>N.SUNEETHA REDDI</td>
-        <td>Assistant Professor</td>
-        <td>MBA</td>
-    </tr>
-    <tr>
-        <td>15</td>
-        <td>K.RAKESH</td>
-        <td>Assistant Professor</td>
-        <td>MBA</td>
-    </tr>
+                                <div class="post-content ms-0">
+                                <h3 class="font-weight-semibold mb-3">HOD Message</h2>
+                                
 
-                            </tbody>
-                        </table>
+                                    <img src="img/civilhod.png" style="height: 250px; width:200px;" class="img-fluid float-start me-4 mt-2" alt="im here" />
+                                    <p>
+                                    The Civil Engineering Department of SVCET established a decade ago aims at developing analytical and experimental skills in students to apply in various fields of Civil Engineering. Department of Civil encourages its students to participate in various events for their overall growth.  Apart from this the department provides students an  opportunity to improve communication and presentation skills, knowledge of software like Auto CAD, STAAD PRO, E-TABS, Arc GIS, Rivet Architecture, Microsoft Project Management (MSP), and Primavera. As a part of curriculum and beyond curriculum the student undergo Industrial Training and participate in live construction sites to gain practical knowledge and understanding of the field constraints. Further students will take up Project works and perform various designs and detailing of structures in site.  
 
+                                    </p>
+                                
+                                    <p>
+                                    Our Alumni students are well settled in various Govt. and Private sectors. Few alumni are pursuing their higher education in reputed institutes.                                    <p>The Department of Computer Science and Engineering was established in 2008. Department is affiliated to JNTUK Kakinada since 2008 and approved by AICTE New Delhi. The department offers four-year B.Tech Programs in CSE, and two-year M.Tech programs. It has a rich tradition and well-qualified faculty, along with widely recognized laboratories. The department aims to provide a strong foundation in Computer Science and Engineering fundamentals, emphasizing mathematical and scientific principles. Additionally, the course focuses on developing skills in the application of design processes for innovative engineering solutions. The annual intake of students in CSE is 120 in the undergraduate course the department seeks to combine excellence in education with service to the industry.</p>
+                                   </div>
+                            </article>
+                        </div>
                     </div>
                 </div>
-
             </div>
 
         </div>
