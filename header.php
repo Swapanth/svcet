@@ -48,97 +48,79 @@
 	<!-- Head Libs -->
 	<script src="vendor/modernizr/modernizr.min.js"></script>
 
-	<style>
-		.dropdown-menu {
-			min-width: 200px;
-			/* Adjust the minimum width as needed */
-		}
 
-		.dropdown-menu li a {
-			white-space: nowrap;
-			overflow: hidden;
-			text-overflow: ellipsis;
-		}
-
-		.dropdown:hover .dropdown-menu {
-			display: block;
-			width: auto;
-		}
-
-		@media (min-width: 992px) {
-
-			#header .header-nav.header-nav-links:not(.header-nav-light-text) nav>ul>li>a,
-			#header .header-nav.header-nav-line:not(.header-nav-light-text) nav>ul>li>a {
-				color: white;
-			}
-		}
-
-		@media (max-width: 992px) {
-
-			#header .header-nav.header-nav-links:not(.header-nav-light-text) nav>ul>li>a,
-			#header .header-nav.header-nav-line:not(.header-nav-light-text) nav>ul>li>a {
-				color: black;
-			}
-
-		}
-	</style>
 
 </head>
 
 <body data-plugin-page-transition>
 
 	<div class="body">
-		<header id="header" class="header-effect-shrink" data-plugin-options="{'stickyEnabled': true, 'stickyEffect': 'shrink', 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': false, 'stickyChangeLogo': false, 'stickyStartAt': 30, 'stickyHeaderContainerHeight': 70}">
-			<div class="header-body border-top-0" style="background-color: #097197;">
-				<div class="header-top header-top-default border-bottom-0" style="background-color: white;">
-					<div class="container" style="background-color: white; width: 100%;">
-						<div class="header-row py-2">
-							<div class="header-column justify-content-start" style="background-color: white;">
-								<div class="header-row">
-									<nav class="header-nav-top">
-										<ul class="nav nav-pills">
-											<li class="nav-item" style="background-color: white;">
-												<strong style="color:#097197 ">COLLEGE CODE FOR EAMCET / ECET / PGCET - VETS</strong>
-											</li>
-										</ul>
-									</nav>
+			<header id="header" data-plugin-options="{'stickyEnabled': true, 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': false, 'stickyChangeLogo': false, 'stickyStartAt': 0}">
+				<div class="header-body border-0">
+					<div class="header-top header-top-default border-bottom-0 bg-color-primary">
+						<div class="container container-xl-custom">
+							<div class="header-row py-2">
+								<div class="header-column justify-content-start">
+									<div class="header-row">
+										<nav class="header-nav-top">
+											<ul class="nav nav-pills text-2">
+												<li class="nav-item d-none d-lg-inline-block">
+													<span class="ps-0 pe-4 text-light opacity-8"><b>COLLEGE CODE FOR EAMCET / ECET / PGCET -</b> VETS</span>
+												</li>
+												<li class="nav-item text-uppercase">
+													<a class="nav-link ps-0 pe-4 text-light" href="Naac_report.php">NAAC</a>
+												</li>
+												<li class="nav-item text-uppercase">
+													<a class="nav-link ps-0 pe-4 text-light" href="#">About Us</a>
+												</li>
+												<li class="nav-item text-uppercase">
+													<a class="nav-link ps-0 pe-4 text-light" href="#">Contact Us</a>
+												</li>
+											</ul>
+										</nav>
+									</div>
 								</div>
-							</div>
-							<div class="header-column justify-content-end">
-								<div class="header-row">
-									<nav class="header-nav-top">
-										<ul class="nav nav-pills text-uppercase text-2">
-											<li class="nav-item nav-item-anim-icon d-none d-md-block">
-												<a class="nav-link ps-0" style="color:#097197" href="soon.html"><i class="fas fa-angle-right"></i> About Us</a>
-											</li>
-											<li class="nav-item nav-item-anim-icon d-none d-md-block">
-												<a class="nav-link" style="color:#097197 " href="soon.html"><i class="fas fa-angle-right"></i> Contact Us</a>
-											</li>
+								<div class="header-column justify-content-end">
+									<div class="header-row">
+										<ul class="header-social-icons social-icons d-none d-sm-block social-icons-clean social-icons-icon-light">
+											<li class="social-icons-facebook"><a href="http://www.facebook.com/" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
+											<li class="social-icons-twitter"><a href="http://www.twitter.com/" target="_blank" title="Twitter"><i class="fab fa-x-twitter"></i></a></li>
+											<li class="social-icons-linkedin"><a href="http://www.linkedin.com/" target="_blank" title="Linkedin"><i class="fab fa-linkedin-in"></i></a></li>
 										</ul>
-									</nav>
+									</div>
 								</div>
 							</div>
 						</div>
 					</div>
-				</div>
-				<div class="header-container container">
-
-					<div class="header-row">
-						<div class="header-column">
-							<div class="header-row">
-								<div class="header-logo header-logo-sticky-change" style="width: 82px; height: 40px;margin-Top:-19px;">
-									<a href="index.php">
-										<img class="header-logo-non-sticky opacity-0" alt="Porto" width="700" height="90" src="img/Logos/svcet2.svg" style="margin-Top:-12px; margin-left:-250px;">
-										<img class="header-logo-sticky opacity-0" alt="Porto" width="170" height="100px" src="img/Logos/svcet1.svg" style="margin-bottom: 20px;">
-									</a>
+					<div class="header-container container container-xl-custom" style="min-height: 50px;">
+						<div class="header-row py-3">
+							<div class="header-column justify-content-start">
+								<div class="header-row">
+									<h1 class="header-logo" style="margin:-50px; padding:-50px;">
+										<a href="index.php">
+											<img alt="SVCET" width="400" height="182" src="img/svcet.svg">
+										</a>
+									</h1>
 								</div>
 							</div>
+							
+							<div class="header-column justify-content-end w-75">
+								<div class="header-row">
+										<img alt="SVCET" height="50" class="img-fluid ps-3" src="img/iso.png" />
+								</div>
+							</div>
+							
 						</div>
-						<div class="header-column justify-content-end" style="color: white; margin:10px;">
+					</div>
+					<div class="header-nav-bar header-nav-bar-top-border bg-light">
+						<div class="header-container container container-xl-custom">
 							<div class="header-row">
-								<div class="header-nav header-nav-links">
-									<div class="header-nav-main header-nav-main-square header-nav-main-dropdown-no-borders header-nav-main-dropdown-arrow header-nav-main-dropdown-center header-nav-main-effect-3 header-nav-main-sub-effect-1">
-										<nav class="collapse">
+								<div class="header-column">
+									<div class="header-row justify-content-end justify-content-lg-start">
+										<div class="header-nav p-0">
+											<div class="header-nav header-nav-links header-nav-spaced header-nav-first-item-no-padding justify-content-start">
+												<div class="header-nav-main header-nav-main-square header-nav-main-font-lg-upper header-nav-main-dropdown-no-borders header-nav-main-effect-2 header-nav-main-sub-effect-1">
+													<nav class="collapse">
 											<ul class="nav nav-pills" id="mainNav">
 												<li>
 													<a href="index.php">
@@ -173,12 +155,12 @@
 												</li>
 												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#">Academics</a>
 													<ul class="dropdown-menu">
-														<li><a href="AIML&CSM.php">AIML & CSM</a></li>
-														<li><a href="CSE.php">Computer Science & Engineering</a></li>
+														<li><a href="aiml.php">AIML & CSM</a></li>
+														<li><a href="civil.php">Civil Engineering</a></li>
+														<li><a href="cse.php">Computer Science & Engineering</a></li>
 														<li><a href="ece.php">Electronics & Communication Engineering</a></li>
 														<li><a href="eee.php">Electrical & Electronics Engineering</a></li>
 														<li><a href="mech.php">Mechanical Engineering</a></li>
-														<li><a href="civil.php">Civil Engineering</a></li>
 														<li><a href="soon.php">Basic Science & Humanities</a></li>
 														<li><a href="mba.php">Master Of Business Administration</a></li>
 													</ul>
@@ -227,15 +209,17 @@
 												</li>
 											</ul>
 										</nav>
+														</nav>
+												</div>
+												<button class="btn header-btn-collapse-nav" data-bs-toggle="collapse" data-bs-target=".header-nav-main nav">
+													<i class="fas fa-bars"></i>
+												</button>
+											</div>
+										</div>
 									</div>
-									<button class="btn header-btn-collapse-nav" data-bs-toggle="collapse" data-bs-target=".header-nav-main nav">
-										<i class="fas fa-bars"></i>
-									</button>
-
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
-			</div>
-		</header>
+			</header>
