@@ -1,37 +1,37 @@
-        <?php include 'header.php'; ?>
+<?php include 'header.php'; ?>
 
 
-			<div role="main" class="main">
+<div role="main" class="main">
 
-			<br>
-                <br>
-                <br>
-                <br>
-                <br>
-				<section class="page-header page-header-modern page-header-md" style="background-color:#840103; height:6px; margin-Bottom:-10px;">
-					<div class="container" >
-						<div class="row" style="margin-top:-5px;">
+<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<section class="page-header page-header-modern page-header-md" style="background-color:#840103; height:6px; margin-Bottom:-10px;">
+		<div class="container" >
+			<div class="row" style="margin-top:-5px;">
 
-							<div class="col-md-8 order-2 order-md-1 align-self-center p-static">
-								<h1>Facilites</h1>
-								<span class="sub-title">Campus Canteen</span>
-							</div>
-							<div class="col-md-4 order-1 order-md-2 align-self-center">
-								<ul class="breadcrumb d-block text-md-end breadcrumb-light">
-									<li><a href="demo-medical.html">Home</a></li>
-									<li class="active">Facilites</li>
-								</ul>
-							</div>
-						</div>
-					</div>
-				</section>
+				<div class="col-md-8 order-2 order-md-1 align-self-center p-static">
+					<h1>Facilites</h1>
+					<span class="sub-title">Campus Canteen</span>
+				</div>
+				<div class="col-md-4 order-1 order-md-2 align-self-center">
+					<ul class="breadcrumb d-block text-md-end breadcrumb-light">
+						<li><a href="demo-medical.html">Home</a></li>
+						<li class="active">Facilites</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</section>
 
-				<div class="container py-5 mt-3">
+	<div class="container py-5 mt-3">
 
-					<div class="row">
-					<?php include 'Facilities_sidebar.php'; ?>
+		<div class="row">
+		<?php include 'Facilities_sidebar.php'; ?>
 
-						<div class="col-lg-8">
+			<div class="col-lg-8">
 							<div class="overflow-hidden mb-2">
 								<h2 class="font-weight-normal text-7 mb-2 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="200">Campus Canteen <strong class="font-weight-extra-bold"></strong></h2>
 							</div>
