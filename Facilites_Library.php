@@ -53,7 +53,7 @@
                             </div>
                         </div>
                         <div class="col-md-5 order-md-2 mb-4 mb-lg-0 appear-animation" data-appear-animation="fadeInRightShorter" style="text-align: center;">
-                            <img src="img/img1.jpg" class="img-fluid" style="width: 100%; height: 70%; " alt="">
+                            <img src="img/facilities/img1.jpg" class="img-fluid" style="width: 100%; height: 70%; " alt="">
                         </div>
 
                     </div>
@@ -66,7 +66,7 @@
 
                     <div class="row">
                         <div class="col-md-5 order-md-2 mb-4 mb-lg-0 appear-animation" data-appear-animation="fadeInLeftShorter">
-                            <img src="img/img4.webp" class="img-fluid" alt="">
+                            <img src="img/facilities/img4.webp" class="img-fluid" alt="">
                         </div>
                         <div class="col-md-7 order-2">
                             <div class="overflow-hidden">

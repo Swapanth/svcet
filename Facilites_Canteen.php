@@ -52,7 +52,7 @@
 								<div class="testimonial-content">
 									
 								</div>
-								<img src="img/team/img7.jpg" class="img-fluid" alt="">
+								<img src="" class="img-fluid" alt="">
 							</div>
 						</div>
 						

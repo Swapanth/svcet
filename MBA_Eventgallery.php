@@ -91,31 +91,31 @@
                         <h3 class="font-weight-semibold mb-3">Gallery</h3>
                         <div class="row">
                             <div class="col-md-4 col-sm-6 mb-4 lab-item">
-                                <img src="img/pic1.jpg" alt="Microwave Engineering Lab" class="img-fluid">
+                                <img src="img/MBA/pic1.jpg" alt="Microwave Engineering Lab" class="img-fluid">
                                 <div class="mt-2">MANAGEMENT DAY:</div>
                             </div>
                             <div class="col-md-4 col-sm-6 mb-4 lab-item">
-                                <img src="img/pic2.jpg" alt="Analog and Digital IC Applications Lab" class="img-fluid">
+                                <img src="img/MBA/pic2.jpg" alt="Analog and Digital IC Applications Lab" class="img-fluid">
                                 <div class="mt-2">MANAGEMENT DAY:</div>
                             </div>
                             <div class="col-md-4 col-sm-6 mb-4 lab-item">
-                                <img src="img/pic3.jpg" alt="Software Lab" class="img-fluid">
+                                <img src="img/MBA/pic3.jpg" alt="Software Lab" class="img-fluid">
                                 <div class="mt-2">TEACHER’S DAY</div>
                             </div>
                             <div class="col-md-4 col-sm-6 mb-4 lab-item">
-                                <img src="img/pic4.jpg" alt="Electronics Lab" class="img-fluid">
+                                <img src="img/MBA/pic4.jpg" alt="Electronics Lab" class="img-fluid">
                                 <div class="mt-2">TEACHER’S DAY</div>
                             </div>
                             <div class="col-md-4 col-sm-6 mb-4 lab-item">
-                                <img src="img/pic7.jpg" alt="Analog and Digital Communication Lab" class="img-fluid">
+                                <img src="img/MBA/pic7.jpg" alt="Analog and Digital Communication Lab" class="img-fluid">
                                 <div class="mt-2">CELEBRATIONS</div>
                             </div>
                             <div class="col-md-4 col-sm-6 mb-4 lab-item">
-                                <img src="img/pic5.jpg" alt="Analog and Digital Communication Lab" class="img-fluid">
+                                <img src="img/MBA/pic5.jpg" alt="Analog and Digital Communication Lab" class="img-fluid">
                                 <div class="mt-2">LIBRARY</div>
                             </div>
                             <div class="col-md-4 col-sm-6 mb-4 lab-item">
-                                <img src="img/pic8.jpg" alt="Analog and Digital Communication Lab" class="img-fluid">
+                                <img src="img/MBA/pic8.jpg" alt="Analog and Digital Communication Lab" class="img-fluid">
                                 <div class="mt-2">PDP ACTIVITIES:</div>
                             </div>
                         </div>

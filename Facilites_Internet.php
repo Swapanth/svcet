@@ -34,7 +34,7 @@
                         <p><strong>Sri Venkateswara College of Engineering and Technology (SVCET)</strong> is dedicated to providing its students and staff with cutting-edge facilities that support academic excellence and innovation. One of the standout features of our campus is the <strong>high-speed internet system,</strong> designed to meet the demands of modern education and research.</p>
                         <div class="post-image">
                             <a href="blog-post.html">
-                                <img src="img/img18.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="" />
+                                <img src="img/facilities/img18.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="" />
                             </a>
                         </div>
 
@@ -55,7 +55,7 @@
                     <article class="post post-large">
                         <div class="post-image">
                             <a href="blog-post.html">
-                                <img src="img/img19.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="" />
+                                <img src="img/facilities/img19.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="" />
                             </a>
                         </div>
 
@@ -77,13 +77,7 @@
 
 
 
-                    <ul class="pagination float-end">
-                        <li class="page-item"><a class="page-link" href="#"><i class="fas fa-angle-left"></i></a></li>
-                        <li class="page-item active"><a class="page-link" href="#">1</a></li>
-                        <li class="page-item"><a class="page-link" href="#">2</a></li>
-                        <li class="page-item"><a class="page-link" href="#">3</a></li>
-                        <li class="page-item"><a class="page-link" href="#"><i class="fas fa-angle-right"></i></a></li>
-                    </ul>
+                   
 
                 </div>
             </div>

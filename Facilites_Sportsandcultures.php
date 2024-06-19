@@ -44,7 +44,7 @@
                             <article class="post post-medium border-0 pb-0 mb-5">
                                 <div class="post-image">
                                     <a href="#">
-                                        <img src="img/img20.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="Sports Image" />
+                                        <img src="img/facilities/img20.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="Sports Image" />
                                     </a>
                                 </div>
                                 <div class="post-content">
@@ -57,7 +57,7 @@
                             <article class="post post-medium border-0 pb-0 mb-5">
                                 <div class="post-image">
                                     <a href="blog-post.html">
-                                        <img src="img/img9.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="" />
+                                        <img src="img/facilities/img9.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="" />
                                     </a>
                                 </div>
                                 <div class="post-content">
@@ -70,7 +70,7 @@
                             <article class="post post-medium border-0 pb-0 mb-5">
                                 <div class="post-image">
                                     <a href="blog-post.html">
-                                        <img src="img/img10.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="Kabbadi Image" />
+                                        <img src="img/facilities/img10.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="Kabbadi Image" />
                                     </a>
                                 </div>
                                 <div class="post-content">
@@ -83,7 +83,7 @@
                             <article class="post post-medium border-0 pb-0 mb-5">
                                 <div class="post-image">
                                     <a href="blog-post.html">
-                                        <img src="img/img11.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="Chess Tournament Image" />
+                                        <img src="img/facilities/img11.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="Chess Tournament Image" />
                                     </a>
                                 </div>
                                 <div class="post-content">
@@ -96,7 +96,7 @@
                             <article class="post post-medium border-0 pb-0 mb-5">
                                 <div class="post-image">
                                     <a href="blog-post.html">
-                                        <img src="img/img12.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="Culturals Image" />
+                                        <img src="img/facilities/img12.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="Culturals Image" />
                                     </a>
                                 </div>
                                 <div class="post-content">
@@ -109,7 +109,7 @@
                             <article class="post post-medium border-0 pb-0 mb-5">
                                 <div class="post-image">
                                     <a href="blog-post.html">
-                                        <img src="img/img13.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="Sankranthi Sambaralu Image" />
+                                        <img src="img/facilities/img13.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="Sankranthi Sambaralu Image" />
                                     </a>
                                 </div>
                                 <div class="post-content">
@@ -122,7 +122,7 @@
                             <article class="post post-medium border-0 pb-0 mb-5">
                                 <div class="post-image">
                                     <a href="blog-post.html">
-                                        <img src="img/img14.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="Dance Programme Image" />
+                                        <img src="img/facilities/img14.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="Dance Programme Image" />
                                     </a>
                                 </div>
                                 <div class="post-content">
@@ -135,7 +135,7 @@
                             <article class="post post-medium border-0 pb-0 mb-5">
                                 <div class="post-image">
                                     <a href="blog-post.html">
-                                        <img src="img/img15.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="The Creative Team Image" />
+                                        <img src="img/facilities/img15.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="The Creative Team Image" />
                                     </a>
                                 </div>
                                 <div class="post-content">
