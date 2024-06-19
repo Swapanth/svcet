@@ -128,8 +128,8 @@
 							<div class="header-row">
 								<div class="header-logo header-logo-sticky-change" style="width: 82px; height: 40px;margin-Top:-19px;">
 									<a href="index.php">
-										<img class="header-logo-non-sticky opacity-0" alt="Porto" width="700" height="90" src="img/svcet2.svg" style="margin-Top:-12px; margin-left:-250px;">
-										<img class="header-logo-sticky opacity-0" alt="Porto" width="170" height="100px" src="img/svcet1.svg" style="margin-bottom: 20px;">
+										<img class="header-logo-non-sticky opacity-0" alt="Porto" width="700" height="90" src="img/Logos/svcet2.svg" style="margin-Top:-12px; margin-left:-250px;">
+										<img class="header-logo-sticky opacity-0" alt="Porto" width="170" height="100px" src="img/Logos/svcet1.svg" style="margin-bottom: 20px;">
 									</a>
 								</div>
 							</div>
@@ -174,11 +174,10 @@
 												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#">Academics</a>
 													<ul class="dropdown-menu">
 														<li><a href="AIML&CSM.php">AIML & CSM</a></li>
-														<li><a href="civil.php">Civil Engineering</a></li>
 														<li><a href="CSE.php">Computer Science & Engineering</a></li>
 														<li><a href="ece.php">Electronics & Communication Engineering</a></li>
 														<li><a href="eee.php">Electrical & Electronics Engineering</a></li>
-														<li><a href="mec.php">Mechanical Engineering</a></li>
+														<li><a href="mech.php">Mechanical Engineering</a></li>
 														<li><a href="civil.php">Civil Engineering</a></li>
 														<li><a href="soon.php">Basic Science & Humanities</a></li>
 														<li><a href="mba.php">Master Of Business Administration</a></li>

@@ -31,22 +31,22 @@
     <div class="owl-carousel carousel-center-active-item-3 dots-modern mt-2 mb-0" data-plugin-options="{'items': 1, 'loop': true, 'margin': 60, 'autoplay': true, 'autoplayTimeout': 4000}">
         <div>
             <div class="img-thumbnail border-0 p-0 pb-3 d-block">
-                <img class="img-fluid border-radius-0" src="img/bg1.jpg" alt="">
+                <img class="img-fluid border-radius-0" src="img/BackgroungImg/bg1.jpg" alt="">
             </div>
         </div>
         <div>
             <div class="img-thumbnail border-0 p-0 pb-3 d-block">
-                <img class="img-fluid border-radius-0" src="img/bg2.jpg" alt="">
+                <img class="img-fluid border-radius-0" src="img/BackgroungImg/bg2.jpg" alt="">
             </div>
         </div>
         <div>
             <div class="img-thumbnail border-0 p-0 pb-3 d-block">
-                <img class="img-fluid border-radius-0" src="img/bg.jpg" alt="">
+                <img class="img-fluid border-radius-0" src="img/BackgroungImg/bg.jpg" alt="">
             </div>
         </div>
         <div>
             <div class="img-thumbnail border-0 p-0 pb-3 d-block">
-                <img class="img-fluid border-radius-0" src="img/bg3.jpg" alt="">
+                <img class="img-fluid border-radius-0" src="img/BackgroungImg/bg3.jpg" alt="">
             </div>
         </div>
     </div>
@@ -64,7 +64,7 @@
                 <div class="col-lg-4">
                     <h2 style="text-align: left;">About Us</h2>
                     <div class="about-us">
-                        <img src="img/svcetimg1.jpg" style="height: 150px; width: 350px;" alt="About Us Image">
+                        <img src="img/index/svcetimg1.jpg" style="height: 150px; width: 350px;" alt="About Us Image">
                         <div class="content">
                             <p><b style="color: orange;">Sri Venkateswara College of Engineering & Technology (SVCET)</b>, Etcherla, was established in 2008 by the Vikas Educational Society (1997) with the objective of accelerating the growth of science and technology in the industrially backward Srikakulam district. The institution aims at providing</p>
                         </div>
@@ -135,11 +135,11 @@
         <div class="col-md-6 order-2 order-md-1 text-center text-md-start">
             <div class="owl-carousel owl-theme nav-style-1 nav-center-images-only stage-margin mb-0" data-plugin-options="{'responsive': {'576': {'items': 1}, '768': {'items': 1}, '992': {'items': 2}, '1200': {'items': 2}}, 'margin': 25, 'loop': false, 'nav': true, 'dots': false, 'stagePadding': 40}">
                 <div>
-                    <img class="img-fluid rounded-0 mb-4" src="img/Screenshot 2024-06-17 135508.png" />
+                    <img class="img-fluid rounded-0 mb-4" src="img/index/Screenshot 2024-06-17 135508.png" />
                     <p class="text-2 mb-0">FDP ON IOT BY ICT Academy.NIT Warangal</p>
                 </div>
                 <div>
-                    <img class="img-fluid rounded-0 mb-4" src="img/Screenshot 2024-06-17 135518.png" alt="" />
+                    <img class="img-fluid rounded-0 mb-4" src="img/index/Screenshot 2024-06-17 135518.png" alt="" />
                     <p class="text-2 mb-0">FDP ON IOT BY ICT Academy.NIT Warangal</p>
                 </div>
                 <div>
@@ -396,39 +396,39 @@
         <div class="col-md-12 center">
             <div class="owl-carousel owl-theme" data-plugin-options="{'items': 6, 'autoplay': true, 'autoplayTimeout': 3000}">
                 <div>
-                    <img class="img-responsive" style="height: 90px; width:120px" src="img/placementlogo.jpg" alt="">
+                    <img class="img-responsive" style="height: 90px; width:120px" src="img/Companies/placementlogo.jpg" alt="">
                 </div>
                 <div>
-                    <img class="img-responsive" style="height: 90px; width:120px" src="img/1.jpg" alt="">
+                    <img class="img-responsive" style="height: 90px; width:120px" src="img/Companies/1.jpg" alt="">
                 </div>
                 <div>
-                    <img class="img-responsive" style="height: 90px; width:120px" src="img/2.jpg" alt="">
+                    <img class="img-responsive" style="height: 90px; width:120px" src="img/Companies/2.jpg" alt="">
                 </div>
                 <div>
-                    <img class="img-responsive" style="height: 90px; width:120px" src="img/3.jpg" alt="">
+                    <img class="img-responsive" style="height: 90px; width:120px" src="img/Companies/3.jpg" alt="">
                 </div>
                 <div>
-                    <img class="img-responsive" style="height: 90px; width:120px" src="img/10.jpg" alt="">
+                    <img class="img-responsive" style="height: 90px; width:120px" src="img/Companies/10.jpg" alt="">
                 </div>
                 <div>
-                    <img class="img-responsive" style="height: 90px; width:120px" src="img/13.jpg" alt="">
+                    <img class="img-responsive" style="height: 90px; width:120px" src="img/Companies/13.jpg" alt="">
                 </div>
                 <div>
-                    <img class="img-responsive" style="height: 90px; width:120px" src="img/14.png" alt="">
-                </div>
-
-                <div>
-                    <img class="img-responsive" style="height: 90px; width:120px" src="img/15.jpg" alt="">
-                </div>
-                <div>
-                    <img class="img-responsive" style="height: 90px; width:120px" src="img/16.jpg" alt="">
-                </div>
-                <div>
-                    <img class="img-responsive" style="height: 90px; width:120px" src="img/18.jpg" alt="">
+                    <img class="img-responsive" style="height: 90px; width:120px" src="img/Companies/14.png" alt="">
                 </div>
 
                 <div>
-                    <img class="img-responsive" style="height: 90px; width:120px" src="img/27.png" alt="">
+                    <img class="img-responsive" style="height: 90px; width:120px" src="img/Companies/15.jpg" alt="">
+                </div>
+                <div>
+                    <img class="img-responsive" style="height: 90px; width:120px" src="img/Companies/16.jpg" alt="">
+                </div>
+                <div>
+                    <img class="img-responsive" style="height: 90px; width:120px" src="img/Companies/18.jpg" alt="">
+                </div>
+
+                <div>
+                    <img class="img-responsive" style="height: 90px; width:120px" src="img/Companies/27.png" alt="">
                 </div>
 
             </div>
@@ -499,10 +499,10 @@
                             thumb-info-no-zoom thumb-info-no-borders thumb-info-bottom-info thumb-info-no-borders-radius">
                     <div class="owl-carousel owl-theme" data-plugin-options="{'items': 1, 'autoplay': true, 'autoplayTimeout': 4500, 'margin': 10, 'animateOut': 'fadeOut'}">
                         <div>
-                            <img alt="" class="img-fluid rounded" src="img/11.png">
+                            <img alt="" class="img-fluid rounded" src="img/index/11.png">
                         </div>
                         <div>
-                            <img alt="" class="img-fluid rounded" src="img/11.png">
+                            <img alt="" class="img-fluid rounded" src="img/index/11.png">
                         </div>
                     </div>
                     <div class="thumb-info
@@ -520,7 +520,7 @@
                             thumb-info-no-zoom thumb-info-no-borders thumb-info-bottom-info thumb-info-no-borders-radius">
                     <div class="thumb-info
                             -side-image-wrapper">
-                        <img src="img/10.png" class="img-fluid" alt="">
+                        <img src="img/index/10.png" class="img-fluid" alt="">
                     </div>
                     <div class="thumb-info
                             -caption">
