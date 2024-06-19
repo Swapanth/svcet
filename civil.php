@@ -66,8 +66,8 @@
 						<div class="row" style="margin-top:-5px;">
 
 							<div class="col-md-8 order-2 order-md-1 align-self-center p-static">
-								<h1>Academics</h1>
-								<span class="sub-title">Civil Engineering</span>
+								<h1>Civil Engineerings</h1>
+								<span class="sub-title">Academic</span>
 							</div>
 							<div class="col-md-4 order-1 order-md-2 align-self-center">
 								<ul class="breadcrumb d-block text-md-end breadcrumb-light">

@@ -68,9 +68,9 @@
                     <div class="row" style="margin-top:-5px;">
 
                         <div class="col-md-8 order-2 order-md-1 align-self-center p-static">
-                            <h1>Academics</h1>
-                            <span class="sub-title">
-                            Electrical & Electronics Engineering
+                            <h1> Electrical & Electronics Engineering
+                            </h1>
+                            <span class="sub-title"> Academics
                             </span>
                         </div>
                         <div class="col-md-4 order-1 order-md-2 align-self-center">
@@ -84,33 +84,33 @@
             </section>
 
             <div class="container">
-            <div class="row mt-5 mb-4">
-                <?php include 'eee_menu.php'; ?>
-                
+                <div class="row mt-5 mb-4">
+                    <?php include 'eee_menu.php'; ?>
+
                     <div class="col">
                         <div class="blog-posts single-post">
                             <article class="post post-large blog-single-post border-0 m-0 p-0">
-                                
+
 
                                 <div class="post-content ms-0">
-                                <h3 class="font-weight-semibold mb-3">HOD Message</h2>
-                                
+                                    <h3 class="font-weight-semibold mb-3">HOD Message</h2>
 
-                                    <img src="img/profile/eee_hod.jpg" class="img-fluid float-start me-4 mt-2" alt="im here" />
-                                    <p>
+
+                                        <img src="img/profile/eee_hod.jpg" class="img-fluid float-start me-4 mt-2" alt="im here" />
+                                        <p>
                                         <h3>Sri V.Vykunta Rao, Assistant Professor ( M.Tech )</h3>
                                         <h5>Head, Department of EEE</h5>
-                                        <h5>More than 8 years in  Teaching  at reputed Engineering  Colleges</h5>
+                                        <h5>More than 8 years in Teaching at reputed Engineering Colleges</h5>
 
-                                    </p>
-                                
-                                    <p>
-                                    Welcome to the Department of Electrical & Electronics Engineering.
-                                    </p>
-                                    <p>
-With great pleasure, I welcome you to the department of Electrical & Electronics Engineering. The process of learning is extremely important in life. What you learn, how you learn and from whom you learn plays a crucial role in developing ones intellectual capability. The department of Electrical and Electronics Engineering offers a suitable teaching-learning environment to the students that help them in their holistic development. This overall grooming of students is made possible by continuous monitoring and guidance by our well qualified and experienced faculty members. Small opportunities are often the beginning of great achievements. I consider all the students seeking admission in this department, as the most fortunate students as they get ample opportunities not just in IT and business firms but also in renowned PSUs, R&D Units, Electricity boards and Startups. With the whole world moving towards adopting Smart grid technologies and EV Vehicle Technology, the students graduating with a degree in Electrical & Electronics Engineering will definitely have a bright future ahead. I wish all my colleagues and students ALL THE BEST for their future endeavors.
-.</p>
-                                     </div>
+                                        </p>
+
+                                        <p>
+                                            Welcome to the Department of Electrical & Electronics Engineering.
+                                        </p>
+                                        <p>
+                                            With great pleasure, I welcome you to the department of Electrical & Electronics Engineering. The process of learning is extremely important in life. What you learn, how you learn and from whom you learn plays a crucial role in developing ones intellectual capability. The department of Electrical and Electronics Engineering offers a suitable teaching-learning environment to the students that help them in their holistic development. This overall grooming of students is made possible by continuous monitoring and guidance by our well qualified and experienced faculty members. Small opportunities are often the beginning of great achievements. I consider all the students seeking admission in this department, as the most fortunate students as they get ample opportunities not just in IT and business firms but also in renowned PSUs, R&D Units, Electricity boards and Startups. With the whole world moving towards adopting Smart grid technologies and EV Vehicle Technology, the students graduating with a degree in Electrical & Electronics Engineering will definitely have a bright future ahead. I wish all my colleagues and students ALL THE BEST for their future endeavors.
+                                            .</p>
+                                </div>
                             </article>
                         </div>
                     </div>
