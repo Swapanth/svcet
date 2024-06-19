@@ -2,11 +2,12 @@
 <html lang="en">
 
 <head>
+
     <!-- Basic -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Civil Engineering Achievements</title>
+    <title>Admission enquiry</title>
 
     <meta name="keywords" content="WebSite Template" />
     <meta name="description" content="Porto - Multipurpose Website Template">
@@ -17,7 +18,7 @@
     <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
 
     <!-- Mobile Metas -->
-    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit-no">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
 
     <!-- Web Fonts  -->
     <link id="googleFonts" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800%7CShadows+Into+Light&display=swap" rel="stylesheet" type="text/css">
@@ -48,30 +49,34 @@
 
     <!-- Head Libs -->
     <script src="vendor/modernizr/modernizr.min.js"></script>
+
 </head>
 
 <body>
 
     <div class="body">
         <?php include 'header.php'; ?>
-        <br>
+
         <div role="main" class="main">
             <br>
             <br>
             <br>
             <br>
             <br>
-            <section class="page-header page-header-modern page-header-md" style="background-color:#840103; height:6px; margin-bottom:-10px;">
+            <section class="page-header page-header-modern page-header-md" style="background-color:#840103; height:6px; margin-Bottom:-10px;">
                 <div class="container">
                     <div class="row" style="margin-top:-5px;">
+
                         <div class="col-md-8 order-2 order-md-1 align-self-center p-static">
-                            <h1>Civil Engineering Achievements</h1>
-                            <span class="sub-title">Latest and Individual Academic Achievements</span>
+                            <h1>Academics</h1>
+                            <span class="sub-title">
+                            Electrical & Electronics Engineering
+                            </span>
                         </div>
                         <div class="col-md-4 order-1 order-md-2 align-self-center">
                             <ul class="breadcrumb d-block text-md-end breadcrumb-light">
                                 <li><a href="index.php">Home</a></li>
-                                <li class="active">Achievements</li>
+                                <li class="active">Admissions</li>
                             </ul>
                         </div>
                     </div>
@@ -79,30 +84,39 @@
             </section>
 
             <div class="container">
-                <div class="row mt-5 mb-4">
-                    <?php include 'civilmenu.php'; ?>
-                    <div class="col all-content">
-                        <div class="main-container">
-                            <div class="header" style="font-size: 30px; color:black; text-align:center">Civil Engineering Achievements</div><br>
-                            
-                            <div class="section-header" style=" font-size: 25px; color:violet; ">Achievements</div><br>
-                            <div><a href="soon.php" style="color:blue;font-size:20px">Click Here For Achievements</a></div><br>
+            <div class="row mt-5 mb-4">
+                <?php include 'eee_menu.php'; ?>
+                
+                    <div class="col">
+                        <div class="blog-posts single-post">
+                            <article class="post post-large blog-single-post border-0 m-0 p-0">
+                                
 
-                            <div class="achievement-item">
-                                <a >Faculty published 12 research papers in various journals and presented in various conferences during the academic years from 2014-2017.</a>
-                            </div>
-                            
-                            <div class="section-header">Individual Academic Achievements</div>
-                            <div class="achievement-item">
-                                <strong>1) In III/II (3rd Year 2nd Sem) K DILESHWARA RAO (15MT5A0109) Achieves 82.78%</strong>
-                            </div>
-                            <div class="achievement-item">
-                                <strong>2) In II/II (2nd Year 2nd Sem) CH RAJEE SWARAJ (16MT5A0104) Achieves 84.68%</strong>
-                            </div>
+                                <div class="post-content ms-0">
+                                <h3 class="font-weight-semibold mb-3">HOD Message</h2>
+                                
+
+                                    <img src="img/profile/eee_hod.jpg" class="img-fluid float-start me-4 mt-2" alt="im here" />
+                                    <p>
+                                        <h3>Sri V.Vykunta Rao, Assistant Professor ( M.Tech )</h3>
+                                        <h5>Head, Department of EEE</h5>
+                                        <h5>More than 8 years in  Teaching  at reputed Engineering  Colleges</h5>
+
+                                    </p>
+                                
+                                    <p>
+                                    Welcome to the Department of Electrical & Electronics Engineering.
+                                    </p>
+                                    <p>
+With great pleasure, I welcome you to the department of Electrical & Electronics Engineering. The process of learning is extremely important in life. What you learn, how you learn and from whom you learn plays a crucial role in developing ones intellectual capability. The department of Electrical and Electronics Engineering offers a suitable teaching-learning environment to the students that help them in their holistic development. This overall grooming of students is made possible by continuous monitoring and guidance by our well qualified and experienced faculty members. Small opportunities are often the beginning of great achievements. I consider all the students seeking admission in this department, as the most fortunate students as they get ample opportunities not just in IT and business firms but also in renowned PSUs, R&D Units, Electricity boards and Startups. With the whole world moving towards adopting Smart grid technologies and EV Vehicle Technology, the students graduating with a degree in Electrical & Electronics Engineering will definitely have a bright future ahead. I wish all my colleagues and students ALL THE BEST for their future endeavors.
+.</p>
+                                     </div>
+                            </article>
                         </div>
                     </div>
                 </div>
             </div>
+
         </div>
 
         <?php include 'footer.php'; ?>
@@ -125,6 +139,7 @@
 
     <!-- Theme Initialization Files -->
     <script src="js/theme.init.js"></script>
+
 </body>
 
 </html>

@@ -7,7 +7,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Electronics and Communication Engineering</title>
+    <title>Admission enquiry</title>
 
     <meta name="keywords" content="WebSite Template" />
     <meta name="description" content="Porto - Multipurpose Website Template">
@@ -70,7 +70,7 @@
                         <div class="col-md-8 order-2 order-md-1 align-self-center p-static">
                             <h1>Academics</h1>
                             <span class="sub-title">
-                            Electronics and Communication Engineering
+                                COMPUTER SCIENCE & ENGINEERING
                             </span>
                         </div>
                         <div class="col-md-4 order-1 order-md-2 align-self-center">
@@ -84,33 +84,35 @@
             </section>
 
             <div class="container">
-                <div class="row mt-5 mb-4">
-                    <?php include 'ecemenu.php'; ?>
-
+            <div class="row mt-5 mb-4">
+                <?php include 'cse_menu.php'; ?>
+                
                     <div class="col">
                         <div class="blog-posts single-post">
                             <article class="post post-large blog-single-post border-0 m-0 p-0">
-
+                                
 
                                 <div class="post-content ms-0">
-                                    <h3 class="font-weight-semibold mb-3">Vision</h2>
-                                        <p>Emerge as a Center of pre-eminence in Electronics and Communication   Engineering education, research and services.</p>
-                                </div>
-                                <div class="post-content ms-0">
-                                    <h3 class="font-weight-semibold mb-3">Mission</h2>
-                                        <div class="container">
-                                            <h5>M1:</h5>
-                                            <p>To produce graduates with scientific and technical knowledge and excellent electronics and communication engineering skills for professional practice, employment, advanced study and research.</p>
+                                <h3 class="font-weight-semibold mb-3">HOD Message</h2>
+                                
 
-                                        </div>
-                                        <div class="container">
-                                            <h5>M2:</h5>
-                                            <p>To inculcate professional and ethical values related to industry, society and environment.</p>
-                                        </div>
-                                        <div class="container">
-                                            <h5>M3:</h5>
-                                            <p>To interact with industries, to meet their requirements through employable.</p>
-                                        </div>
+                                    <img src="img/profile/cse_hod.jpg" class="img-fluid float-start me-4 mt-2" alt="im here" />
+                                    <p>
+                                        <h3>SANAPALA BHASKARA RAO(M.Tech.,(Ph.D))</h3>
+                                        <h5>Head, Department of CSE</h5>
+                                        <h5>bhaskar.sanapala@gmail.com</h5>
+
+                                    </p>
+                                
+                                    <p>
+                                    Welcome to the Department of Computer Science and Engineering (CSE)
+                                    </p>
+                                    <p>The Department of Computer Science and Engineering was established in 2008. Department is affiliated to JNTUK Kakinada since 2008 and approved by AICTE New Delhi. The department offers four-year B.Tech Programs in CSE, and two-year M.Tech programs. It has a rich tradition and well-qualified faculty, along with widely recognized laboratories. The department aims to provide a strong foundation in Computer Science and Engineering fundamentals, emphasizing mathematical and scientific principles. Additionally, the course focuses on developing skills in the application of design processes for innovative engineering solutions. The annual intake of students in CSE is 120 in the undergraduate course the department seeks to combine excellence in education with service to the industry.</p>
+                                    <p>The Department of Computer Science and Engineering (CSE) aims to produce skilled professionals in the domain of Computer Science and Engineering enable them to excel professionally. It also provides state-of-the-art laboratory facilities to the students to get better practical exposure and strong ties with industry, research organizations and the community.</p>
+                                    <p>This course enables students to build intelligent machines, software, or applications with a crisp combination of Machine Learning, Deep Learning, Analytics and Visualization technologies. The department aims to impart cutting-edge technology skills and competencies in various fields of Computer Science and Engineering, thereby producing industry-ready professionals and Entrepreneurs.  </p>
+                                    <p>The department will collaborate with the leading industries to exhilarate innovative research and development in Computer Science and Engineering and its allied technologies. The department covers a whole spectrum of research in Artificial Intelligence, Image Processing, Pattern Recognition, Machine Learning, Block chain Technologies, Data Mining, Big-Data Analytics, Algorithms, and Computer Security led by a qualified and experienced team of faculty members.</p>
+                                    <p>The students, faculty, and staff of Computer Science and Engineering at Sri Venkateswara College of Engineering and Technology  believe in working together, encouraging each other, helping each other and most importantly, belief & trust in each other. This is the key to making our students successful at Sri Venkateswara College of engineering and Technology.</p>
+                                    <p>I am confident that the Department of Computer Science and Engineering at Sri Venkateswara College of engineering and Technology is ready in all respect to face the new & exciting challenges in this new digital era and to be one of the best institutions in the state of Andhra Pradesh and India.</p>
                                 </div>
                             </article>
                         </div>

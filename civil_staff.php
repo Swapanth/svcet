@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Civil Engineering Achievements</title>
+    <title>Civil Engineering Department Resources</title>
 
     <meta name="keywords" content="WebSite Template" />
     <meta name="description" content="Porto - Multipurpose Website Template">
@@ -65,13 +65,13 @@
                 <div class="container">
                     <div class="row" style="margin-top:-5px;">
                         <div class="col-md-8 order-2 order-md-1 align-self-center p-static">
-                            <h1>Civil Engineering Achievements</h1>
-                            <span class="sub-title">Latest and Individual Academic Achievements</span>
+                            <h1>Civil Engineering Department Resources</h1>
+                            <span class="sub-title">Department Resources</span>
                         </div>
                         <div class="col-md-4 order-1 order-md-2 align-self-center">
                             <ul class="breadcrumb d-block text-md-end breadcrumb-light">
                                 <li><a href="index.php">Home</a></li>
-                                <li class="active">Achievements</li>
+                                <li class="active">Department Resources</li>
                             </ul>
                         </div>
                     </div>
@@ -83,21 +83,10 @@
                     <?php include 'civilmenu.php'; ?>
                     <div class="col all-content">
                         <div class="main-container">
-                            <div class="header" style="font-size: 30px; color:black; text-align:center">Civil Engineering Achievements</div><br>
-                            
-                            <div class="section-header" style=" font-size: 25px; color:violet; ">Achievements</div><br>
-                            <div><a href="soon.php" style="color:blue;font-size:20px">Click Here For Achievements</a></div><br>
-
-                            <div class="achievement-item">
-                                <a >Faculty published 12 research papers in various journals and presented in various conferences during the academic years from 2014-2017.</a>
-                            </div>
-                            
-                            <div class="section-header">Individual Academic Achievements</div>
-                            <div class="achievement-item">
-                                <strong>1) In III/II (3rd Year 2nd Sem) K DILESHWARA RAO (15MT5A0109) Achieves 82.78%</strong>
-                            </div>
-                            <div class="achievement-item">
-                                <strong>2) In II/II (2nd Year 2nd Sem) CH RAJEE SWARAJ (16MT5A0104) Achieves 84.68%</strong>
+                            <h2 class="header" >Civil Engineering Department </><h2> 
+                            <h1 class="section-header">Staff Details:</h1>
+                            <div class="resource-item">
+                                <a href="soon.php" class="btn btn-primary">Click Here For Faculty Profile</a>
                             </div>
                         </div>
                     </div>
@@ -126,5 +115,4 @@
     <!-- Theme Initialization Files -->
     <script src="js/theme.init.js"></script>
 </body>
-
 </html>

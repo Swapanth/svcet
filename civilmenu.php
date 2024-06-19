@@ -7,10 +7,10 @@
             <li class="nav-item"><a class="nav-link" href="civil_vision.php">Vision and Mission</a></li>
             <li class="nav-item"><a class="nav-link" href="civil_outcome.php">Outcome and Objectives</a></li>
             <li class="nav-item"><a class="nav-link" href="civil_infra.php">Infrastructure</a></li>
-            <li class="nav-item"><a class="nav-link" href="basic_chemistry.php">Staff Details</a></li>
+            <li class="nav-item"><a class="nav-link" href="civil_staff.php">Staff Details</a></li>
             <li class="nav-item"><a class="nav-link" href="civil_achievement.php">Achievements</a></li>
             <li class="nav-item"><a class="nav-link" href="civil_activities.php">Departmental Activities</a></li>
-            <li class="nav-item"><a class="nav-link" href="regulations.php">Academic Calender</a></li>
+            <li class="nav-item"><a class="nav-link" href="civil_calender.php">Academic Calender</a></li>
             <li class="nav-item"><a class="nav-link" href="civil_syllabus_events.php">Syllabus And Event Gallery</a></li>
         </ul>
 

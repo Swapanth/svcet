@@ -66,7 +66,7 @@
                     <div class="about-us">
                         <img src="img/svcetimg1.jpg" style="height: 150px; width: 350px;" alt="About Us Image">
                         <div class="content">
-                            <p><b style="color: orange;">Sri Venkateswara College of Engineering & Technology (SVCE)</b>, Etcherla, was established in 2008 by the Vikas Educational Society (1997) with the objective of accelerating the growth of science and technology in the industrially backward Srikakulam district. The institution aims at providing</p>
+                            <p><b style="color: orange;">Sri Venkateswara College of Engineering & Technology (SVCET)</b>, Etcherla, was established in 2008 by the Vikas Educational Society (1997) with the objective of accelerating the growth of science and technology in the industrially backward Srikakulam district. The institution aims at providing</p>
                         </div>
                     </div>
                 </div>
