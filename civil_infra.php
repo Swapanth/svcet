@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
+
 <head>
 
     <!-- Basic -->
@@ -51,6 +52,7 @@
     <script src="vendor/modernizr/modernizr.min.js"></script>
 
 </head>
+
 
 <body>
 
@@ -195,5 +197,6 @@
     <script src="js/theme.init.js"></script>
 
 </body>
+
 
 </html>

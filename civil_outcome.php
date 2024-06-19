@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 
+
 <head>
 
     <!-- Basic -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Civil Engineering Vision and Mission</title>
+    <title>Civil Engineering</title>
 
     <meta name="keywords" content="WebSite Template" />
     <meta name="description" content="Porto - Multipurpose Website Template">
@@ -51,6 +52,7 @@
     <script src="vendor/modernizr/modernizr.min.js"></script>
 
 </head>
+
 
 <body>
 
