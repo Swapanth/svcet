@@ -5,23 +5,21 @@
     <!-- Basic -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <title>Civil Engineering Achievements</title>
-
+    <title>Civil Engineering Academic Calendar</title>
     <meta name="keywords" content="WebSite Template" />
     <meta name="description" content="Porto - Multipurpose Website Template">
     <meta name="author" content="okler.net">
-
+    
     <!-- Favicon -->
     <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
     <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
-
+    
     <!-- Mobile Metas -->
-    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit-no">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
+    
     <!-- Web Fonts  -->
     <link id="googleFonts" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800%7CShadows+Into+Light&display=swap" rel="stylesheet" type="text/css">
-
+    
     <!-- Vendor CSS -->
     <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="vendor/fontawesome-free/css/all.min.css">
@@ -30,48 +28,43 @@
     <link rel="stylesheet" href="vendor/owl.carousel/assets/owl.carousel.min.css">
     <link rel="stylesheet" href="vendor/owl.carousel/assets/owl.theme.default.min.css">
     <link rel="stylesheet" href="vendor/magnific-popup/magnific-popup.min.css">
-
+    
     <!-- Theme CSS -->
     <link rel="stylesheet" href="css/theme.css">
     <link rel="stylesheet" href="css/theme-elements.css">
     <link rel="stylesheet" href="css/theme-blog.css">
     <link rel="stylesheet" href="css/theme-shop.css">
-
+    
     <!-- Demo CSS -->
     <link rel="stylesheet" href="css/demos/demo-medical.css">
-
+    
     <!-- Skin CSS -->
     <link id="skinCSS" rel="stylesheet" href="css/skins/skin-medical.css">
-
+    
     <!-- Theme Custom CSS -->
     <link rel="stylesheet" href="css/custom.css">
-
+    
     <!-- Head Libs -->
     <script src="vendor/modernizr/modernizr.min.js"></script>
 </head>
 
 <body>
-
     <div class="body">
         <?php include 'header.php'; ?>
-        <br>
+
         <div role="main" class="main">
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
+            <br><br><br><br><br>
             <section class="page-header page-header-modern page-header-md" style="background-color:#840103; height:6px; margin-bottom:-10px;">
                 <div class="container">
                     <div class="row" style="margin-top:-5px;">
                         <div class="col-md-8 order-2 order-md-1 align-self-center p-static">
-                            <h1>Civil Engineering Achievements</h1>
-                            <span class="sub-title">Latest and Individual Academic Achievements</span>
+                            <h1>Civil Engineering Academic Calendar</h1>
                         </div>
                         <div class="col-md-4 order-1 order-md-2 align-self-center">
                             <ul class="breadcrumb d-block text-md-end breadcrumb-light">
                                 <li><a href="index.php">Home</a></li>
-                                <li class="active">Achievements</li>
+                                <li class="active">Academic Calendar</li>
+                                
                             </ul>
                         </div>
                     </div>
@@ -81,25 +74,14 @@
             <div class="container">
                 <div class="row mt-5 mb-4">
                     <?php include 'civilmenu.php'; ?>
-                    <div class="col all-content">
-                        <div class="main-container">
-                            <div class="header" style="font-size: 30px; color:black; text-align:center">Civil Engineering Achievements</div><br>
-                            
-                            <div class="section-header" style=" font-size: 25px; color:violet; ">Achievements</div><br>
-                            <div><a href="soon.php" style="color:blue;font-size:20px">Click Here For Achievements</a></div><br>
+                    <div class="col">
+                        <h2 class="font-weight-semibold mb-3">Academic Calendar</h2>
+                        <span class="sub-title" style="font-size: 27px;"><a href="soon.php">Click Here For Latest Academic Calendar</a></span><br><br>
 
-                            <div class="achievement-item">
-                                <a >Faculty published 12 research papers in various journals and presented in various conferences during the academic years from 2014-2017.</a>
-                            </div>
-                            
-                            <div class="section-header">Individual Academic Achievements</div>
-                            <div class="achievement-item">
-                                <strong>1) In III/II (3rd Year 2nd Sem) K DILESHWARA RAO (15MT5A0109) Achieves 82.78%</strong>
-                            </div>
-                            <div class="achievement-item">
-                                <strong>2) In II/II (2nd Year 2nd Sem) CH RAJEE SWARAJ (16MT5A0104) Achieves 84.68%</strong>
-                            </div>
-                        </div>
+                        <ul>
+                            <li><a href="#">AC- B.Tech - 2015 admitted batch</a></li>
+                            <li><a href="#">AC- B.Tech - 2016 admitted batch</a></li>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -110,19 +92,19 @@
 
     <!-- Vendor -->
     <script src="vendor/plugins/js/plugins.min.js"></script>
-
+    
     <!-- Theme Base, Components and Settings -->
     <script src="js/theme.js"></script>
-
+    
     <!-- Current Page Vendor and Views -->
     <script src="js/views/view.contact.js"></script>
-
+    
     <!-- Demo -->
     <script src="js/demos/demo-medical.js"></script>
-
+    
     <!-- Theme Custom -->
     <script src="js/custom.js"></script>
-
+    
     <!-- Theme Initialization Files -->
     <script src="js/theme.init.js"></script>
 </body>
