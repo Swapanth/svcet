@@ -1,197 +1,227 @@
-<?php include 'header.php'; ?>
-
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mechanical Engineering Department</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            text-align: justify;
-        }
-        .header {
-            text-align: center;
-            font-weight: 1000;
-            font-size: 32px;
-            margin-bottom: 20px;
-        }
-        .content {
-            font-size: 18px;
-        }
-        .all-content {
-            margin-top: -290px;
-            margin-left: 80px;
-        }
-        .col-md-3 {
-            width: 30%;
-            margin-top: 180px;
-            margin-left: 10px;
-            margin-right: 10px;
-            height: 100%;
-        }
-        .row {
-            display: flex;
-            flex-wrap: wrap;
-        }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-top: 20px;
-        }
-        th, td {
-            border: 1px solid #dddddd;
-            text-align: left;
-            padding: 8px;
-        }
-        th {
-            background-color: #f2f2f2;
-        }
-    </style>
+    <!-- Basic -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Mechanical Engineering</title>
+
+    <meta name="keywords" content="WebSite Template" />
+    <meta name="description" content="Porto - Multipurpose Website Template">
+    <meta name="author" content="okler.net">
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
+
+    <!-- Web Fonts  -->
+    <link id="googleFonts" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800%7CShadows+Into+Light&display=swap" rel="stylesheet" type="text/css">
+
+    <!-- Vendor CSS -->
+    <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="vendor/fontawesome-free/css/all.min.css">
+    <link rel="stylesheet" href="vendor/animate/animate.compat.css">
+    <link rel="stylesheet" href="vendor/simple-line-icons/css/simple-line-icons.min.css">
+    <link rel="stylesheet" href="vendor/owl.carousel/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="vendor/owl.carousel/assets/owl.theme.default.min.css">
+    <link rel="stylesheet" href="vendor/magnific-popup/magnific-popup.min.css">
+
+    <!-- Theme CSS -->
+    <link rel="stylesheet" href="css/theme.css">
+    <link rel="stylesheet" href="css/theme-elements.css">
+    <link rel="stylesheet" href="css/theme-blog.css">
+    <link rel="stylesheet" href="css/theme-shop.css">
+
+    <!-- Demo CSS -->
+    <link rel="stylesheet" href="css/demos/demo-medical.css">
+
+    <!-- Skin CSS -->
+    <link id="skinCSS" rel="stylesheet" href="css/skins/skin-medical.css">
+
+    <!-- Theme Custom CSS -->
+    <link rel="stylesheet" href="css/custom.css">
+
+    <!-- Head Libs -->
+    <script src="vendor/modernizr/modernizr.min.js"></script>
+
 </head>
-<body> 
-    <div class="row">
-        <?php include "mechmenu.php"; ?>
-    </div>  
-    
-    <div role="main" class="main">
-        <div class="container">
-            <div class="all-content">
-                <div class="header">MECHANICAL ENGINEERING - Staff Details</div>
-                
-                <table>
-                    <tr>
-                        <th>S.No</th>
-                        <th>Name of the Staff Member</th>
-                        <th>Contact No & Mail ID</th>
-                        <th>Qualifications with Specialization</th>
-                        <th>Total Teaching Experience (in years)</th>
-                    </tr>
-                    <tr>
-                        <td>1</td>
-                        <td>Dr. M. Govinda Raju</td>
-                        <td>9440220356<br>principal_svcet@yahoo.com</td>
-                        <td>A.M.I.E (I), M.Tech (NITW), Ph.D (AU)<br>Marine engineering</td>
-                        <td>18.5</td>
-                    </tr>
-                    <tr>
-                        <td>2</td>
-                        <td>Mr. B.Gangadhar</td>
-                        <td>9346300593<br>gangadharviit@gmail.com</td>
-                        <td>M.E (CAD/CAM)</td>
-                        <td>13</td>
-                    </tr>
-                    <tr>
-                        <td>3</td>
-                        <td>Dr. N. Mahesh Kumar</td>
-                        <td>7989983686<br>hellomahesh@rediffmail.com</td>
-                        <td>ME, Ph.D (CAD/CAM)</td>
-                        <td>16</td>
-                    </tr>
-                    <tr>
-                        <td>4</td>
-                        <td>K. Eswararao</td>
-                        <td>8686991345<br>eswar334kuna@gmail.com</td>
-                        <td>M.Tech (MACHINE DESIGN)</td>
-                        <td>6</td>
-                    </tr>
-                    <tr>
-                        <td>5</td>
-                        <td>G. Mahendranath</td>
-                        <td>9908840748<br>mahindranath.golive@gmail.com</td>
-                        <td>M.Tech (CAD)</td>
-                        <td>4</td>
-                    </tr>
-                    <tr>
-                        <td>6</td>
-                        <td>K. Srinivasa Rao</td>
-                        <td>9490213430<br>srinukottapalli@gmail.com</td>
-                        <td>M.Tech (MACHINE DESIGN)</td>
-                        <td>8</td>
-                    </tr>
-                    <tr>
-                        <td>7</td>
-                        <td>P. Padmavathi</td>
-                        <td>8985919265<br>padma.vathi89@gmail.com</td>
-                        <td>M.Tech (THERMAL ENGINEERING)</td>
-                        <td>4</td>
-                    </tr>
-                    <tr>
-                        <td>8</td>
-                        <td>S. Yarmaiah</td>
-                        <td>9010977280<br>yermia.mech337@gmail.com</td>
-                        <td>M.Tech (CAD/CAM)</td>
-                        <td>5</td>
-                    </tr>
-                    <tr>
-                        <td>9</td>
-                        <td>L. Mohana Rao</td>
-                        <td>9848388725<br>mohanmechbomma@gmail.com</td>
-                        <td>M.Tech (DESIGN FOR MANUFACTURING)</td>
-                        <td>5</td>
-                    </tr>
-                    <tr>
-                        <td>10</td>
-                        <td>P. Sivaram</td>
-                        <td>8985408640<br>sivaram.potnuru@gmail.com</td>
-                        <td>M.Tech (THERMAL ENGINEERING)</td>
-                        <td>1</td>
-                    </tr>
-                    <tr>
-                        <td>11</td>
-                        <td>V. Ramudu</td>
-                        <td>7981244957<br>v.ramu1990@gmail.com</td>
-                        <td>M.Tech (CAD/CAM)</td>
-                        <td>10</td>
-                    </tr>
-                    <tr>
-                        <td>12</td>
-                        <td>M. Venkateswara Rao</td>
-                        <td>7793938821<br>mvr389@gmail.com</td>
-                        <td>M.Tech (MACHINE DESIGN)</td>
-                        <td>1.6</td>
-                    </tr>
-                    <tr>
-                        <td>13</td>
-                        <td>P. Bharat Kumar</td>
-                        <td>9493761887<br>bharath.potnuru@gmail.com</td>
-                        <td>M.Tech (CAD/CAM)</td>
-                        <td>9</td>
-                    </tr>
-                    <tr>
-                        <td>14</td>
-                        <td>K.S.V. Sai Ramesh</td>
-                        <td>9573730514<br>sairamesh0323@gmail.com</td>
-                        <td>M.Tech (MD)</td>
-                        <td>3</td>
-                    </tr>
-                    <tr>
-                        <td>15</td>
-                        <td>G. Hareesh</td>
-                        <td>8464962205<br>harihappy123@gmail.com</td>
-                        <td>M.Tech (M.D)</td>
-                        <td>3</td>
-                    </tr>
-                    <tr>
-                        <td>16</td>
-                        <td>M. Madhavi</td>
-                        <td>9949610424<br>madhavi.muddada@gmail.com</td>
-                        <td>ME (HEAT TRANSFER)</td>
-                        <td>12</td>
-                    </tr>
-                </table>
+
+<body>
+
+    <div class="body">
+        <?php include 'header.php'; ?>
+
+        <div role="main" class="main">
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <section class="page-header page-header-modern page-header-md" style="background-color:#840103; height:6px; margin-bottom:-10px;">
+                <div class="container">
+                    <div class="row" style="margin-top:-5px;">
+                        <div class="col-md-8 order-2 order-md-1 align-self-center p-static">
+                            <h1>Academics</h1>
+                            <span class="sub-title">Mechanical Engineering</span>
+                        </div>
+                        <div class="col-md-4 order-1 order-md-2 align-self-center">
+                            <ul class="breadcrumb d-block text-md-end breadcrumb-light">
+                                <li><a href="index.php">Home</a></li>
+                                <li class="active">Academics</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <div class="container">
+                <div class="row mt-5 mb-4">
+                    <?php include 'mechmenu.php'; ?>
+                    <div class="col">
+                        <h3 class="font-weight-semibold mb-3">List of Faculty in Mechanical Engineering Department</h3>
+                        <hr>
+                        <table class="table table-hover">
+                            <thead>
+                                <tr>
+                                    <th>Sl. No.</th>
+                                    <th>Name of the Staff Member</th>
+                                    <th>Qualification</th>
+                                    <th>Designation</th>
+                                    <th>Specialization</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>1</td>
+                                    <td>Dr J.Bala Bhaskara Rao</td>
+                                    <td>Ph.D</td>
+                                    <td>Professor & HOD</td>
+                                    <td>Computational Fluid Dynamics</td>
+                                </tr>
+                                <tr>
+                                    <td>2</td>
+                                    <td>K.Prema Kumar</td>
+                                    <td>M.Tech (Ph.D)</td>
+                                    <td>Associate Professor</td>
+                                    <td>Advanced Manufacturing Systems</td>
+                                </tr>
+                                <tr>
+                                    <td>3</td>
+                                    <td>G.Hareesh</td>
+                                    <td>M.Tech (Ph.D)</td>
+                                    <td>Assistant Professor</td>
+                                    <td>Machine Design</td>
+                                </tr>
+                                <tr>
+                                    <td>4</td>
+                                    <td>L.Mohana Rao</td>
+                                    <td>M.Tech (Ph.D)</td>
+                                    <td>Assistant Professor</td>
+                                    <td>Design for Manufacturing</td>
+                                </tr>
+                                <tr>
+                                    <td>5</td>
+                                    <td>A.Surendra</td>
+                                    <td>M.Tech</td>
+                                    <td>Assistant Professor</td>
+                                    <td>Pipe Line Engineering</td>
+                                </tr>
+                                <tr>
+                                    <td>6</td>
+                                    <td>K.Kamalakar</td>
+                                    <td>M.Tech</td>
+                                    <td>Assistant Professor</td>
+                                    <td>Machine Design</td>
+                                </tr>
+                                <tr>
+                                    <td>7</td>
+                                    <td>J.Selva Kumar</td>
+                                    <td>M.Tech</td>
+                                    <td>Assistant Professor</td>
+                                    <td>Manufacturing Technology</td>
+                                </tr>
+                                <tr>
+                                    <td>8</td>
+                                    <td>B.Sudhakara</td>
+                                    <td>M.Tech (Ph.D)</td>
+                                    <td>Assistant Professor</td>
+                                    <td>Thermal Engineering</td>
+                                </tr>
+                                <tr>
+                                    <td>9</td>
+                                    <td>M.Padmavathi</td>
+                                    <td>M.Tech</td>
+                                    <td>Assistant Professor</td>
+                                    <td>Thermal Engineering</td>
+                                </tr>
+                                <tr>
+                                    <td>10</td>
+                                    <td>K.Narendra</td>
+                                    <td>M.Tech</td>
+                                    <td>Assistant Professor</td>
+                                    <td>Machine Design</td>
+                                </tr>
+                                <tr>
+                                    <td>11</td>
+                                    <td>K.Eswara Rao</td>
+                                    <td>M.Tech</td>
+                                    <td>Assistant Professor</td>
+                                    <td>Machine Design</td>
+                                </tr>
+                                <tr>
+                                    <td>12</td>
+                                    <td>B.Krishana Kanth</td>
+                                    <td>M.Tech (Ph.D)</td>
+                                    <td>Assistant Professor</td>
+                                    <td>Machine Design</td>
+                                </tr>
+                                <tr>
+                                    <td>13</td>
+                                    <td>G.Sireesh Kumar</td>
+                                    <td>M.Tech (Ph.D)</td>
+                                    <td>Assistant Professor</td>
+                                    <td>Thermal Engineering</td>
+                                </tr>
+                                <tr>
+                                    <td>14</td>
+                                    <td>P.Barat Kumar</td>
+                                    <td>M.Tech (Ph.D)</td>
+                                    <td>Assistant Professor</td>
+                                    <td>CAD/CAM</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
             </div>
         </div>
-    </div>  
 
-    <?php include 'footer.php'; ?>
+        <?php include 'footer.php'; ?>
+    </div>
+
+    <!-- Vendor -->
+    <script src="vendor/plugins/js/plugins.min.js"></script>
+
+    <!-- Theme Base, Components and Settings -->
+    <script src="js/theme.js"></script>
+
+    <!-- Current Page Vendor and Views -->
+    <script src="js/views/view.contact.js"></script>
+
+    <!-- Demo -->
+    <script src="js/demos/demo-medical.js"></script>
+
+    <!-- Theme Custom -->
+    <script src="js/custom.js"></script>
+
+    <!-- Theme Initialization Files -->
+    <script src="js/theme.init.js"></script>
 
 </body>
+
 </html>
