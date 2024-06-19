@@ -68,9 +68,9 @@
                     <div class="row" style="margin-top:-5px;">
 
                         <div class="col-md-8 order-2 order-md-1 align-self-center p-static">
-                            <h1>Academics</h1>
-                            <span class="sub-title">
-                            Electrical & Electronics Engineering
+                            <h1> Electrical & Electronics Engineering
+                            </h1>
+                            <span class="sub-title"> Academics
                             </span>
                         </div>
                         <div class="col-md-4 order-1 order-md-2 align-self-center">
