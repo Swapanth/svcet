@@ -8,6 +8,10 @@
             <li class="nav-item"><a class="nav-link" href="mech_vision.php">Vision & Mission</a></li>
             <li class="nav-item"><a class="nav-link" href="mech_staff.php">Staff Details</a></li>
             <li class="nav-item"><a class="nav-link" href="mech_infra.php">Infrastructure</a></li>
+            <li class="nav-item"><a class="nav-link" href="mech_outcome.php">Outcome and Objectives</a></li>
+            <li class="nav-item"><a class="nav-link" href="mech_achievement.php">Achievements</a></li>
+
+
         </ul>
 
     </aside>
