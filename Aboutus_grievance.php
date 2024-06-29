@@ -64,16 +64,7 @@
                         <h4 class="mb-4">GRIEVANCES REDDRESSAL</h4>
                         <div class="card bg-color-light-scale-1 mb-4">
                             <div class="card-body">
-                                <form class="contact-form form-style-2" action="#" method="POST">
-                                    <div class="contact-form-success alert alert-success d-none mt-4">
-                                        <strong>Success!</strong> Your message has been sent to us.
-                                    </div>
-
-                                    <div class="contact-form-error alert alert-danger d-none mt-4">
-                                        <strong>Error!</strong> There was an error sending your message.
-                                        <span class="mail-error-message text-1 d-block"></span>
-                                    </div>
-
+                                <form class="contact-form form-style-2" action="form.php" method="POST">
                                     <div class="row mb-3">
                                         <div class="col-lg-6">
                                             <label class="form-label text-2">First Name</label>
