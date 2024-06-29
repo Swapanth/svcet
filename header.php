@@ -219,6 +219,17 @@
 
 													</ul>
 												</li>
+
+												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#">Stakeholder</a>
+													<ul class="dropdown-menu">
+														<li><a href="Stakeholder_student.php">Student</a></li>
+														<li><a href="Stakeholder_teacher.php">Teacher</a></li>
+														<li><a href="Stakeholder_employer.php">Employer</a></li>
+														<li><a href="Stakeholder_alumini.php">Alumini</a></li>
+													</ul>
+												</li>
+
+												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="contact.php">Contact</a></li>
 											</ul>
 										</nav>
 															</nav>
