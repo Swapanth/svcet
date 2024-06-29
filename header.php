@@ -48,7 +48,17 @@
 	<!-- Head Libs -->
 	<script src="vendor/modernizr/modernizr.min.js"></script>
 
+<style>
 
+@media (max-width: 570px)
+{
+.logor {
+  height: auto;
+  width: 100%;
+  padding-left:0px;
+}
+}
+</style>
 
 </head>
 
@@ -57,7 +67,7 @@
 	<div class="body">
 			<header id="header" data-plugin-options="{'stickyEnabled': true, 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': false, 'stickyChangeLogo': false, 'stickyStartAt': 0}">
 				<div class="header-body border-0">
-					<div class="header-top header-top-default border-bottom-0 bg-color-primary">
+					<div class="header-top header-top-default border-bottom-0" style="background-color:#840103;">
 						<div class="container container-xl-custom">
 							<div class="header-row py-2">
 								<div class="header-column justify-content-start">
@@ -92,13 +102,13 @@
 							</div>
 						</div>
 					</div>
-					<div class="header-container container container-xl-custom" style="min-height: 50px;">
+					<div class="header-container container container-xl-custom" style="min-height:100px;">
 						<div class="header-row py-3">
 							<div class="header-column justify-content-start">
 								<div class="header-row">
-									<h1 class="header-logo" style="margin:-50px; padding:-50px;">
+									<h1 class="header-logo logor" style="margin:-50px; padding:-50px;padding-left:100px;">
 										<a href="index.php">
-											<img alt="SVCET" width="400" height="182" src="img/svcet.svg">
+											<img alt="SVCET" width="600" height="90" src="img/svcet_logo.png">
 										</a>
 									</h1>
 								</div>
@@ -106,23 +116,25 @@
 							
 							<div class="header-column justify-content-end w-75">
 								<div class="header-row">
-										<img alt="SVCET" height="50" class="img-fluid ps-3" src="img/iso.png" />
+										<img alt="SVCET" width='300' height="45" class="img-fluid ps-3" src="img/svcet2.png" />
 								</div>
 							</div>
 							
 						</div>
 					</div>
-					<div class="header-nav-bar header-nav-bar-top-border bg-light">
-						<div class="header-container container container-xl-custom">
-							<div class="header-row">
+					
+					<div class="header-nav-bar bg-primary">
+						<div class="container">
+							<div class="header-row p-relative">
 								<div class="header-column">
-									<div class="header-row justify-content-end justify-content-lg-start">
-										<div class="header-nav p-0">
-											<div class="header-nav header-nav-links header-nav-spaced header-nav-first-item-no-padding justify-content-start">
-												<div class="header-nav-main header-nav-main-square header-nav-main-font-lg-upper header-nav-main-dropdown-no-borders header-nav-main-effect-2 header-nav-main-sub-effect-1">
-													<nav class="collapse">
+									<div class="header-row">
+										<div class="header-colum order-2 order-lg-1">
+											<div class="header-row">
+												<div class="header-nav header-nav-stripe header-nav-divisor header-nav-force-light-text justify-content-start">
+													<div class="header-nav-main header-nav-main-square header-nav-main-effect-1 header-nav-main-sub-effect-1">
+														<nav class="collapse">
 											<ul class="nav nav-pills" id="mainNav">
-												<li>
+												<li class="dropdown dropdown-full-color dropdown-light">
 													<a href="index.php">
 														Home
 													</a>
@@ -209,17 +221,17 @@
 												</li>
 											</ul>
 										</nav>
-														</nav>
+															</nav>
+													</div>
+													<button class="btn header-btn-collapse-nav" data-bs-toggle="collapse" data-bs-target=".header-nav-main nav">
+														<i class="fas fa-bars"></i>
+													</button>
 												</div>
-												<button class="btn header-btn-collapse-nav" data-bs-toggle="collapse" data-bs-target=".header-nav-main nav">
-													<i class="fas fa-bars"></i>
-												</button>
 											</div>
 										</div>
 									</div>
 								</div>
 							</div>
 						</div>
-					</div>
-				</div>
+			</div>
 			</header>

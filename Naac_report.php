@@ -57,9 +57,7 @@
     <div class="body">
         <?php include 'header.php'; ?>
 
-        <div role="main" class="main">
-           
-            <section class="page-header page-header-modern bg-color-primary page-header-md">
+        <section class="page-header page-header-modern bg-color-primary page-header-md">
                 <div class="container">
                     <div class="row">
 
@@ -75,7 +73,8 @@
                         </div>
                     </div>
                 </div>
-            </section>
+            </section>           
+            
             <div class="container">
 
                 <div class="row mt-5 mb-4">
