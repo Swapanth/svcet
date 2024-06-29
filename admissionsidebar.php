@@ -7,7 +7,7 @@
 									<li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="admission_procedure.php">Admission Procedure</a></li>
                                     <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="admission_undergraduate.php">UnderGraduate Admissions</a></li>
                                     <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="admission_postgraduate.php">PostGraduate Admissons</a></li>
-                                    <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="soon.php">Fee Structure</a></li>
+                                    <li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="fee.php">Fee Structure</a></li>
 
 								</ul>
 
