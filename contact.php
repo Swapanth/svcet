@@ -6,7 +6,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<title>Admission enquiry</title>	
+		<title>Sri Venkateswara College of Engineering & Technology</title>
 
 		<meta name="keywords" content="WebSite Template" />
 		<meta name="description" content="Porto - Multipurpose Website Template">
@@ -62,12 +62,12 @@
 						<div class="row" style="margin-top:-5px;">
 
 							<div class="col-md-8 order-2 order-md-1 align-self-center p-static">
-								<h1>Admissons</h1>
-								<span class="sub-title">Admission Enquiry</span>
+								<h1>Contact</h1>
+								<!-- <span class="sub-title">About Us</span> -->
 							</div>
 							<div class="col-md-4 order-1 order-md-2 align-self-center">
 								<ul class="breadcrumb d-block text-md-end breadcrumb-light">
-									<li><a href="index.php">Home</a></li>
+									<li><a href="demo-medical.html">Home</a></li>
 									<li class="active">Admissions</li>
 								</ul>
 							</div>
@@ -76,65 +76,65 @@
 				</section>
                  
 				<div class="container">
-
-					<div class="row mt-5 mb-4">
-                    <?php include 'admissionsidebar.php'; ?>
+                <div class="row">					 
 						<div class="col">
-                            
-                            <form action="submit_admission_enquiry.php" method="post" class="shadow-sm p-3 mb-5 bg-white rounded">
-                                <div class="row">
-                                    <div class="form-group col-lg-6">
-                                        <label for="name">Name</label>
-                                        <input type="text" class="form-control" id="name" name="name" required>
+                            <br></br>
+                        <h4 class="mb-4">CONTACT</h4>
+                        <div class="card bg-color-light-scale-1 mb-4">
+                            <div class="card-body">
+                                <form class="contact-form form-style-2" action="https://formspree.io/f/mbjnnzjj" method="POST">
+                                    <div class="contact-form-success alert alert-success d-none mt-4">
+                                        <strong>Success!</strong> Your message has been sent to us.
                                     </div>
-                                    <div class="form-group col-lg-6">
-                                        <label for="mobile">Mobile</label>
-                                        <input type="text" class="form-control" id="mobile" name="mobile" required>
+
+                                    <div class="contact-form-error alert alert-danger d-none mt-4">
+                                        <strong>Error!</strong> There was an error sending your message.
+                                        <span class="mail-error-message text-1 d-block"></span>
                                     </div>
-                                </div>
-                                <div class="row">
-                                    <div class="form-group col-lg-6">
-                                        <label for="email">Email address</label>
-                                        <input type="email" class="form-control" id="email" name="email" required>
+
+                                    <div class="row mb-3">
+                                        <div class="col-lg-6">
+                                            <label class="form-label text-2">First Name</label>
+                                            <input type="text" class="form-control text-3 h-auto py-2" name="fname" required>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <label class="form-label text-2">Last Name</label>
+                                            <input type="text" class="form-control text-3 h-auto py-2" name="lname" required>
+                                        </div>
                                     </div>
-                                    <div class="form-group col-lg-6">
-                                        <label for="course">Course</label>
-                                        <select class="form-control" id="course" name="course" required>
-                                            <option value="btech">BTech</option>
-                                            <option value="mtech">MTech</option>
-                                            <option value="mba">MBA</option>
-                                        </select>
+                                    <div class="row mb-3">
+                                        <div class="col-lg-6">
+                                            <label class="form-label text-2">Email Address</label>
+                                            <input type="email" class="form-control text-3 h-auto py-2" name="email" required>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <label class="form-label text-2">Mobile Number</label>
+                                            <input type="tel" class="form-control text-3 h-auto py-2" name="phno" required required pattern="[0-9]{10}">
+                                        </div>
                                     </div>
-                                </div>
-                                <div class="row">
-                                    <div class="form-group col-lg-6">
-                                        <label for="branch">Branch</label>
-                                        <select class="form-control" id="branch" name="branch" required>
-                                            <option value="cse">CSE</option>
-                                            <option value="eee">EEE</option>
-                                            <option value="ece">ECE</option>
-                                            <option value="mech">Mech</option>
-                                            <option value="civil">Civil</option>
-                                        </select>
+
+                                    <div class="row mb-3">
+                                        <div class="col">
+                                            <label class="form-label text-2">Message</label>
+                                            <textarea class="form-control text-3 h-auto py-2" name="msg" rows="8" required></textarea>
+                                        </div>
                                     </div>
-                                    <div class="form-group col-lg-6">
-                                        <label for="address">Address</label>
-                                        <textarea class="form-control" id="address" name="address" rows="3" required></textarea>
+
+                                    <div class="row mb-3">
+                                        <div class="col">
+                                            <button type="submit" name="see" class="btn btn-primary">Submit Form</button>
+                                        </div>
                                     </div>
-                                </div>
-                                <div class="form-group">
-                                    <label for="message">Message</label>
-                                    <textarea class="form-control" id="message" name="message" rows="3" required></textarea>
-                                </div>
-                                <button type="submit" class="btn btn-primary">Submit</button>
-                            </form>
-                        
+                                </form>
+                            </div>
+                        </div>
+
 
 						</div>
 					</div>
 
 				</div>
-
+                </section>      
 			</div>
 
 			<?php include 'footer.php'; ?>

@@ -48,6 +48,12 @@
 
 		<!-- Head Libs -->
 		<script src="vendor/modernizr/modernizr.min.js"></script>
+        <style>
+    .sidebar {
+        margin-top: 50px; 
+    }
+</style>
+
 
 	</head>
 	<body>
@@ -62,12 +68,12 @@
 						<div class="row" style="margin-top:-5px;">
 
 							<div class="col-md-8 order-2 order-md-1 align-self-center p-static">
-								<h1>Our Objectives</h1>
-								<span class="sub-title">About Us</span>
+								<h1>Teacher Feedback</h1>
+								<span class="sub-title">Stakeholder</span>
 							</div>
 							<div class="col-md-4 order-1 order-md-2 align-self-center">
 								<ul class="breadcrumb d-block text-md-end breadcrumb-light">
-									<li><a href="index.php">Home</a></li>
+									<li><a href="demo-medical.html">Home</a></li>
 									<li class="active">Admissions</li>
 								</ul>
 							</div>
@@ -77,21 +83,48 @@
                  
 				<div class="container">
                 <div class="row">
-                <?php include 'aboutus_sidebar.php'; ?>
+                <?php include 'Stakeholder_sidebar.php'; ?>
 
 					 
 						<div class="col">
                             <br></br>
-                        <h4 class="mb-4">OUR OBJECTIVES</h4>
-                        <p class="mb-1">1. To provide the students with quality in Technical Education for making a significant contribution to the social upliftment and progress.</p>
-                        <p class="mb-1">2. Social upliftment through technical education.</p>
-                        <p class="mb-1">3. Enhance personal development, physical discipline, spiritual and moral awareness among the needy classes.</p>
-                        <p class="mb-1">4. Integrated education, industrial and consultancy services and to serve various industries and needy organization.</p>
-                        <p class="mb-1">5. To provide excellent infrastructure facilities and well-qualified teaching faculty that are comparable with the best in the country.</p>
-                        <p class="mb-1">6. To raise itself as a center of excellence in the nation through integrated academic research and industrial consultancy services.</p>
-                        <p class="mb-1">7. To develop a Research and Development Center for advanced studies in the specialized areas of Engineering and Technology.</p>
-                        <p class="mb-1">8. To provide other opportunities which will enhance the personality development, individual discipline, spiritual awakening, moral values and social awareness.</p>
-                        <p class="mb-1">9. To develop a software computer center and offer services to the various industries and organization.</p>
+                        <h4 class="mb-4">TEACHER FEEDBACK</h4>
+						<table class="table">
+                            <thead>
+                                <tr>
+                                <th>Feedback</th>
+                                <th>Analysis</th>
+                                <th>ATR</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                <td><a href="teachers feedback/2022-2023.pdf" target="_blank">2022-23</a></td>
+                                <td><a href="teachers FB analysis/2022-2023.pdf" target="_blank">2022-23</a></td>
+                                <td><a href="teachers FB Action report/2022-2023.pdf" target="_blank">2022-23</a></td>
+                                </tr>
+                                <tr>
+                                <td><a href="teachers feedback/2021-2022.pdf" target="_blank">2021-22</a></td>
+                                <td><a href="teachers FB analysis/2021-2022.pdf" target="_blank">2021-22</a></td>
+                                <td><a href="teachers FB Action report/2021-2022.pdf" target="_blank">2021-22</a></td>
+                                </tr>
+                                <tr>
+                                <td><a href="teachers feedback/2020-2021.pdf" target="_blank">2020-21</a></td>
+                                <td><a href="teachers FB analysis/2020-2021.pdf" target="_blank">2020-21</a></td>
+                                <td><a href="teachers FB Action report/2020-2021.pdf" target="_blank">2020-21</a></td>
+                                </tr>
+                                <tr>
+                                <td><a href="teachers feedback/2019-2020.pdf" target="_blank">2019-20</a></td>
+                                <td><a href="teachers FB analysis/2019-2020.pdf" target="_blank">2019-20</a></td>
+                                <td><a href="teachers FB Action report/2019-2020.pdf" target="_blank">2019-20</a></td>
+                                </tr>
+                                <tr>
+                                <td><a href="teachers feedback/2018-2019.pdf" target="_blank">2018-19</a></td>
+                                <td><a href="teachers FB analysis/2018-2019.pdf" target="_blank">2018-19</a></td>
+                                <td><a href="teachers FB Action report/2018-2019.pdf" target="_blank">2018-19</a></td>
+                                </tr>
+                            </tbody>
+                            </table>
 
 						</div>
 					</div>

@@ -185,6 +185,7 @@
 														<li><a href="soon.php">Professional Bodies</a></li>
 														<li><a href="soon.php">Student Chapters</a></li>
 														<li><a href="soon.php">Events Gallery</a></li>
+														<li><a href="Activities_Skill_Enhancement_Activities.php">Skill Enhancement Activities</a></li>
 													</ul>
 												</li>
 												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#">Facilities</a>
@@ -219,6 +220,17 @@
 
 													</ul>
 												</li>
+
+												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#">Stakeholder</a>
+													<ul class="dropdown-menu">
+														<li><a href="Stakeholder_student.php">Student</a></li>
+														<li><a href="Stakeholder_teacher.php">Teacher</a></li>
+														<li><a href="Stakeholder_employer.php">Employer</a></li>
+														<li><a href="Stakeholder_alumini.php">Alumini</a></li>
+													</ul>
+												</li>
+
+												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="contact.php">Contact</a></li>
 											</ul>
 										</nav>
 															</nav>
