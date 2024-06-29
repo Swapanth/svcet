@@ -2,7 +2,6 @@
 <html lang="en">
 
 <head>
-
     <!-- Basic -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -84,6 +83,54 @@
                 <div class="row mt-5 mb-4">
                     <?php include 'ecemenu.php'; ?>
                     <div class="col">
+        
+                        <div class="post-content ms-0">
+                            <h3 class="font-weight-semibold mb-3">Department Physical Resources</h3>
+                            <p>The Department of Electronics and Communications Engineering (ECE) was established in the year 2008 with the mission to educate students from all over India, including those from rural areas, so that they become enlightened individuals, improving the living standards of their Families, Industry and Society.</p>
+                            <p>ECE shares the mission and vision of the institute in imparting high quality education to the students. The Department has the state-of-the-art facilities for various laboratories, a well equipped seminar hall, Wi-Fi enabled class rooms to support e-Learning, and a department library.</p>
+                            <table class="table table-bordered">
+                                <thead>
+                                    <tr>
+                                        <th>S.NO</th>
+                                        <th>NAME OF THE RESOURCE</th>
+                                        <th>AVAILABILITY</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>1</td>
+                                        <td>Class Rooms</td>
+                                        <td>5</td>
+                                    </tr>
+                                    <tr>
+                                        <td>2</td>
+                                        <td>Laboratories</td>
+                                        <td>6</td>
+                                    </tr>
+                                    <tr>
+                                        <td>3</td>
+                                        <td>Staff Room Cabins</td>
+                                        <td>12</td>
+                                    </tr>
+                                    <tr>
+                                        <td>4</td>
+                                        <td>HOD Room</td>
+                                        <td>1</td>
+                                    </tr>
+                                    <tr>
+                                        <td>5</td>
+                                        <td>Internet Facility</td>
+                                        <td>20 Mbps</td>
+                                    </tr>
+                                    <tr>
+                                        <td>6</td>
+                                        <td>Department Library</td>
+                                        <td>1</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <p>We have well Equipped laboratories such as Electronic Devices & Circuits Lab, Analog Communications Lab, Digital Communication Lab, Electronic Circuit Analysis, PDC Lab, IC Applications Lab, Electronic CAD Lab, Microprocessors & Interfacing Lab, Digital Signal Processing Lab, Microwave Engineering Lab, VLSI Laboratory.</p>
+                        </div>
                         <h3 class="font-weight-semibold mb-3">LABORATORIES:</h3>
                         <div class="row">
                             <div class="col-md-4 col-sm-6 mb-4 lab-item">

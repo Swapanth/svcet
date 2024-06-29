@@ -9,7 +9,7 @@
 								<img alt="Porto Website Template" src="img/Logos/svcet1.svg" style="height:152px;width:200px;">
 							</a>
 							<p class="mt-2 mb-2" style="background-color: #097197; color:white;">Sri Venkateswara College of Engineering & Technology ETCHERLA was established in 2008 by VIKAS EDUCATIONAL SOCIETY(1997) with an avowed objective of accelerating the growth of science and technology in this industrially backward Srikakulam district. The Institution aims at providing state-of-the-art technology to the student community</p>
-							<p class="mb-0"><a href="#" class="btn-flat btn-xs text-color-light"><strong class="text-2">VIEW MORE</strong><i class="fas fa-angle-right p-relative top-1 ps-2"></i></a></p>
+							<p class="mb-0"><a href="#" class="btn-flat btn-xs text-color-light">VIEW MORE<i class="fas fa-angle-right p-relative top-1 ps-2"></i></a></p>
 						</div>
 						<div class="col-md-6">	
 							<h5 class="text-3 mb-3">CONTACT US</h5>

@@ -194,10 +194,10 @@
                 </tr>
                 <tr>
                     <td>10</td>
+                    <td>EEE</td>
                     <td>M.Tech</td>
                     <td>Power Electronics.</td>
                     <td>2012</td>
-                    <td>18</td>
                     <td>18</td>
                     <td>18</td>
                     <td>18</td>

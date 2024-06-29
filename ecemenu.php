@@ -8,7 +8,11 @@
             <li class="nav-item"><a class="nav-link" href="ece_hod.php">HOD Message</a></li>
             <li class="nav-item"><a class="nav-link" href="ece_vision&mision.php">Vision & Mission</a></li>
             <li class="nav-item"><a class="nav-link" href="ece_staff.php">Staff Details</a></li>
+            <li class="nav-item"><a class="nav-link" href="ece_outcome.php">Outcome and Objectives</a></li>
             <li class="nav-item"><a class="nav-link" href="ece_infra.php">Infrastructure</a></li>
+            <li class="nav-item"><a class="nav-link" href="ece_achievements.php">Achievements</a></li>
+            <li class="nav-item"><a class="nav-link" href="ece_activities.php">Activities</a></li>
+
 
         </ul>
 
