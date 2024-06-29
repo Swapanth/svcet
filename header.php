@@ -149,7 +149,7 @@
 														<li><a href="Aboutus_principal.php">Principal</a></li>
 														<li><a href="Aboutus_rules.php">Rules & Regulations</a></li>
 														<li><a href="Aboutus_programmes.php">Programmes Offered</a></li>
-														<li><a href="Aboutus_governing_council.php">Governing Council Board</a></li>
+														<li><a href="Aboutus_governing.php">Governing Council Board</a></li>
 														<li><a href="Aboutus_grievance.php">Grievance Redressal Committee</a></li>
 														<li><a href="Aboutus_antiragging.php">Anti Ragging Committee</a></li>
 														<li><a href="Aboutus_antiragging_squad.php">Anti Ragging Squad</a></li>
