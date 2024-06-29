@@ -96,23 +96,23 @@
 							<tbody>
 								<tr>
 									<td>2022 - 2023</td>
-									<td><a href="#">View</a></td>
+									<td><a href="files/activities/skill_1.pdf">View</a></td>
 								</tr>
 								<tr>
 									<td>2021 - 2022</td>
-									<td><a href="#">View</a></td>
+									<td><a href="files/activities/skill_2.pdf">View</a></td>
 								</tr>
 								<tr>
 									<td>2020 - 2021</td>
-									<td><a href="#">View</a></td>
+									<td><a href="files/activities/skill_3.pdf">View</a></td>
 								</tr>
 								<tr>
 									<td>2019 - 2020</td>
-									<td><a href="#">View</a></td>
+									<td><a href="files/activities/skill_4.pdf">View</a></td>
 								</tr>
 								<tr>
 									<td>2018 - 2019</td>
-									<td><a href="#">View</a></td>
+									<td><a href="files/activities/skill_5.pdf">View</a></td>
 								</tr>
 							</tbody>
 
