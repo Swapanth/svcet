@@ -82,7 +82,7 @@
                         <h4 class="mb-4">CONTACT</h4>
                         <div class="card bg-color-light-scale-1 mb-4">
                             <div class="card-body">
-                                <form class="contact-form form-style-2" action="https://formspree.io/f/mbjnnzjj" method="POST">
+                                <form class="contact-form form-style-2" action="form.php" method="POST">
                                     <div class="contact-form-success alert alert-success d-none mt-4">
                                         <strong>Success!</strong> Your message has been sent to us.
                                     </div>

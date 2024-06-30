@@ -149,7 +149,7 @@
 														<li><a href="Aboutus_principal.php">Principal</a></li>
 														<li><a href="Aboutus_rules.php">Rules & Regulations</a></li>
 														<li><a href="Aboutus_programmes.php">Programmes Offered</a></li>
-														<li><a href="Aboutus_governing_council.php">Governing Council Board</a></li>
+														<li><a href="Aboutus_governing.php">Governing Council Board</a></li>
 														<li><a href="Aboutus_grievance.php">Grievance Redressal Committee</a></li>
 														<li><a href="Aboutus_antiragging.php">Anti Ragging Committee</a></li>
 														<li><a href="Aboutus_antiragging_squad.php">Anti Ragging Squad</a></li>
@@ -173,7 +173,7 @@
 														<li><a href="ece.php">Electronics & Communication Engineering</a></li>
 														<li><a href="eee.php">Electrical & Electronics Engineering</a></li>
 														<li><a href="mech.php">Mechanical Engineering</a></li>
-														<li><a href="soon.php">Basic Science & Humanities</a></li>
+														<li><a href="bsh.php">Basic Science & Humanities</a></li>
 														<li><a href="mba.php">Master Of Business Administration</a></li>
 													</ul>
 												</li>

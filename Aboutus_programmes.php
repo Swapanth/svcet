@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,43 +13,48 @@
             top: 0;
             z-index: 1000;
         }
+
         .main-content {
             padding-top: 100px;
-        } 
-        .table-responsive {
-            max-height: 500px;
-            overflow-y: auto;
-            overflow-x: auto;
-            -webkit-overflow-scrolling: touch;
-            width: calc(85vw - 160px);
-    } 
-    .sidebar {
-            width: 200px; 
-            float: left;
-            position: fixed;
-            height: 100%; 
-            overflow-y: hidden;
         }
-        .content {
-            margin-left: 210px;
-            padding-right: 0px;
-
-        }
-        
     </style>
 </head>
+
 <body>
-<div class="main-content">
-        <section id="examples" class="section section-default">
-            <div class="container">
-             <div class="row">
-             <div class="sidebar">
-                    <?php include 'aboutus_sidebar.php'; ?>
+
+    <div class="body">
+        <?php include 'header.php'; ?>
+
+        <div role="main" class="main">
+
+            <section class="page-header page-header-modern page-header-md" style="background-color:#840103; height:6px; margin-Bottom:-10px;">
+                <div class="container">
+                    <div class="row" style="margin-top:-5px;">
+
+                        <div class="col-md-8 order-2 order-md-1 align-self-center p-static">
+                            <h1>GOVERNING COUNCIL BOARD</h1>
+                            <span class="sub-title">About Us</span>
+                        </div>
+                        <div class="col-md-4 order-1 order-md-2 align-self-center">
+                            <ul class="breadcrumb d-block text-md-end breadcrumb-light">
+                                <li><a href="demo-medical.html">Home</a></li>
+                                <li class="active">Admissions</li>
+                            </ul>
+                        </div>
+                    </div>
                 </div>
-                <div class="col content">
-            <h4 class="mb-4">GOVERNING COUNCIL BOARD</h4>
-            <div class="table-responsive">
-            <table class="table table-hover">
+            </section>
+
+            <div class="container">
+                <div class="row">
+                    <?php include 'aboutus_sidebar.php'; ?>
+
+
+
+                    <div class="col">
+                        <div class="card-body">
+                        <div class="table-responsive">
+                        <table class="table table-hover">
                             <thead>
                                 <tr>
                     <th>#</th>
@@ -222,13 +228,35 @@
                 </tr>
                             </tbody>
                         </table>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            </section>
         </div>
-        </div>
-        </div>
-        </div>
-        </section>
+
+        <?php include 'footer.php'; ?>
     </div>
 
-    <?php include 'footer.php'; ?>
+    <!-- Vendor -->
+    <script src="vendor/plugins/js/plugins.min.js"></script>
+
+    <!-- Theme Base, Components and Settings -->
+    <script src="js/theme.js"></script>
+
+    <!-- Current Page Vendor and Views -->
+    <script src="js/views/view.contact.js"></script>
+
+    <!-- Demo -->
+    <script src="js/demos/demo-medical.js"></script>
+
+    <!-- Theme Custom -->
+    <script src="js/custom.js"></script>
+
+    <!-- Theme Initialization Files -->
+    <script src="js/theme.init.js"></script>
+
 </body>
+
 </html>
