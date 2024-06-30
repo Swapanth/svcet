@@ -162,7 +162,7 @@
 														<li><a href="admission_procedure.php">Admission Procedure</a></li>
 														<li><a href="admission_undergraduate.php">Undergraduate Admissions</a></li>
 														<li><a href="admission_postgraduate.php">Postgraduate Admissions</a></li>
-														<li><a href=" ">Fee Structure</a></li>
+														<li><a href="fee.php">Fee Structure</a></li>
 													</ul>
 												</li>
 												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#">Academics</a>
