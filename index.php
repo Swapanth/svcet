@@ -75,7 +75,7 @@
 
                     <p class="mb-4" style="text-align: left;">
 
-                        state-of-the-art technology to the student community to broaden their horizon for a better and more prospective tomorrow, in their own interest and in the interest of society at large.</a>
+                        State-of-the-art technology to the student community to broaden their horizon for a better and more prospective tomorrow, in their own interest and in the interest of society at large.The college offers a range of undergraduate and postgraduate programs in various branches of engineering and technology. Each program is carefully designed to meet industry standards and demands, ensuring that graduates are well-prepared for their professional careers. The faculty at SVCET comprises experienced and dedicated educators who are committed to nurturing the intellectual and personal growth of students.</a>
                         <a href=" " class="read-more">read more <i class="fas fa-chevron-right text-1 ms-1"></i></a>
 
                     </p>
