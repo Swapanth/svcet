@@ -173,7 +173,7 @@
 														<li><a href="ece.php">Electronics & Communication Engineering</a></li>
 														<li><a href="eee.php">Electrical & Electronics Engineering</a></li>
 														<li><a href="mech.php">Mechanical Engineering</a></li>
-														<li><a href="soon.php">Basic Science & Humanities</a></li>
+														<li><a href="bsh.php">Basic Science & Humanities</a></li>
 														<li><a href="mba.php">Master Of Business Administration</a></li>
 													</ul>
 												</li>

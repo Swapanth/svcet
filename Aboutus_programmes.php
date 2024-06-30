@@ -39,7 +39,7 @@
 </head>
 <body>
 <div class="main-content">
-        <section id="examples" class="section section-default">
+        <section >
             <div class="container">
              <div class="row">
              <div class="sidebar">
