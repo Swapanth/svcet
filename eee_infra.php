@@ -2,12 +2,11 @@
 <html lang="en">
 
 <head>
-
     <!-- Basic -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>EEE</title>
+    <title>Electrical and Electronics Engineering - Department Infrastructure</title>
 
     <meta name="keywords" content="WebSite Template" />
     <meta name="description" content="Porto - Multipurpose Website Template">
@@ -59,20 +58,20 @@
 
         <div role="main" class="main">
            
-            <section class="page-header page-header-modern page-header-md" style="background-color:#840103; height:6px; margin-Bottom:-10px;">
+            <section class="page-header page-header-modern page-header-md" style="background-color:#840103; height:6px; margin-bottom:-10px;">
                 <div class="container">
                     <div class="row" style="margin-top:-5px;">
 
                         <div class="col-md-8 order-2 order-md-1 align-self-center p-static">
-                            <h1> Electrical & Electronics Engineering
-                            </h1>
-                            <span class="sub-title"> Academics
+                            <h1>Electrical and Electronics Engineering - Department Infrastructure</h1>
+                            <span class="sub-title">
+                                Physical Resources
                             </span>
                         </div>
                         <div class="col-md-4 order-1 order-md-2 align-self-center">
                             <ul class="breadcrumb d-block text-md-end breadcrumb-light">
                                 <li><a href="index.php">Home</a></li>
-                                <li class="active">vision & mision</li>
+                                <li class="active">Infrastructure</li>
                             </ul>
                         </div>
                     </div>
@@ -80,40 +79,35 @@
             </section>
 
             <div class="container">
+
                 <div class="row mt-5 mb-4">
-                    <?php include 'eee_menu.php'; ?>
+                <?php include 'eee_menu.php'; ?>
 
                     <div class="col">
-                        <div class="blog-posts single-post">
-                            <article class="post post-large blog-single-post border-0 m-0 p-0">
+                        <h3 class="font-weight-semibold mb-3">Department Physical Resources</h3>
+                        <ul>
+                            <li>Class Rooms: 7</li>
+                            <li>Laboratories: 7</li>
+                            <li>Staff Rooms (Cabins): 12</li>
+                            <li>HOD Room: 1</li>
+                            <li>Computing Facility in Labs: 60 Systems</li>
+                            <li>Internet Facility: 20 Mbps</li>
+                            <li>Department Library: 1</li>
+                            <li>UPS - 20 KVA: 2</li>
+                            <li>LCD Projectors, OHPs, Printers: 1 each</li>
+                        </ul>
 
+                        <h3 class="font-weight-semibold mb-3">Department Library Details</h3>
+                        <ul>
+                            <li>Books (National): 194</li>
+                            <li>Journals (International): 0</li>
+                            <li>CDs, VCDs, Multimedia: 0</li>
+                            <li>Any other: 4 items</li>
+                        </ul>
 
-                                <div class="post-content ms-0">
-                                    <h3 class="font-weight-semibold mb-3">Vision</h2>
-                                        <p>To evolve into a globally recognized department in the frontier areas of Electrical & Electronics Engineering (EEE) by producing innovative, creative and ethical Electrical & Electronics Engineers with research focus to meet socio-economic needs.</p>
-                                </div>
-                                <div class="post-content ms-0">
-                                    <h3 class="font-weight-semibold mb-3">Mission</h2>
-                                        <div class="container">
-                                            <h5>DM1:</h5>
-                                            <p>Imparting quality education with professional ethics to Electrical & Electronics Engineering students to overcome challenges in professional career.</p>
-
-                                        </div>
-                                        <div class="container">
-                                            <h5>DM2:</h5>
-                                            <p>•	Aimed to produce graduates having professional excellence .</p>
-                                        </div>
-                                        <div class="container">
-                                            <h5>DM3:</h5>
-                                            <p>provide technical support to budding entrepreneurs and existing Industries.</p>
-                                        </div>
-                                     
-                                      
-                                </div>
-                            </article>
-                        </div>
                     </div>
                 </div>
+
             </div>
 
         </div>
@@ -138,7 +132,6 @@
 
     <!-- Theme Initialization Files -->
     <script src="js/theme.init.js"></script>
-
 </body>
 
 </html>

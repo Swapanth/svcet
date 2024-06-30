@@ -7,6 +7,13 @@
             <li class="nav-item"><a class="nav-link" href="eee_hod_msg.php">HOD Message</a></li>
             <li class="nav-item"><a class="nav-link" href="eee_vision.php">Vision & Mission</a></li>
             <li class="nav-item"><a class="nav-link" href="eee_staff.php">Staff Details</a></li>
+            <li class="nav-item"><a class="nav-link" href="eee_outcome.php">Outcome and Objectives</a></li>
+            <li class="nav-item"><a class="nav-link" href="eee_infra.php">Infrastructure</a></li>
+            <li class="nav-item"><a class="nav-link" href="eee_achievements.php">Achievements</a></li>
+            <li class="nav-item"><a class="nav-link" href="eee_activities.php">Activities</a></li>
+            <li class="nav-item"><a class="nav-link" href="eee_project.php">Projects</a></li>
+
+
         </ul>
 
     </aside>

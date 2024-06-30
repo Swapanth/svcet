@@ -2,12 +2,11 @@
 <html lang="en">
 
 <head>
-
     <!-- Basic -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>EEE</title>
+    <title>Electrical and Electronics Engineering - Activities</title>
 
     <meta name="keywords" content="WebSite Template" />
     <meta name="description" content="Porto - Multipurpose Website Template">
@@ -64,15 +63,15 @@
                     <div class="row" style="margin-top:-5px;">
 
                         <div class="col-md-8 order-2 order-md-1 align-self-center p-static">
-                            <h1> Electrical & Electronics Engineering
-                            </h1>
-                            <span class="sub-title"> Academics
+                            <h1>Electrical and Electronics Engineering - Activities</h1>
+                            <span class="sub-title">
+                            Academics
                             </span>
                         </div>
                         <div class="col-md-4 order-1 order-md-2 align-self-center">
                             <ul class="breadcrumb d-block text-md-end breadcrumb-light">
                                 <li><a href="index.php">Home</a></li>
-                                <li class="active">vision & mision</li>
+                                <li class="active">Activities</li>
                             </ul>
                         </div>
                     </div>
@@ -80,40 +79,21 @@
             </section>
 
             <div class="container">
+
                 <div class="row mt-5 mb-4">
                     <?php include 'eee_menu.php'; ?>
-
                     <div class="col">
-                        <div class="blog-posts single-post">
-                            <article class="post post-large blog-single-post border-0 m-0 p-0">
+                        <h3 class="font-weight-semibold mb-3">Departmental Activities</h3>
+                        <p>1) In 2015, a student society named as SPaCE (Society of Power & Control Engineers) was established. Under this society, various academic activities like seminars, presentations, group discussions, and GATE classes are conducted. Some EEE students from all years are selected as student association society members to regularize society activities.</p>
+                        <p>2) Every year the department conducts technical fests, workshops, guest lectures, seminars, project expos, and actively participates in celebrations of Engineer’s Day, Teacher’s Day, Women’s Day, etc.</p>
 
+                        <h3 class="font-weight-semibold mb-3">Recent Activities (2016-17)</h3>
+                        <p>1) The department actively participated in a Two day national level technical symposium “CONVERGE-2K17” on 27th & 28th February 2017. Various activities like poster presentation, paper presentation, technical quiz, project exposition, just a minute, and cultural participation were organized by the staff and students of the EEE department.</p>
+                        <p>2) A Two day National level Technical Workshop named “INTERNET OF THINGS” was organized by the EEE Department on 27th and 28th January 2017 in collaboration with SMART BRIDGE EDUCATIONAL SERVICES PVT.LTD and in association with Institution of Engineers (INDIA) IEI Student chapter.</p>
 
-                                <div class="post-content ms-0">
-                                    <h3 class="font-weight-semibold mb-3">Vision</h2>
-                                        <p>To evolve into a globally recognized department in the frontier areas of Electrical & Electronics Engineering (EEE) by producing innovative, creative and ethical Electrical & Electronics Engineers with research focus to meet socio-economic needs.</p>
-                                </div>
-                                <div class="post-content ms-0">
-                                    <h3 class="font-weight-semibold mb-3">Mission</h2>
-                                        <div class="container">
-                                            <h5>DM1:</h5>
-                                            <p>Imparting quality education with professional ethics to Electrical & Electronics Engineering students to overcome challenges in professional career.</p>
-
-                                        </div>
-                                        <div class="container">
-                                            <h5>DM2:</h5>
-                                            <p>•	Aimed to produce graduates having professional excellence .</p>
-                                        </div>
-                                        <div class="container">
-                                            <h5>DM3:</h5>
-                                            <p>provide technical support to budding entrepreneurs and existing Industries.</p>
-                                        </div>
-                                     
-                                      
-                                </div>
-                            </article>
-                        </div>
                     </div>
                 </div>
+
             </div>
 
         </div>
@@ -122,16 +102,23 @@
     </div>
 
     <!-- Vendor -->
-    <script src="vendor/plugins/js/plugins.min.js"></script>
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/jquery.appear/jquery.appear.min.js"></script>
+    <script src="vendor/jquery.easing/jquery.easing.min.js"></script>
+    <script src="vendor/jquery.cookie/jquery.cookie.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="vendor/jquery.validation/jquery.validate.min.js"></script>
+    <script src="vendor/jquery.easy-pie-chart/jquery.easypiechart.min.js"></script>
+    <script src="vendor/jquery.gmap/jquery.gmap.min.js"></script>
+    <script src="vendor/lazysizes/lazysizes.min.js"></script>
+    <script src="vendor/isotope/jquery.isotope.min.js"></script>
+    <script src="vendor/owl.carousel/owl.carousel.min.js"></script>
+    <script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+    <script src="vendor/vide/jquery.vide.min.js"></script>
+    <script src="vendor/vivus/vivus.min.js"></script>
 
     <!-- Theme Base, Components and Settings -->
     <script src="js/theme.js"></script>
-
-    <!-- Current Page Vendor and Views -->
-    <script src="js/views/view.contact.js"></script>
-
-    <!-- Demo -->
-    <script src="js/demos/demo-medical.js"></script>
 
     <!-- Theme Custom -->
     <script src="js/custom.js"></script>
