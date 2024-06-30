@@ -6,9 +6,9 @@
 			<li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Activities_NSS.php">Nss</a></li>
 			<li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Activities_IQAC.php">IQAC</a></li>
 			<li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Activities_alumini.php">Alumini</a></li>
-			<li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="soon.php">Professional Bodies</a></li>
-			<li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="soon.php">Student Chapters</a></li>
-			<li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="soon.php">Events Gallery</a></li>
+			<li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Activities_professional.php">Professional Bodies</a></li>
+			<li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Activities_professional.php">Student Chapters</a></li>
+			<li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Activities_professional.php">Events Gallery</a></li>
 			<li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Activities_Skill_Enhancement_Activities.php">Skill Enhancement Activities</a></li>
 		</ul>
 
