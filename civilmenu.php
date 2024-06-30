@@ -9,6 +9,9 @@
             <li class="nav-item"><a class="nav-link" href="civil_hod_message.php">Hod Message</a></li>
             <li class="nav-item"><a class="nav-link" href="civil_infra.php">Infrastructure</a></li>
             <li class="nav-item"><a class="nav-link" href="civil_syllabus_events.php">Syllabus & Events</a></li>
+            <li class="nav-item"><a class="nav-link" href="civil_achievements.php">Achievements</a></li>
+            <li class="nav-item"><a class="nav-link" href="civil_activities.php">Activities</a></li>
+
         </ul>
 
     </aside>
