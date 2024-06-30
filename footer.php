@@ -23,9 +23,9 @@
 								</div>
 								<div class="col-md-6">
 									<ul class="list list-icons list-icons-sm" style="background-color: #097197; color:black;">
-										<li><i class="fas fa-angle-right"></i><a href="sitemap.html" class="link-hover-style-1 ms-1" style=" color:white;"> Sitemap</a></li>
-										<li><i class="fas fa-angle-right"></i><a href="page-faq.html" class="link-hover-style-1 ms-1" style="background-color: #097197; color:white;"> FAQ's</a></li>
-										<li><i class="fas fa-angle-right"></i><a href="contact-us.html" class="link-hover-style-1 ms-1" style="background-color: #097197; color:white;"> Contact Us</a></li>
+										<li><i class="fas fa-angle-right"></i><a href="" class="link-hover-style-1 ms-1" style=" color:white;"> Sitemap</a></li>
+										<li><i class="fas fa-angle-right"></i><a href="" class="link-hover-style-1 ms-1" style="background-color: #097197; color:white;"> FAQ's</a></li>
+										<li><i class="fas fa-angle-right"></i><a href="contact.php" class="link-hover-style-1 ms-1" style="background-color: #097197; color:white;"> Contact Us</a></li>
 									</ul>
 								</div>
 							</div>
