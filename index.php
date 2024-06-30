@@ -383,58 +383,65 @@
 <br>
 <br>
 <div class="container">
-
     <div class="row pt-xl">
-        <div class="col-md-12" style="margin-left: -20px;">
+        <div class="col-md-12" style="margin-left: 20px;">
             <h2 class="mb-none text-color-dark">Our Placement Partners</h2>
             <p class="lead mb-sm" style="margin-top: -20px;">The future belongs to those who believe in the beauty of their dreams.</p>
         </div>
     </div>
     <br>
-
     <div class="row">
         <div class="col-md-12 center">
-            <div class="owl-carousel owl-theme" data-plugin-options="{'items': 6, 'autoplay': true, 'autoplayTimeout': 3000}">
-                <div>
-                    <img class="img-responsive" style="height: 90px; width:120px" src="img/Companies/placementlogo.jpg" alt="">
+            <div id="placement-carousel" class="owl-carousel owl-theme" data-plugin-options="{'items': 6, 'autoplay': true, 'autoplayTimeout': 3000, 'loop': true, 'nav': false, 'dots': true}" style="position: relative; padding-bottom: 30px;">
+                <div style="display: flex; justify-content: center; align-items: center;">
+                    <img class="img-responsive" src="img/Companies/placementlogo.jpg" alt="" style="height: 90px; width: 120px; object-fit: contain;">
                 </div>
-                <div>
-                    <img class="img-responsive" style="height: 90px; width:120px" src="img/Companies/1.jpg" alt="">
+                <div style="display: flex; justify-content: center; align-items: center;">
+                    <img class="img-responsive" src="img/Companies/1.jpg" alt="" style="height: 90px; width: 120px; object-fit: contain;">
                 </div>
-                <div>
-                    <img class="img-responsive" style="height: 90px; width:120px" src="img/Companies/2.jpg" alt="">
+                <div style="display: flex; justify-content: center; align-items: center;">
+                    <img class="img-responsive" src="img/Companies/2.jpg" alt="" style="height: 90px; width: 120px; object-fit: contain;">
                 </div>
-                <div>
-                    <img class="img-responsive" style="height: 90px; width:120px" src="img/Companies/3.jpg" alt="">
+                <div style="display: flex; justify-content: center; align-items: center;">
+                    <img class="img-responsive" src="img/Companies/3.jpg" alt="" style="height: 90px; width: 120px; object-fit: contain;">
                 </div>
-                <div>
-                    <img class="img-responsive" style="height: 90px; width:120px" src="img/Companies/10.jpg" alt="">
+                <div style="display: flex; justify-content: center; align-items: center;">
+                    <img class="img-responsive" src="img/Companies/10.jpg" alt="" style="height: 90px; width: 120px; object-fit: contain;">
                 </div>
-                <div>
-                    <img class="img-responsive" style="height: 90px; width:120px" src="img/Companies/13.jpg" alt="">
+                <div style="display: flex; justify-content: center; align-items: center;">
+                    <img class="img-responsive" src="img/Companies/13.jpg" alt="" style="height: 90px; width: 120px; object-fit: contain;">
                 </div>
-                <div>
-                    <img class="img-responsive" style="height: 90px; width:120px" src="img/Companies/14.png" alt="">
+                <div style="display: flex; justify-content: center; align-items: center;">
+                    <img class="img-responsive" src="img/Companies/14.png" alt="" style="height: 90px; width: 120px; object-fit: contain;">
                 </div>
-
-                <div>
-                    <img class="img-responsive" style="height: 90px; width:120px" src="img/Companies/15.jpg" alt="">
+                <div style="display: flex; justify-content: center; align-items: center;">
+                    <img class="img-responsive" src="img/Companies/15.jpg" alt="" style="height: 90px; width: 120px; object-fit: contain;">
                 </div>
-                <div>
-                    <img class="img-responsive" style="height: 90px; width:120px" src="img/Companies/16.jpg" alt="">
+                <div style="display: flex; justify-content: center; align-items: center;">
+                    <img class="img-responsive" src="img/Companies/16.jpg" alt="" style="height: 90px; width: 120px; object-fit: contain;">
                 </div>
-                <div>
-                    <img class="img-responsive" style="height: 90px; width:120px" src="img/Companies/18.jpg" alt="">
+                <div style="display: flex; justify-content: center; align-items: center;">
+                    <img class="img-responsive" src="img/Companies/18.jpg" alt="" style="height: 90px; width: 120px; object-fit: contain;">
                 </div>
-
-                <div>
-                    <img class="img-responsive" style="height: 90px; width:120px" src="img/Companies/27.png" alt="">
+                <div style="display: flex; justify-content: center; align-items: center;">
+                    <img class="img-responsive" src="img/Companies/27.png" alt="" style="height: 90px; width: 120px; object-fit: contain;">
                 </div>
-
             </div>
         </div>
     </div>
 </div>
+
+<style>
+    #placement-carousel .owl-dots {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        text-align: center;
+    }
+</style>
+
+
 
 <br>
 <br>
