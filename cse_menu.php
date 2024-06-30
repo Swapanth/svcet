@@ -7,6 +7,11 @@
             <li class="nav-item"><a class="nav-link" href="cse_hod_message.php">HOD Message</a></li>
             <li class="nav-item"><a class="nav-link" href="cse_vision.php">Vision & Mission</a></li>
             <li class="nav-item"><a class="nav-link" href="cse_staff.php">Staff Details</a></li>
+            <li class="nav-item"><a class="nav-link" href="cse_infra.php">Infrastructure</a></li>
+            <li class="nav-item"><a class="nav-link" href="cse_activities.php">Activities</a></li>
+            <li class="nav-item"><a class="nav-link" href="cse_achievements.php">Achievements</a></li>
+            <li class="nav-item"><a class="nav-link" href="cse_outcome.php">Outcome and Objectives</a></li>
+
         </ul>
 
     </aside>
