@@ -70,7 +70,7 @@
                         <div class="col-md-4 order-1 order-md-2 align-self-center">
                             <ul class="breadcrumb d-block text-md-end breadcrumb-light">
                                 <li><a href="index.php">Home</a></li>
-                                <li class="active">Admissions</li>
+                                <li class="active">Mech</li>
                             </ul>
                         </div>
                     </div>

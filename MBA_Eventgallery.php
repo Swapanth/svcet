@@ -82,7 +82,7 @@
             <div class="container">
 
                 <div class="row mt-5 mb-4">
-                    <?php include 'ecemenu.php'; ?>
+                    <?php include 'MBA_menu.php'; ?>
                     <div class="col">
                         <h3 class="font-weight-semibold mb-3">Gallery</h3>
                         <div class="row">
