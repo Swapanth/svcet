@@ -78,7 +78,7 @@
                         <div class="col">
                         <h2 class="font-weight mb-23" style="text-align: center; font-size:38px">Basic Science And Humanities</h2>
                         <h1 style="text-align: left; font-size:28px;">BS&H Syllabus</h1>
-                        <a href="soon.php" style="font-size:20px;">Click Here For Syllabus</a>
+                        <a href=" " style="font-size:20px;">Click Here For Syllabus</a>
                     
                     </div>
                     </div>

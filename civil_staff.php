@@ -82,7 +82,7 @@
                             <h2 class="header" >Civil Engineering Department </><h2> 
                             <h1 class="section-header">Staff Details:</h1>
                             <div class="resource-item">
-                                <a href="soon.php" class="btn btn-primary">Click Here For Faculty Profile</a>
+                                <a href=" " class="btn btn-primary">Click Here For Faculty Profile</a>
                             </div>
                         </div>
                     </div>

@@ -77,7 +77,7 @@
                     <?php include 'civilmenu.php'; ?>
                     <div class="col">
                         <h2 class="font-weight-semibold mb-3">Academic Calendar</h2>
-                        <span class="sub-title" style="font-size: 27px;"><a href="soon.php">Click Here For Latest Academic Calendar</a></span><br><br>
+                        <span class="sub-title" style="font-size: 27px;"><a href=" ">Click Here For Latest Academic Calendar</a></span><br><br>
 
                         <ul>
                             <li><a href="#">AC- B.Tech - 2015 admitted batch</a></li>

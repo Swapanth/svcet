@@ -76,7 +76,7 @@
                     <p class="mb-4" style="text-align: left;">
 
                         state-of-the-art technology to the student community to broaden their horizon for a better and more prospective tomorrow, in their own interest and in the interest of society at large.</a>
-                        <a href="soon.php" class="read-more">read more <i class="fas fa-chevron-right text-1 ms-1"></i></a>
+                        <a href=" " class="read-more">read more <i class="fas fa-chevron-right text-1 ms-1"></i></a>
 
                     </p>
 
@@ -94,9 +94,9 @@
                                     <span class="day">16</span>
                                     <span class="month">Nov</span>
                                 </div>
-                                <h4><a href="soon.php" class="text-decoration-none">Professional Development through Innovative Thinking</a></h4>
+                                <h4><a href=" " class="text-decoration-none">Professional Development through Innovative Thinking</a></h4>
                                 <p class="mb-0" style="text-align: left;">Aware the importance of creative thinking apply learning for innovation and value creation to build confidence to be an Entrepreneur
-                                    <a href="soon.php" class="read-more font-weight-bold text-2">read more <i class="fas fa-chevron-right text-1 ms-1"></i></a>
+                                    <a href=" " class="read-more font-weight-bold text-2">read more <i class="fas fa-chevron-right text-1 ms-1"></i></a>
                                 </p>
                             </article>
                         </div>
@@ -108,9 +108,9 @@
                                     <span class="day">26</span>
                                     <span class="month">Nov</span>
                                 </div>
-                                <h4><a href="soon.php" class="text-decoration-none">SVCET NSS event on behalf of constitution day on 26th Nov</a></h4>
+                                <h4><a href=" " class="text-decoration-none">SVCET NSS event on behalf of constitution day on 26th Nov</a></h4>
                                 <p class="mb-0" style="text-align: left;">SVCET NSS unit  conducted the rally in our engineering campus on the event of constitution day on 26th Nov of every year
-                                    <a href="soon.php" class="read-more font-weight-bold text-2">read more <i class="fas fa-chevron-right text-1 ms-1"></i></a>
+                                    <a href=" " class="read-more font-weight-bold text-2">read more <i class="fas fa-chevron-right text-1 ms-1"></i></a>
                                 </p>
                             </article>
                         </div>

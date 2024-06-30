@@ -162,7 +162,7 @@
 														<li><a href="admission_procedure.php">Admission Procedure</a></li>
 														<li><a href="admission_undergraduate.php">Undergraduate Admissions</a></li>
 														<li><a href="admission_postgraduate.php">Postgraduate Admissions</a></li>
-														<li><a href="soon.php">Fee Structure</a></li>
+														<li><a href=" ">Fee Structure</a></li>
 													</ul>
 												</li>
 												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#">Academics</a>
@@ -182,9 +182,9 @@
 														<li><a href="Activities_NSS.php">NSS</a></li>
 														<li><a href="Activities_IQAC.php">IQAC</a></li>
 														<li><a href="Activities_alumini.php">Alumni</a></li>
-														<li><a href="soon.php">Professional Bodies</a></li>
-														<li><a href="soon.php">Student Chapters</a></li>
-														<li><a href="soon.php">Events Gallery</a></li>
+														<li><a href="Activities_professional.php">Professional Bodies</a></li>
+														<li><a href="Activities_professional.php">Student Chapters</a></li>
+														<li><a href="Activities_professional.php">Events Gallery</a></li>
 														<li><a href="Activities_Skill_Enhancement_Activities.php">Skill Enhancement Activities</a></li>
 													</ul>
 												</li>
@@ -205,10 +205,10 @@
 												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#">P & T</a>
 													<ul class="dropdown-menu">
 														<li><a href="placements.php">Placement & Training</a></li>
-														<li><a href="soon.php">Competitive Examinations</a></li>
-														<li><a href="soon.php">Web Portal</a></li>
-														<li><a href="soon.php">Placement & Contact Details</a></li>
-														<li><a href="soon.php">Job Recruiters</a></li>
+														<li><a href="placements_webportal.php">Competitive Examinations</a></li>
+														<li><a href="placements_webportal.php">Web Portal</a></li>
+														<li><a href="placements_webportal.php">Placement & Contact Details</a></li>
+														<li><a href="placements_webportal.php">Job Recruiters</a></li>
 													</ul>
 												</li>
 
@@ -216,7 +216,7 @@
 												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#">NAAC</a>
 													<ul class="dropdown-menu">
 														<li><a href="Naac_report.php">Self Study Report</a></li>
-														<li><a href="soon.php">Data Validation and Verification</a></li>
+														<li><a href="Naac_Datavalidation.php">Data Validation and Verification</a></li>
 
 													</ul>
 												</li>
