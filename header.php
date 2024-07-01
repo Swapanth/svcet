@@ -190,6 +190,8 @@
 												<li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#">Facilities</a>
 													<ul class="dropdown-menu">
 														<li><a href="Facilites_Library.php">Central Library</a></li>
+														<li><a href="Facilites_Rules.php">Library Rules </a></li>
+														<li><a href="Facilites_Staff.php">Library Staff</a></li>
 														<li><a href="Facilites_Hostels.php">Hostel</a></li>
 														<li><a href="Facilites_Transport.php">Transport</a></li>
 														<li><a href="Facilites_ESVCET.php">ESVCET</a></li>
