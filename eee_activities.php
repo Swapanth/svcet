@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
 
+<head>
     <!-- Basic -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Master of Business Administration</title>    
+    <title>Electrical and Electronics Engineering - Activities</title>
 
     <meta name="keywords" content="WebSite Template" />
     <meta name="description" content="Porto - Multipurpose Website Template">
@@ -50,75 +50,46 @@
     <script src="vendor/modernizr/modernizr.min.js"></script>
 
 </head>
+
 <body>
-    
+
     <div class="body">
         <?php include 'header.php'; ?>
 
         <div role="main" class="main">
            
-            <section class="page-header page-header-modern page-header-md" style="background-color:#840103; height:6px; margin-bottom:-10px;">
+            <section class="page-header page-header-modern page-header-md" style="background-color:#840103; height:6px; margin-Bottom:-10px;">
                 <div class="container">
                     <div class="row" style="margin-top:-5px;">
 
                         <div class="col-md-8 order-2 order-md-1 align-self-center p-static">
-                            <h1>Academics</h1>
-                            <span class="sub-title">Master of Business Administration</span>
+                            <h1>Electrical and Electronics Engineering - Activities</h1>
+                            <span class="sub-title">
+                            Academics
+                            </span>
                         </div>
                         <div class="col-md-4 order-1 order-md-2 align-self-center">
                             <ul class="breadcrumb d-block text-md-end breadcrumb-light">
                                 <li><a href="index.php">Home</a></li>
-                                <li class="active">MBA</li>
+                                <li class="active">Activities</li>
                             </ul>
                         </div>
                     </div>
                 </div>
             </section>
-             
+
             <div class="container">
 
                 <div class="row mt-5 mb-4">
-                    <?php include 'MBA_menu.php'; ?>
+                    <?php include 'eee_menu.php'; ?>
                     <div class="col">
-                        
-                        <h2 class="font-weight-semibold mb-3">DEPARTMENT PROFILE</h2>
-                        <p>Sri Venkateswara College of Engineering and Technology was established in the year 2008 with dynamic Department of Master of Business Administration with excellent infrastructure facilities. This department has grit, determined and dedicated faculty members headed by learned and extensive experienced. The key element of success of the department of MBA is the guidance of Principal and unconditional support from Management.</p>
+                        <h3 class="font-weight-semibold mb-3">Departmental Activities</h3>
+                        <p>1) In 2015, a student society named as SPaCE (Society of Power & Control Engineers) was established. Under this society, various academic activities like seminars, presentations, group discussions, and GATE classes are conducted. Some EEE students from all years are selected as student association society members to regularize society activities.</p>
+                        <p>2) Every year the department conducts technical fests, workshops, guest lectures, seminars, project expos, and actively participates in celebrations of Engineer’s Day, Teacher’s Day, Women’s Day, etc.</p>
 
-                        <h3 class="font-weight-semibold mb-3">SPECIALIZATION OFFERED:</h3>
-                        <ul>
-                            <li>HR</li>
-                            <li>Finance</li>
-                        </ul>
-
-                        <h3 class="font-weight-semibold mb-3">KEY RESOURCES:</h3>
-                        <ul>
-                            <li>English Communication Skills lab</li>
-                            <li>Departmental library apart from central library</li>
-                            <li>Committed Faculty</li>
-                            <li>Information Technology lab</li>
-                        </ul>
-
-                        <h3 class="font-weight-semibold mb-3">ADMISSIONS INTAKE:</h3>
-                        <table class="table table-bordered">
-                            <thead>
-                                <tr>
-                                    <th>COURSE</th>
-                                    <th>INTAKE</th>
-                                    <th>CONVENOR</th>
-                                    <th>CATEGORY-B</th>
-                                    <th>EWS</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td>MBA</td>
-                                    <td>120</td>
-                                    <td>84</td>
-                                    <td>36</td>
-                                    <td>12</td>
-                                </tr>
-                            </tbody>
-                        </table>
+                        <h3 class="font-weight-semibold mb-3">Recent Activities (2016-17)</h3>
+                        <p>1) The department actively participated in a Two day national level technical symposium “CONVERGE-2K17” on 27th & 28th February 2017. Various activities like poster presentation, paper presentation, technical quiz, project exposition, just a minute, and cultural participation were organized by the staff and students of the EEE department.</p>
+                        <p>2) A Two day National level Technical Workshop named “INTERNET OF THINGS” was organized by the EEE Department on 27th and 28th January 2017 in collaboration with SMART BRIDGE EDUCATIONAL SERVICES PVT.LTD and in association with Institution of Engineers (INDIA) IEI Student chapter.</p>
 
                     </div>
                 </div>
@@ -131,16 +102,23 @@
     </div>
 
     <!-- Vendor -->
-    <script src="vendor/plugins/js/plugins.min.js"></script>
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/jquery.appear/jquery.appear.min.js"></script>
+    <script src="vendor/jquery.easing/jquery.easing.min.js"></script>
+    <script src="vendor/jquery.cookie/jquery.cookie.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="vendor/jquery.validation/jquery.validate.min.js"></script>
+    <script src="vendor/jquery.easy-pie-chart/jquery.easypiechart.min.js"></script>
+    <script src="vendor/jquery.gmap/jquery.gmap.min.js"></script>
+    <script src="vendor/lazysizes/lazysizes.min.js"></script>
+    <script src="vendor/isotope/jquery.isotope.min.js"></script>
+    <script src="vendor/owl.carousel/owl.carousel.min.js"></script>
+    <script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+    <script src="vendor/vide/jquery.vide.min.js"></script>
+    <script src="vendor/vivus/vivus.min.js"></script>
 
     <!-- Theme Base, Components and Settings -->
     <script src="js/theme.js"></script>
-
-    <!-- Current Page Vendor and Views -->
-    <script src="js/views/view.contact.js"></script>
-
-    <!-- Demo -->
-    <script src="js/demos/demo-medical.js"></script>
 
     <!-- Theme Custom -->
     <script src="js/custom.js"></script>
@@ -149,4 +127,5 @@
     <script src="js/theme.init.js"></script>
 
 </body>
+
 </html>

@@ -4,6 +4,8 @@
 		<h5 class="font-weight-semi-bold">Quick Links</h5>
 		<ul class="nav nav-list flex-column mb-5">
 			<li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Facilites_Library.php">Central Library</a></li>
+			<li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Facilites_Rules.php"> Library Rules </a></li>
+			<li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Facilites_Staff.php"> Library Staff</a></li>
 			<li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Facilites_Hostels.php">Hostel</a></li>
 			<li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Facilites_Transport.php">Transport</a></li>
 			<li class="nav-item"><a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="95" href="Facilites_ESVCET.php">Esvcet</a></li>

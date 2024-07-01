@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
 
+<head>
     <!-- Basic -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Master of Business Administration</title>    
+    <title>Electrical and Electronics Engineering - Department Infrastructure</title>
 
     <meta name="keywords" content="WebSite Template" />
     <meta name="description" content="Porto - Multipurpose Website Template">
@@ -50,8 +50,9 @@
     <script src="vendor/modernizr/modernizr.min.js"></script>
 
 </head>
+
 <body>
-    
+
     <div class="body">
         <?php include 'header.php'; ?>
 
@@ -62,63 +63,47 @@
                     <div class="row" style="margin-top:-5px;">
 
                         <div class="col-md-8 order-2 order-md-1 align-self-center p-static">
-                            <h1>Academics</h1>
-                            <span class="sub-title">Master of Business Administration</span>
+                            <h1>Electrical and Electronics Engineering - Department Infrastructure</h1>
+                            <span class="sub-title">
+                                Physical Resources
+                            </span>
                         </div>
                         <div class="col-md-4 order-1 order-md-2 align-self-center">
                             <ul class="breadcrumb d-block text-md-end breadcrumb-light">
                                 <li><a href="index.php">Home</a></li>
-                                <li class="active">MBA</li>
+                                <li class="active">Infrastructure</li>
                             </ul>
                         </div>
                     </div>
                 </div>
             </section>
-             
+
             <div class="container">
 
                 <div class="row mt-5 mb-4">
-                    <?php include 'MBA_menu.php'; ?>
+                <?php include 'eee_menu.php'; ?>
+
                     <div class="col">
-                        
-                        <h2 class="font-weight-semibold mb-3">DEPARTMENT PROFILE</h2>
-                        <p>Sri Venkateswara College of Engineering and Technology was established in the year 2008 with dynamic Department of Master of Business Administration with excellent infrastructure facilities. This department has grit, determined and dedicated faculty members headed by learned and extensive experienced. The key element of success of the department of MBA is the guidance of Principal and unconditional support from Management.</p>
-
-                        <h3 class="font-weight-semibold mb-3">SPECIALIZATION OFFERED:</h3>
+                        <h3 class="font-weight-semibold mb-3">Department Physical Resources</h3>
                         <ul>
-                            <li>HR</li>
-                            <li>Finance</li>
+                            <li>Class Rooms: 7</li>
+                            <li>Laboratories: 7</li>
+                            <li>Staff Rooms (Cabins): 12</li>
+                            <li>HOD Room: 1</li>
+                            <li>Computing Facility in Labs: 60 Systems</li>
+                            <li>Internet Facility: 20 Mbps</li>
+                            <li>Department Library: 1</li>
+                            <li>UPS - 20 KVA: 2</li>
+                            <li>LCD Projectors, OHPs, Printers: 1 each</li>
                         </ul>
 
-                        <h3 class="font-weight-semibold mb-3">KEY RESOURCES:</h3>
+                        <h3 class="font-weight-semibold mb-3">Department Library Details</h3>
                         <ul>
-                            <li>English Communication Skills lab</li>
-                            <li>Departmental library apart from central library</li>
-                            <li>Committed Faculty</li>
-                            <li>Information Technology lab</li>
+                            <li>Books (National): 194</li>
+                            <li>Journals (International): 0</li>
+                            <li>CDs, VCDs, Multimedia: 0</li>
+                            <li>Any other: 4 items</li>
                         </ul>
-
-                        <h3 class="font-weight-semibold mb-3">ADMISSIONS INTAKE:</h3>
-                        <table class="table table-bordered">
-                            <thead>
-                                <tr>
-                                    <th>COURSE</th>
-                                    <th>INTAKE</th>
-                                    <th>CONVENOR</th>
-                                    <th>CATEGORY-B</th>
-                                    <th>EWS</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td>MBA</td>
-                                    <td>120</td>
-                                    <td>84</td>
-                                    <td>36</td>
-                                    <td>12</td>
-                                </tr>
-                            </tbody>
-                        </table>
 
                     </div>
                 </div>
@@ -147,6 +132,6 @@
 
     <!-- Theme Initialization Files -->
     <script src="js/theme.init.js"></script>
-
 </body>
+
 </html>

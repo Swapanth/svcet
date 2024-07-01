@@ -72,7 +72,7 @@
                         <div class="col-md-4 order-1 order-md-2 align-self-center">
                             <ul class="breadcrumb d-block text-md-end breadcrumb-light">
                                 <li><a href="index.php">Home</a></li>
-                                <li class="active">Admissions</li>
+                                <li class="active">Eventgallery</li>
                             </ul>
                         </div>
                     </div>
@@ -82,7 +82,7 @@
             <div class="container">
 
                 <div class="row mt-5 mb-4">
-                    <?php include 'ecemenu.php'; ?>
+                    <?php include 'MBA_menu.php'; ?>
                     <div class="col">
                         <h3 class="font-weight-semibold mb-3">Gallery</h3>
                         <div class="row">
